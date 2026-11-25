@@ -1,0 +1,1398 @@
+# m05-t04 QT EN CA DE CUELLO
+
+[m05-t04-b001 | IMAGEN 1]
+Objetivos de la quimioterapia
+>Curar
+>Prolongar la expectativa de vida
+Maximizar la respuesta tumoral para mejorar los síntomas de
+la enfermedad y prevenir complicaciones por la progresión de
+la misma
+Mantener o mejorar la calidad de vida (efectos adversos
+tolerables)
+
+[m05-t04-b002 | IMAGEN 2]
+AGENTES CITOTOXICOS
+EFECTOS DE LA QUIMIOTERAPIA
+Basan su toxicidad selectiva en características
+que distinguen las células malignas de las células normales
+EFECTOS ANTINEOPLÁSICOS
+V Muerte Celular
+V Inhibición del crecimiento celular
+V Diferenciación celular
+
+[m05-t04-b003 | IMAGEN 3]
+Mecanismos de platinoides
+¿Cuáles son los sitios de acción de los agentes citotóxicos?
+Formación de uniones inter / intracadenas, impide la sintesis de ONA
++Conexiones de platino
+Taxanos
+Alcaloides de la vinca
+Mecanismo de accion
+intracalunarias
+Inhibtion of Polymerization:
+.G.G adducts: 66%
+.G-A adducts: 31%
+Paclitaxel
+Vincristina
+Tubulin
+NH
+Docetaxel
+Vinblastina
+Vinorelbina
+Inhibition of Depolymerization:
+. taxcids
+INESPECÍFICOS EN
+RELACIÓN CON EL CICLO
+Alquilantes
+Ciclofosfamida
+División celular
+Ifosfamida
+M
+Fármacos con platino
+> G1 Célula fabrica componentes que necesitará
+Carboplatino
+Mitosis
+en etapas posteriores
+Cisplatino
+Hexametilmelamina
+Go
+G2
+Mayor
+Crecimiento
+G2 se fabrican proteínas, organelas
+crecimiento
+celular, preparación
+G1
+se prepara para la Mitosis
+celular
+para la replicación
+de DNA
+Hormonales
+Tamoxifeno
+Replicación
+Acetato de megestrol
+Inhibidores de
+la topoisomerasa
+del DNA
+Antibióticos antitumorales
+Etopósido
+S
+Dactinomicina
+Topotecán
+Doxorrubicina
+Antibióticos antitumorales
+Antimetabolitos
+Doxorrubicina liposómica
+Bleomicina
+Metotrexato
+Síntesis sintetiza una copia completa de ADN en su
+Gemcitabina
+5-fluorouracilo
+núcleo
+
+[m05-t04-b004 | IMAGEN 4]
+Principios de la quimioterapia
+Quimioterapia combinada ¿Por qué ?
+> Las drogas actuan a través de los diferentes mecanismo de acción que dependen de la
+fase del ciclo celular en el que actúan
+v La eficacia es mayor cuando se combinan drogas que cuando se usa una sola droga
+v Para optimizar el efecto antitumoral y disminuir el riesgo de resistencia del tumor al
+tratamiento
+GO la célula cesa de
+dividirse
+S
+Se pueden combinar drogas con diferentes
+duplicación del ADN y
+proteínas asocidas
+G1
+Fase S
+toxicidades limitantes
+la célula duplica su
+GO
+tamaño y aumenta el
+número de organelos
+enzimas y otras
+INTERFASE
+moléculas
+G1
+G2
+inicio del
+ciclo
+Inicio de ciclo
+DIVISIÓN
+G2
+Mitosis
+se empieza a
+preparase para
+la división, los
+cromosomas
+comienzan a
+se separan los dos juegos
+condensarse
+cromosómicos
+
+[m05-t04-b005 | IMAGEN 5]
+Efectos Indeseables de la Quimioterapia
+Alopecia
+Mucositis (Metrotexato-
+Antraciclinas-Docetaxel)
+Fibrosis Pulmonar (Bleomicina)
+CARDIOTOXICIDAD TIPO 1
+CARDIOTOXICIDAD TIPO 2
+CARDIOTOXICIDAD
+Nauseas, Vómitos
+TIROSIN
+DROGA
+DROGA
+Radicales libres
+DROGA
+Diarreas: Capecitabina-5FU
+Cardiotoxicidad (Antraciclinas)
+Cistitis (Ciclofosfamida -
+Altera potencial de la
+Ifosfamida)
+mitocondria
+Reacción Local (Antraciclinas
+No producción ATP
+Esterilidad (Alquilantes )
+hur celular
+Inhibe reparación celular
+Cardiomiopatia
+Muerte celular
+Cardiomiocito
+Ciclofosfamida
+Vinorelbine)
+ANTRACICLINAS
+TRASTUZUMAB
+MATINIB
+Mialgía
+Falla Renal (Cisplatino)
+Capecitabina
+Mielosupresión
+5Fluoruracilo
+Doxorrubicina
+Carboplatino
+liposomal
+Neuropatía
+Flebitis
+(Paclitaxel )
+Extravasación
+Eritrodisestesia palmoplantar o
+Dermapixel
+O
+sindrome mano - pie
+Necrosis de los queratinocitos
+Edema de la dermis panilar
+
+[m05-t04-b006 | IMAGEN 6]
+ESCALA DE PERFORMANCE STATUS
+ECOG
+O ACTIVIDAD NORMAL
+1 SINTOMAS, PERO AMBULATORIO
+2 EN CAMA < DEL 50% DEL TIEMPO
+3 EN CAMA > DEL 50% TIEMPO
+4 EN CAMA 100% DEL TIEMPO
+
+[m05-t04-b007 | NOTA]
+ADYUVANCIA:
+
+[m05-t04-b008 | IMAGEN 7]
+Desde la década de los 80
+(a) Primary tumor growth
+Stromal cells
+(b) Angiogenesis
+00000000
+Intravasation into
+blood vessels
+Anoikis resistance:
+BRMS1
+10
+Cancer cells
+(c) Local invasion
+Invasion:
+NM23, DLCL
+Colonization of distant
+Basement
+membran
+NDRGI, KAI
+10
+parenchyma:
+NM23, KAIT, RHOG
+(e) Survival in circulation
+(d) Intravasation
+0
+and KISS1
+10
+Primary tumour
+10.
+Haematogenous
+dissemination
+Intravasation
+(f) Arrest at secondary sites and extravasation
+into lymph
+vessels
+Nodal metastasis
+RKIP, RHOGDI2
+(g) Angiogenesis and metastatic outgrowth
+Nature Reviews | Cancer
+TRENDS in Genetics
+Micrometástasis
+*Es la quimioterapia que se administra generalmente después de un tratamiento
+principal como es la cirugía, para disminuir la incidencia de diseminación a distancia
+del cáncer
+*Destruir micrometástasis ( no diagnósticadas por la tecnología)
+*Incrementar el porcentaje de curación
+
+[m05-t04-b009 | IMAGEN 8]
+Quimioterapia Adyuvante
+en Cáncer de Cuello
+ESGO/ESTRO/ESP Guidelines for the
+INTHENATION
+GYNECOLOGICAL CANCER
+management of patients with cervical cancer
+- Update 2023*
+BMJ
+David Cibula, 1,2 Maria Rosaria Raspollini,3 Francois Planchamp
+4 Carlos Centeno,5
+`Quimioterapia adyuvante después de CTRT e IGBT
+definitivos no mejora la supervivencia y aumenta
+la toxicidad y no deben utilizarse fuera de los
+ensayos clínicos
+No es un
+Estándar
+
+[m05-t04-b010 | IMAGEN 9]
+Quimioterapia
+Neoadyuvante
+
+[m05-t04-b011 | IMAGEN 10]
+QUIMIOTERAPIA NEOADYUVANTE
+ES LA QUE SE REALIZA PREVIAMENTE AL TRATAMIENTO
+LOCORREGIONAL (QUIRURGICO O RADIANTE)
+DISMINUYE EL TAMAÑO Y EXTENSION DEL COMPROMISO TUMORAL
+DETERMINA LA RESPUESTA A LA QUIMIOTERAPIA EVALUANDO LA SENSIBILIDAD "IN
+VIVO"
+>TIENE EL POTENCIAL DE BAJAR EL ESTADIO DE LOS TUMORES
+ACTUA SOBRE LA OPERABILIDAD DE TRATAMIENTOS ALTERNATIVOS
+
+[m05-t04-b012 | IMAGEN 11]
+>DISMINUYE LA HIPOXIA TUMORAL
+AUMENTA LA EFECTIVIDAD DE LA RADIOTERAPIA
+>DISMINUYE LA PROBABILIDAD DE DESARROLLO
+DE LINEAS RESISTENTES A LAS DROGAS
+>LA MASA TUMORAL DE PRESENTACION ES EL MARCADOR BIOLOGICO DE
+LA CAPACIDAD DE RESPUESTA A LAS DROGAS ANTINEOPLASICAS
+
+[m05-t04-b013 | IMAGEN 12]
+Quimioterapia Neoadyuvante
+V CISPLATINO
+V CISPLATINO
+V CARBOPLATINO
+VBLEOMICINA
+PBV
+V GEMCITABINA
+VVINCRISTINA
+Y PACLITAXEL
+Y BLEOMICINA
+Y PACLITAXEL + CISPLATINO
+V VINCRISTINA
+O CARBOPLATINO
+Estándar
+
+[m05-t04-b014 | IMAGEN 13]
+FIGO Stage 2018a
+Confined to cervix (extension to uterine corpus should be disregarded)
+1A Invasive carcinoma that can be diagnosed only by microscopy, with maximum depth of invasion <5 mm
+1A1
+Measured stromal invasion <3 mm in depth (LVSI +/-)
+1A2
+Measured stromal invasion ≥3 mm and < 5 mm in depth (LVSI +/-)
+1B Invasive carcinoma with deepest invasion ≥ 5 mm (greater than stage 1A); lesion limited to the cervix
+1B1
+Invasive carcinoma ≥5 mm depth of stromal invasion, and <2 cm in greatest dimension
+1B2
+Invasive carcinoma ≥2 cm and <4 cm in greatest dimension
+1B3
+Invasive carcinoma ≥4 cm in greatest dimension
+II
+Invades beyond the uterus, but has not extended onto the lower third of the vagina or to the pelvic wall
+Raging of Cervical Cancer
+IIA Involvement limited to upper two-thirds of vagina without parametrial involvement
+Stage 0
+Stage 1
+Stage
+Exterit
+enfined to Cervix
+Disease beysund
+IIA1 Invasive carcinoma <4 cm in greatest dimension
+of tumer
+in-sit
+pervoi but not to
+pelvic wall or
+lover 1/3 ef vagina
+IIA2 Invasive carcinoma ≥4 cm in greatest dimension
+5-year
+survival
+1001
+Stape at
+IIB With parametrial involvement but not up to pelvic wall
+presentaton
+47%
+undus
+Fallopian
+tube
+Uterine am
+Llerine
+cadty
+aImaging evaluation may now be used in addition to clinical assessment where resources permit
+Uterine
+Corpus
+Cervix
+-2b
+LVSI, lymphovascular space invasion
+ternal 05
+23
+Exdemal 05
+Vagina
+
+[m05-t04-b015 | IMAGEN 14]
+ESGO/ESTRO/ESP Guidelines for the
+GYNECOLOGICAL CANCER
+management of patients with cervical cancer
+-
+-
+- Update 2023*
+David Cibula, 1,2 Maria Rosaria Raspollini,3 Francois Planchamp
+,4 Carlos Centeno, 5
+Management of Locally Advanced Cervical Cancer (T1b3-T4a)
+>NACT en pacientes que de otro modo serían candidatos para recibir
+tratamiento CTRT e IGBT definitivos no se recomienda fuera de
+ensayos clínicos
+>No se debe realizar NACT seguido de cirugía radical fuera de los ensayos
+clínicos
+
+[m05-t04-b016 | IMAGEN 15]
+Rol Actual de la Neoadyuvancia en la
+Preservación de la Fertilidad o Interés
+de Gestar o no Gestar
+en el Cáncer de Cuello
+C
+
+[m05-t04-b017 | IMAGEN 16]
+GYNECOLOGICAL CANCER
+FIGO 2018 stage IB2 (2-4 cm) Cervical cancer
+treated with Neo-adjuvant chemotherapy
+followed by fertility Sparing Surgery
+(CONTESSA); Neo-Adjuvant Chemotherapy and
+Conservative Surgery in Cervical Cancer to
+Investigación en Curso
+Preserve Fertility (NEOCON-F). A PMHC, DGOG,
+GCIG/CCRN and multicenter study
+Marie Plante, ' Nienke van Trommel,?" Stephanie Lheureux,4 Amit M Ozna," Lisa Wang,4
+Karolina Sikorska," Sarah Elizabeth Ferguson,' Kathy Han," Frederic Amant9,10
+v Mujeres premenopausicas (≤40 años) con cáncer de cuello uterino de 2-4 cm (FIGO) en estadio IB2
+(Ex.Clínico -RM)
+v Que deseen preservar la fertilidad
+V Las pacientes con respuesta completa / parcial se someteran a una cirugía para preservar la fertilidad
+V Se hará un seguimiento de las pacientes durante 3 años para controlar los resultados
+v Las pacientes con respuesta subóptima (lesión residual ≥2 cm) recibirán histerectomía radical definitiva y /
+o quimiorradiación
+V Primary endpoints: Cirugía Exitosa para Preservar la Fertilidad y Sin Terapia Adyuvante
+> Se reclutarán 90 pacientes hasta el 2022
+Resultados presentación en el 2025
+CV
+Plante M, et al. Int J Gynecol Cancer 2019;29:969-975
+
+[m05-t04-b018 | IMAGEN 17]
+2024
+INTERLACE
+INTERLACE:
+V El uso de quimioterapia de inducción antes de la
+·UCL
+Dr Mary McCormack, lead
+quimiorradiación (QT-RT) mejoró la SSP (9 % más alta; HR:
+n Chemo ThERapy in Locally
+investigator of the trial from UCL
+Advanced CErvical Cancer
+INTERLACE
+Mary McCormack
+for the NCRI Gynaecological
+Cancer Institute and UCLH
+0,65; P = 0,013) y la SG (8 % más alta; HR: 0,61; P = 0,04)
+Clinical Studies Group
+Chicago, 2012
+en el Cáncer de Cuello Localmente Avanzado a los 5 años,
+Randomize
+con una alta adherencia al protocolo estándar de
+quimiorradiación.
+Carboplatin AUC2 &
+Paclitaxel 80 mg/m2
+Standard CRT
+Mayor toxicidad hematológica fue mayor en el grupo de QT de
+Weeks 1-6
+inducción + QT-RT, no afectó negativamente la administración
+Standard CRT : 40-50.4 Gy in 20-28
+de la RT
+fractions plus intracavitary brachytherapy
+Weeks 7 - 13
+to give total of 78-86 EQD2 dose Gy to point
+Standard
+A/volume.
+CRT
+Weekly cisplatin 40 mg/m2 x 5 weeks
+Y El ensayo muestra que este breve tratamiento de
+quimioterapia adicional administrado inmediatamente
+Follow-up
+3 monthly for 2 years; 6 monthly for 3
+antes de la terapia estándar de QT-RT puede reducir el
+years
+riesgo de recurrencia de Cancer de Cervix o de muerte en
+un 35 %
+Los investigadores concluyeron que la quimioterapia
+de inducción + QT-RT es factible en diversos
+Y Esta es la mayor mejora en los resultados de esta
+entornos de atención médica y debe considerarse un
+enfermedad en más de20 años
+nuevo estándar en el de Cuello Localmente
+Avanzado
+
+[m05-t04-b019 | IMAGEN 18]
+Quimio-radioterapia
+
+[m05-t04-b020 | IMAGEN 19]
+DAÑO EN EL ADN DE LAS CÉLULAS TUMORALES
+Radiación y Cáncer
+CAUSADO POR LA RADIOTERAPIA
+LESIONES RADIOINDUCIDAS EN EL ADN
+Mecanismo indirecto de radioterapia
+- Acción Indirecta
+radiación
+agua
+. radical libre
+Macas Medic SYSTEMS
+DAÑO
+Acción Directa
+La Radiación ionizante daña a las
+DAÑO
+radiación
+Mecanismo directo de radioterapia
+células cancerosas a nivel de ADN
+Radiación
+3' 5'
+V Acción Directa la Radiación ionizante
+Efecto indirecto
+Radiación
+Efecto directo
+rompe directamente el ADN
+. OH
+H2O
+V Acción Indirecta la Radiación ionizante
+interactúa con el agua
+Before RT
+After R
+Draining Lymphnode
+LEGEN
+Activated DC
+Dendritic Cell (DC)
+Macrophage
+dentro de las células formando radicales libres
+S_Endothelial Call
+Regulatory T-cell
+Naive
+je Cytotoxic T-cel (CTL)
+c Naïve CD8+ T-col
+O
+que dañan el ADN
+Cancer Cell
+® Apoptotic Cancer Col
+Cell death .
+NKG2D ligands
+to blood
+.........
+Fas
+VCAM-1
+Calreticulin
+ICAM-1
+Y En estudios actuales tambien se indica que la
+Scavenger receptor
+TUR-4
+TUK-4
+P2X7
+ATP
+Blood Vessel
+HMGB-
+radioterapia estimula el sistema inmunitario.
+Demaria S, et al. Front Oncol. 2012;2:153.
+
+[m05-t04-b021 | IMAGEN 20]
+BIOLOGIA DE LA QUIMIORADIACIÓN
+>La quimiosensibilización mejora
+los efectos de la radioterapia
+TOXICIDAD ESPECIFICA EN EL CICLO CELULAR
+SINCRONIZACIÓN CELULAR EN LA FASE MAS RADIOSENSIBLE DEL
+CICLO CELULAR
+< DISMINUYE LA REPOBLACION CELULAR
+> INHIBE LA REPARACION DE LA RADIACION
+
+[m05-t04-b022 | IMAGEN 21]
+BIOLOGIA DE LA QUIMIORADIACIÓN
+Formación de aductos de ADN-platino
+CISPLATINO
+V
+Inhibe la reparación del daño subletal de la RT
+Alquilantes
+sensibilización celular por hipoxia
+Sugar-phosphate backbone
+· Muy reactivos
+Forman enlaces
+covalentes
+Bifunctional
+alkylating agents
+· Mayor eficacia al final
+can cause
+and cross-linking
+de la fase G1 y S
+5 FURACILO inhibición de la enzima
+TIMIDELATO-SINTETASA que es importante para la síntesis de la timidina
+Finis Terrae
+ser|mejor
+que siendo parte de la molécula de ADN detiene su formación
+Inhiben la reparación del DNA y aumentan la citotoxicidad
+PACLITAXEL
+Detiene a las células en Fase G2-M Radiosensibilidad
+
+[m05-t04-b023 | IMAGEN 22]
+-
+Contents lists available at ScienceDirect
+GYNECOLOGIC
+ONCOLOGY
+Gynecologic Oncology
+ELSEVIER
+journal homepage: www.elsevier.com/locate/ygyno
+Practice changing cervical cancer clinical trials
+Check for
+updates
+Hay nuevos Tratamientos
+Cáncer Avanzado de Cuello
+o la Recurrencia
+
+[m05-t04-b024 | IMAGEN 23]
+Anticuerpo Monoclonal: Anti-VEGF
+Mecanismo de Acción
+· VEGF ligando que se une al
+· AC M. se unen al ligando
+receptor VEGF
+· No activan el receptor
+· Activa receptor
+Bevacizumab
+Cél Endotelial
+P
+P
+Fosforilación
+No Señal
+Sobrevida
+Proliferación
+Migración
+1
+ANGIOGENESIS
+ANGIOGENESIS
+Adapted from Moyer et al. Cancer Res. 1997;57:4838.
+
+[m05-t04-b025 | IMAGEN 24]
+ASCO 2013
+Incorporation of Bevacizumab in the Treatment
+of Recurrent and Metastatic Cervical Cancer
+GOG 240: A Phase III Randomized Trial of the
+El HPV tiene consecuencias sobre la
+Gynecologic Oncology Group
+Oxigenación
+Abstract 3
+VEGF Targeting Strategies
+y la Angiogenesis en el Cáncer de Cuello
+Tewari KS, Sill MW, Long HJ 3rd, Penson RT, Ramondetta LM,
+Antibodies to
+VEGFRE
+Bevacizumab
+Soluble VEGF
+Landrum LM, Oaknin A, Reid TJ, Leitao MM, Michael HE, Monk BJ
+flibercept
+VECE
+VEGER
+DNA Damage
+ASCO
+VEGFR tyrosine
+HPV E6 blocks induction
+GOG
+kinase inhibitors
+Increased
+Gynecologic Oncology Group
+E6
+p53
+VEGF
+Ribozymes
+Migration, permeability, DNA synthesis, survival
+p53
+degradation
+Nueva Estrategia
+Cell cycle
+Apoptosis
+Angiogenesis
+arrest
+cell death)
+de
+Adenocarcinoma
+Tratamiento
+25% (85-90% HPV+|
+DNA Repair
+Monk BJ et al Gynecol Oncol. 2010 Feb; 116(2):181-6.
+Squamous cell carcinoma
+75% [>99% HPV-|
+Quimioterapia +
+Antiangiogenico
+SG mediana en el estudio
+GOG 240 de platino, paclitaxel y bevacizumab: 17,5 meses
+
+[m05-t04-b026 | IMAGEN 25]
+Bevacizumab
+Anti-VEGF
+GOG 240.1: Schema
+PFS
+Overall Response Rate (ORR)
+No Bev
+Bevacizumab
+Cisplatin plus Topotecan
+1.0-
+Cisplatin
+Tapotecan plus Total
+Monoclonal ansbody
+(n=225)
+(n=227
+plus paditaxel paclitaxel plus plus padlitaxel paclitaxel plus (n=452)
+(n=114)
+bevacizumab (n=111)
+bevacizumab
+Paclitaxel 135 or 175 mg/m2 IV
+Events, n (%)
+206 (92)
+199(88
+(n=115)
+(n=112)
+Cisplatin 60 mg/m2 IV
+08-
+Median PFS, months
+6.0
+8-2
+Complete response
+11(10%)
+18(16%)
+6 15%
+13 (12%)
+48 (11%)
+HR=0-68 (95% CI, 0-56-0-84)
+Partial response
+41(36%)
+40 (35%)
+22 /20%)
+41137%
+144 (32%)
+Carcinoma of the cervix
+Paclitaxel 135 or 175 mg/m2 IV
+Chemo alone
+06-
+P= 0002
+Stable disease
+45139%
+42 (37%
+54 (49%)
+43(38%
+184 (41%)
+· Primary stage IVB
+· Recurrent/persistent
+Cisplatin 50 mg/m2 IV
+RR, %
+36
+49
+Progressive disease
+12 (11%)
+7(5%)
+21(19%)
+6 (5%)
+46 (10%)
+· Measureable disease
+0-4-
+P= 0032
+Indeterminate
+5(4%)
+8(7%)
+8 (7%)
+9 (8%)
+0 (7%)
+· GOG PS 0-1
+Bevacizumab 15 mg/kg IV
+q 21 d Rx to PD,
+. No prior chemotherapy
+PFS: progression-free survival
+Data are n (%)
+for recurrence
+Paclitaxel 175 mg/m2 IV
+toxicity, CR
+RR: response rate
+III
+0-2-
+HR: hazard ratio
+(N = 452)
+Cl: confidence interval
+Proportion( Progression-Free
+Topotecan 0.75 mg/m2 d1-3
+Bev: bevacizumab
+ITT ORR
+Stratification factors:
+49% chemotherapy plus bevacizumab group
+· Stage IVB vs recurrent/
+1:1:1:1
+Paclitaxel 175 mg/m2 IV
+Chemo + bevacizumab
+0-0
+0
+12
+24
+36
+48
+60
+persistent disease
+· Performance status
+IV
+Topotecan 0.75 mg/m2 d1-3
+MonthsloniStudy
+VS
+36% chemotherapy-alone group
+Prior cisplatin Rx as radiation-sensitizer
+Bevacizumab 15 mg/kg IV
+ev 227
+0
+No Bev 225
+13
+P = . 003
+2
+Activated: 4/6/09
+United States,
+Closed to accrual: 1/3/12
+Canada & Spain
+4 meses de mejoría clínica significativa en la Sobrevida Total
+Incrementa la Sobrevida Libre a la Progresión
+Efectos Adversos Específicos
+Beneficio incluso en la pelvis irradiadaTewari KS, et al. Lancet. 2017;390(10103): 1654-1663.
+Adverse Event, n (%)
+Chemo Alone
+Chemo + Bev
+(n = 219)
+(n = 220)
+National Institutes of Health. http://clinicaltrials.gov/ct2/show/NCT00803062. Accessed 15 January 2018.
+Treatment cycles, median (range)
+6 (0-30)
+7 (0-36)
+Grade 5 AE(s)
+4 (1.8)
+4 (1.8)
+Gl events, nonfistula (grade ≥2)
+96 (44)
+114 (52)
+GI fistula (grade ≥3)
+0 (0)
+7 (3)
+· Bevacizumab se asocia con efectos adversos 3-8%
+GI perforation (grade ≥3)
+0 (0)
+5 (2)
+GU fistula (grade ≥3)*
+1 (0)
+6 (2)
+Hypertension (grade ≥2)*
+4 (2)
+· Bevacizumab + Quimioterapia mejoró significativamente la
+54 (25)
+Proteinuria (grade ≥3)
+0 (0)
+4 (2)
+ST en el Estadio IVB del Cancer cervical recurrente o persistente
+Pain (grade ≥2)
+62 (28
+71 (32)
+Neutropenia (grade ≥4)^
+57 (26
+78 (35
+. La mejoría de la Sobrevida Total con Bevacizumab no se
+Febrile neutropenia (grade ≥3)
+12 (5)
+12 (5)
+Thromboembolism (grade ≥3)'
+3 (1)
+18 (8)
+acompaño con disminución de la Calidad de Vida
+Bleeding CNS (any grade)
+0 (0)
+0 (0)
+GI (grade ≥3)
+1 (0)
+4 (1)
+> Es el ler agente target que mejora la Sobrevida Total en el
+GU (grade ≥3)
+1 (0)
+6 (3)
+P <. 05
+Cáncer Ginecológico
+CNS, central nervous system; Gl, gastrointestinal; GU, genitourinary
+CV
+Tewari KS, et al. J Clin Oncol. 2013;31(Suppl): Abstract 3
+
+[m05-t04-b027 | IMAGEN 26]
+Por qué combinar
+Bevacizumab + Quimio-radioterapia
+Alta expresión de VEGF se asocia con menor SLE en pacientes
+tratadas con radioterapia
+La normalización de los vasos tumorales Inducida por la
+terapia anti-VEGF incrementa la oxigenación y disminuye la
+hipoxia que es un mecanismo de resistencia a la radioterapia
+
+[m05-t04-b028 | IMAGEN 27]
+Las inmunoterapias se han convertido en un importante enfoque de
+tratamiento para diferentes tipos de cáncer avanzado
+Cáncer de Cuello de Utero
+Science
+nature
+Science"
+ATAKS
+Breakthrough of the Year
+Cancer
+Cancer Immunology and
+Immunotherapy
+Immunotherapy
+Nivolumab
+T cells on the attack
+IMMUNE-CHECKPOINT
+BLOCKADE IN
+CANCER
+Pembrolizumab
+Atezolizumab
+Cimiplimab
+Peptide
+MHC
+Anti-CTLA-4
+MHC
+c Peptide
+TCR
+TCR
+PD-11
+87-15
+Tumor
+PD-1
+CTLA-4
+87.1/2
+cell
+CD28
+PD-L
+Dendritic
+Durvalumab
+Anti-PD-1
+Anti-PDL
+cell
+INMUNOTERAPIA
+Anti-PD-1
+T cell
+NUEVA FRONTERA
+
+[m05-t04-b029 | IMAGEN 28]
+INMUNOTERAPIA
+BLOQUEO DEL PUNTO DE CONTROL INMUNE
+CÓMO FUNCIONAN LOS NUEVOS FÁRMACOS CONTRA EL CÁNCER
+HPV+ Microambiente enriquecido en PD-1+ CD8+ Celúlas T
+1. Cuando aparecen células tumorales en el organismo,
+2. Algunas células tumorales se dotan en su membrana
+3. Al no ser destruidas por
+V PD-1 es un receptor checkpoint inmune
+el sistema inmunitario las reconoce y las destruye.
+de una molécula llamada PD-L1, que actúa como un
+el sistema inmunitario, las
+escudo para protegerse de los linfocitos T.
+células tumorales tienen
+via libre para proliferar
+expresado por linfocitos infiltrantes de
+Las células
+Los linfocitos T tienen en
+El tumor inicial
+tumores que limitan la función de las
+especializadas en
+su membrana una
+molécula llamada PD-1.
+aumenta de
+la destrucción de
+Célula
+Célula
+Cancerosas
+tamaño ...
+células T activadas
+células cancerosas
+cancerosa
+son los linfocitos T
+La expresión de la proteína PD-L1 es
+Célula
+... y algunas células
+pueden migrar a
+linfocito
+otros órganos y
+mayor en los tumores HPV +
+. cuando encuentran
+a PD-L1 de las células cancerosas,
+crear metástasis
+v 70% en especímenes HPV+ tienen
+interpretan que no deben destruirlas
+expresión de PD-L1
+4. Una nueva
+familia de
+O
+5. Los linfocitos recuperan
+la capacidad de atacar las
+/ comparado con 43.3% de los
+fármacos
+células cancerosas, tanto
+bloquea el
+en el tumor inicial ...
+especímenes HPV -
+receptor PD-1
+x
+de los
+... o el PD-L1
+La union de PD-L1 con P
+linfocitos ...
+Ca ationde FOLT con PD-1 impide
+que la célula T destruya la
+El bloqueo de PD-L1 o PD-1 permite
+que la celula
+que la célula T destruya la
+X
+de las células
+célula tumoral
+célula tumoral
+X
+tumorales
+De este modo, las
+X
+Célula tumoral
+Muerte de una
+célula tumoral
+×
+células tumorales
+X
+X
+pierden su
+capacidad de
+... como en
+PD-L1
+PD-L1
+-Antígeno
+ocultarse del
+las metastasis
+-Receptor de
+Anti-PD-L1
+X
+sistema
+células T
+PD-1-
+inmunitario
+PD-1
+Célula T
+Celula T
+CV
+
+[m05-t04-b030 | IMAGEN 29]
+Advances in immunotherapy for cervical
+GYNECOLOGICAL CANCER
+cancer: recent developments and
+future directions
+HPV+ Microambiente enriquecido
+Michael Vincent Sherer, Nikhil V Kotha, Casey Williamson, Jyoli Mayadev
+en PD-1+ CD8+ Celulas T
+Las células de cáncer de cuello uterino evitan la
+vigilancia inmunológica a través de varios mecanismos:
+Expresión de PDL1 en
+La Infección por HPV evade
+· 90% de neoplasias intraepiteliales (CIN 1 y 2 )
+el Sistema Inmune
+= 19 - 88% de cánceres escamosos
+Inmunosupresión « > Invasión
+= 14% de adenocarcinomas
+· HPV E6 y E7 inducen una cascada de citocinas
+PDL-1 no se expresa en las células cervicales normales
+y señalización de células T
+· Î IL-6
+PRE-NEOPLASTIC
+INFECTION
+CHRONIC INFLAMMATION
+-
+CANCER
+v Infiltración de mielo/monocitos
+Activation of STAT-3
+Y Inflamación de fibroblastos activados
+TE6/E
+1E6/E7
+CCL20
+5
+Y Inhabilita la presentación de antígenos
+TIL-6
+TPD-
+17
+. Infiltración de Tregs y MDSC (Cél.supresoras
+1-6
+IL-6
+de origen mieloides)
+APC
+Macrophage
+Myeloid
+IL-6
+CCR7/IL-12
+· Regulación positiva de PD-L1
+Fibroblast
+Th 17
+Activated
+CCL2/MMP9
+€
+fibroblast
+CCL20
+· Todo agrava con la hipoxia, TGF-B, ROS
+Th 17
+3
+4
+T helpers
+Treg
+Smola. Ther Adv Vaccines. 2017;5:69.
+CTL
+Otter SJ,et al. Clin Oncol (R Coll Radiol), 2019:31 (12):834-843
+Sherer MV, et al. Int J Gynecol Cancer 2022;32:281-287.
+
+[m05-t04-b031 | IMAGEN 30]
+Pembrolizumab or placebo with chemoradiotherapy
+Pembrolizumab : Anti PD-1
+followed by pembrolizumab or placebo for newly diagnosed,
+high-risk, locally advanced cervical cancer (ENGOT-cx11/
+GOG-3047/KEYNOTE-A18): a randomised, double-blind,
+phase 3 clinical trial
+Domenica Lorusso, Yang Xiang, Kosei Hasegawa, Giovanni Scambia, Manuel Leiva, Pier Ramos-Elias, Alejandro Acevedo, Vladyslav Sukhin,
+Noelle Cloven, Andrea J Pereira de Santana Gomes, Fernando Contreras Mejía, Ari Reiss, Ali Ayhan, Jung-Yun Lee, Valeriya Saevets, Flora Zagouri,
+Lucy Gilbert, Jalid Sehouli, Ekkasit Tharavichitkul, Kristina Lindemann, Roberta Lazzari, Chih-Long Chang, Rudolf Lampe, Hong Zhu, Ana Oaknin,
+Melissa Christiaens, Stephan Polterauer, Tomoka Usami, Kan Li, Karin Yamada, Sarper Toker, Stephen M Keefe, Sandro Pignata*, Linda R Duska*,
+on behalf of the ENGOT-cx11/GOG-3047/KEYNOTE-A18 investigatorst
+KEYNOTE-A18: Progression-Free and Overall Survival
+Progression-free survival - Interim analysis
+Overall survival - Interim analysis
+A
+100
+100
+80
+80
+60-
+60
+Median: Not reached
+Median: Not reached
+40
+40
+HR 0.70, p = 0.0020
+HR 0.73*
+Overall survival (%)
+20
+Progression-free survival (%)
+20
+- Pembrolizumab-chemoradiotherapy
+- Pembrolizumab-chemoradiotherapy
+Placebo-chemoradiotherapy
+Placebo-chemoradiotherapy
+0-
+12
+15
+18
+21
+24
+27
+30
+0
+6
+9
+is
+18
+21
+24
+27
+30
+33
+3
+6
+9
+W-
+Time (months)
+Time (months)
+Number at risk
+Number at risk
+o
+Pembrolizumab- 529
+400
+331
+282
+222
+171
+100
+26
+3
+0
+Pembrolizumab-
+529
+496
+456
+405
+351
+294
+223
+151
+67
+10
+1
+462
+chemoradiotherapy
+chemoradiotherapy
+Placebo-
+531
+463
+379
+306
+263
+208
+149
+88
+20
+Placebo- 531
+498
+449
+402
+339
+278
+214
+139
+62
+12
+0
+0
+chemoradiotherapy
+chemoradiotherapy
+*p-value did not cross the pre-specified efficacy boundary
+Lorusso D et al. Lancet 2024;403:1341-50.
+
+[m05-t04-b032 | IMAGEN 31]
+KEYNOTE-826: Diseño del Estudio
+Pembrolizumab + quimioterapia
+hase III trial
++ bevacizumab prolongó la SLP y la SG
+frente a placebo + quimioterapia +
+bevacizumab en poblaciones clave de
+pacientes, incluidas las definidas por
+el uso de bevicizumab, la histología,
+el uso de platino y la Quimio/RT previa
+V Q3W +
+V Q3W
+Treatment until death, radiographic
+progression, unacceptable toxicity, or
++
+study completion
+IV Q3W
+Los investigadores concluyen que estos
+datos respaldan aún más el uso de
+cycles: paclitaxel
+pembrolizumab + quimioterapia +
+tin AUC 5 mg/ml/min).
+bevacizumab como un nuevo estándar de
+mo PFS, safety
+atención para mujeres con cáncer de
+d per EuroQol
+cuello uterino persistente, recurrente o
+metastásico.
+
+[m05-t04-b033 | IMAGEN 32]
+Cemiplimab is a fully human lgG4 monoclonal antibody
+against PD-1 (LIBTAYO)
+Tumor immune evasion1
+T-cell inactivation can result from
+interaction of the PD-1 receptor on
+tumor-infiltrating T cells with its
+Active T cell
+ligands, PD-L1 and PD-L2,
+Inactive T cell
+expressed on tumor cells.
+PD-L2
+22
+PD-1-9
+PD-L1-
+LIBTAYO
+T-cell activity restored1
+LIBTAYO binds to PD-1 on T cells,
+blocking its interaction with PD-L1
+Cancer cell-
+and PD-L2 and helping to restore
+the antitumor T-cell response.
+Cancer cel
+Overall Survival, Population with Adenocarcinoma or Adenosquamous Carcinoma
+No. of Median Overall
+Patients Survival (95% CI]
+No. of Median Overall
+Cemiplimab 65
+133 (9.6-17.5)
+Chemotherapy 66
+7.0 15.1-9.7)
++ Cemiplimab, PD-LI ≥1%
+Patients Survival (95% CI)
+Cemiplimab, PD-LI <1%
+Cemiplimat
+Hazard ratio for death, 056
+239
+111 (92-13.A)
+(95% C] 0.36-0.85)
+Chemotherapy, PD-LI ≥1%
+Probability of Survival
+Probability of Survival
+1 238
+88 06-93)
+Hazard ratio for death, 0.73
+Mecian duration of follow-up, 21.9 mo (range, 6.9-36.6)
+Chemotherapy
+Chemotherapy, PD-LI <1%
+0.0
+(95% CI, 0.58-0 91)
+12 14 05 18 20 22 24 26 28 30 32 34 36
+0
+2
+6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36
+Two-sized P=0.006
+Month
+Month
+La supervivencia fue significativamente más larga con
+cemiplimab que con quimioterapia de agente único entre
+pacientes con cáncer de cuello uterino recurrente después de
+quimioterapia de primera línea con platino.
+
+[m05-t04-b034 | IMAGEN 33]
+Anticuerpos conjugados con Drogas
+Tisotumab vedotin
+An antibody-drug conjugate
+directed to Tissue Factor
+tivdak
+Immunogonic cel
+eath (CDy
+Soagen
+1|Ant gon binding
+Direct cytotoxicity
+Endoosank
+YGes na
+High expression on tumor
+High affinity for target
+CLINICAL
+tissue and minimal or no
+antigen and long half-life,
+CANCER
+expression on normal tissue
+with conjugation sites
+RESEARCH
+Antigen
+Antibody
+6 Direct tumor cell
+Internalization
+Microtubule
+Tumor St
+celular phagocytosis
+TE
+ADCPY
+Inhibit
+cellular cytotoxicity (ADCC)*
+Tumor cell
+. Bustorder billon"
+"Scarcey med onova aleciones! har poix-tel is cotabrent hedied comome at some I'dEL bred Erapaty su; comogel
+Endosome
+Degradation
+Tipstumab vedotin is an investigarional agens, and is safety and offcacy have not been estobl shod.
+0 2020 GramabAS
+Release
+Y Tisotumab vedotin, el primer anticuerpo en
+Highly potent,
+Stable and selective
+stable, and prone to
+bystander effect
+intracellular release of
+payload
+Lysosome
+investigación de su clase fármaco conjugado
+Payload/Drug
+Calicheamicin
+Linker
+Duocarmycin
+Maytansine
+dirigido a Factor Tisular (TF)
+(DM1 or DM4)
+MMAE
+v Atractivo objetivo terapéutico
+V En la oncogenesis, el Factor tisular desempeña un
+El FT es altamente prevalente en el cancer de cuello
+papel en la angiogenesis, la progresión y la metástasis
+uterino y otros tumores sólidos, y se asocia con
+asociadas a tumores
+fisiopatología del cáncer y pobre pronóstico
+ENGOT Cx8/GOG 3024/innovaTV 205:
+Y En condiciones fisiológicas normales, el Factor Tisular es
+Interim Phase II Results With Tisotumab Vedotin
+fundamental para la vía de la coagulación
+Combinations in Recurrent or Metastatic Cervical Cancer
+2022 ASCO Annual Meeting, June 3-7, 2022, Chicago, Illinois
+
+[m05-t04-b035 | IMAGEN 34]
+Cervical Cancer: Summary of Available Treatment Options
+Initial diagnosis1
+Colposcopy/biopsy
+Cervical
+44%1,3
+36%1,
+Metastatic disease
+16%1,3
+dysplasia2
+Early disease
+Locally advanced
+disease
+CIN 2/3
+FIGO IA1
+FIGO IA2
+FIGO 1B2 + IIA
+FIGO IB3 /
+FIGO IVA
+FIGO IVB
+Platinum-based
+Cone biopsy
+1L
+Cryotherapy
+Surgery followed by
+Chemoradiotherapy
+chemotherapy +
+adjuvant treatment depending
+(preferred)
+pembrolizumab
+Laser therapy
+LEEP
+on risk factors
+Surgery if feasible
++ bevacizumab4
+Pembrolizumab (PD-L1+/
+2L+
+MSI-H/dMMR/TMB-H),
+larotrectinib for NTRK
+1.NCCN. Clinical practice guidelines in oncology: cervical cancer. v.1.2022. nccn.org.
+gene fusion, bevacizumab,
+2. cancer.gov/publications/dictionaries/cancer-terms/def/cin-2-3
+or single-agent
+3. SEER Cancer Stat Facts: Cervical Cancer. National Cancer Institute. Bethesda, MD.
+4. Pembrolizumab PI.
+chemotherapy
+5. Tisotumab vedotin PI.
+Tisotumab vedotin5
+Cco

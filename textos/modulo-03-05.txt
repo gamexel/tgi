@@ -1,0 +1,722 @@
+# m03-t05 Vacuna HPV
+
+[m03-t05-b001 | IMAGEN 1]
+Virus papiloma humano (VPH)
+Virus de alto riesgo
+E6
+E7
+· Tendencia a persistir
+8000/0
+7000
+1000
+Poli-A (tardios)
+E8
+· Condición previa de lesiones preneoplasicas
+L1
+6000
+VPH
+2000 -
+E1
+Virus de bajo riesgo
+5000
+3000
+Poli-A (tempranos)
+· Tendencia a la regresion
+4000
+· Autolimitada
+L2
+E2
+E4
+· Verrugas genitales
+E5
+Los HPV de alto riesgo son carcinogénicos en humanos
+Vacuna HPV. Dra Rodriguez Brus
+
+[m03-t05-b002 | IMAGEN 2]
+HPV en relación al cancer cervical y genotipos
+TIPOS DE VPH EN CANCER CERVICAL EN
+AMERICA LATINA
+Tipos de VPH en CCU en Argentina
+OTROS
+TIPOS
+OTROS TIPOS
+23%
+25%
+VPH 16
+VPH 16
+VPH 45
+52%
+VPH 18
+59%
+18%
+4%
+VPH 31
+6%
+VPH 18
+13%
+VPH16+18 > 70-80%
+VPH 16+18+31+33+45+52+58
+> 89%
+
+[m03-t05-b003 | IMAGEN 3]
+Inmunidad de la vacuna
+
+[m03-t05-b004 | IMAGEN 4]
+Fundamentos de la inmunogenicidad de la vacuna
+Utilización de L1 en
+forma de VLP
+Administración IM.
+Elevados AC
+A)
+Adyuvante para
+0,2
+0,3.
+estimular la
+respuesta de la
+celulas T
+
+[m03-t05-b005 | IMAGEN 5]
+Vacunas disponibles
+
+[m03-t05-b006 | IMAGEN 6]
+Vacunas disponibles
+GARDASIL
+PRESCRIPTION ONLY MEDICINE
+Cervarix
+GARDASIL 9
+[Human Papillomavirus 9 valent Vaccine, Recombinant]
+HPV 16 18
+HPV 16 18
+HPV 16 18
+6 11
+6 11 31 33
+45 52 58
+2006
+2007
+2014
+
+[m03-t05-b007 | IMAGEN 7]
+Eficacia de las vacunas contra infecciones por HPV
+Table 2
+Summary table of vaccine efficacies against cervical HPV infection and disease endpoints [34-50]
+Gardasil
+Gardasil9
+Cervarix
+Among women 15/16-26 years
+4-6 months HPV 16/18 infection
+96% (83.100)
+na
+94% (92.96)
+6 month HPV 31/33/45/52/58 Infection
+18% (5, 29)
+96% (94, 98)
+na
+>95% CIN 3+
+6 month HPV 31 infection
+46% (15, 66)
+96% (91,98)
+77% (69, 83)
+6 month HPV 33 infection
+NS
+99% (95, 100)
+45% (25, 60)
+6 month HPV 45 infection
+NS
+97% (92,99)
+74% (58, 84)
+por HPV
+6 month HPV 51 infection
+na
+na
+17% (4, 28)
+incluidos en la
+6 month HPV 52 infection
+NS
+97% (95, 99)
+na
+6 month HPV 58 infection
+NS
+95% (91,97)
+na
+vacuna
+CIN 2+ related to HPV 16/18
+98% (94, 100)
+na
+98% (88, 100)
+CIN 2+ related to HPV 31
+70% (32, 88)
+100% (40, 100)
+88% (68,96)
+CIN 2+ related to HPV 33
+NS
+100% (33, 100)
+68% (40, 84)
+CIN 2+ related to HPV 39
+NS
+na
+75% (22, 94)
+CIN 2+ related to HPV 45
+NS
+NS
+82% (17,98)
+CIN 2+ related to HPV 51
+NS
+na
+54% (22, 74)
+CIN 2+ related to HPV 52
+NS
+100% (67, 100)
+na
+CIN 2+ related to HPV 58
+NS
+NS
+na
+43-93% CIN 3+
+CIN 2+ caused by any HPV type
+22% (3, 38)
+63% (35, 79)
+62% (47, 73)
+CIN 3 + caused by any HPV Lype
+43% (24, 57)
+na
+93% (79,99)
+independiente
+AIS caused by any HPV type
+na
+na
+100% (31, 100)
+Among women older than 25 years
+del tipo viral
+6 month infection or disease related to HPV 16/18
+85% (68,94)
+na
+91% (79, 97)
+6 month HPV 31 infection
+na
+na
+66% (25, 86)
+6 month HPV 45 infection
+na
+na
+71% (34, 88)
+Vaccine efficacies are presented with 95% confidence intervals.
+NS means not significant; na means not applicable/available.
+
+[m03-t05-b008 | IMAGEN 8]
+Cambios en la prevalencia de la infección por
+HPV pre y post vacunación
+Studies
+Risk ratio (95% CI) Heterogeneity*
+Luego de 5-8 años post
+HPV 16 and 18
+Girls 13-19 years
+0.30 (0-21-0-43)
+P=81%, p<0.00001
+10
+vacunación la prevalencia de
+6
+0-17 (0-11-0-25)
+P=44%, p=0-11
+Women 20-24 years
+11
+0-63 (0-53-0-76)
+P=84%, p<0-00001
+0-34 (0-23-0-49)
+P=91%, p<0-00001
+00
+8
+0-86 (0-69-1-07)
+P=53%, p=0-06
+HPV 16 y 18 disminuye
+Women 25-29 years
+6
+5
+0.63 (0-41-0-97)
+P=43%, p=0-14
+HPV 31, 33, and 45
+Girls 13-19 years
+8
+0-89 (0-78-1-01)
+I=0%, p=0-47
+significativamente en niñas y
+00
+0
+6
+0-46 (0-33-0-66)
+P=20%, p=0-28
+Women 20-24 years
+11
+0-99 (0-84-1-16)
+P=64%, p=0-002
+en mujeres de 20-24 años.
+8
+0-72 (0-47-1-10)
+P=88%, p<0.00001
+00
+Women 25-29 years
+6
+1.02 (0-79-1-32)
+P=53%, p=0-06
+0.93 (0-71-1-22)
+in
+5
+P=0%, p=0.90
+High-risk non-vaccine HPV types
+Girls 13-19 years
+10
+1-13 (0-99-1-29)
+P=71%, p=0-0003
+1-12 (0-82-1-53)
+P=88%, p<0-0001
+No cambia la prevalencia de
+6
+Women 20-24 years
+11
+1-11 (1-00-1-24)
+P=82%, p<0-0001
+8
+1.16 (0.93-1-46)
+P=94%, p<0-0001
+Women 25-29 years
+31,33 y 45
+6
++ 1-4 years after vaccination
+1.00 (0-92-1-10)
+P=12%, p=0-34
+5
+5-8 years after vaccination
+1-17 (0-80-1-72)
+P=81%, p=0-0003
+0.5
+1-0
+1.5
+2.0
+0-
+Favours vaccination
+
+[m03-t05-b009 | IMAGEN 9]
+Diagnóstico de CIN2+ en niñas y mujeres pre
+y post vacunación
+Luego de 5-9 años
+Studies
+Risk ratio (95% CI)
+Heterogeneity*
+Girls 15-19 years
+7
+0-73 (0-67-0-79)
+P=69%, p=0-004
+de vacunación, el
+5
+0-49 (0-42-0-58)
+P=88%, p<0-0001
+0-94 (0-82-1-08)
+[=98%, p<0-00001
+CIN2+ disminuyó
+00
+Women 20-24 years
+8
+7
+0-69 (0-57-0-84)
+P=99%, p<0-00001
+ANO
+Women 25-29 years
+7
+1-12 (1-05-1-20)
+P=93%, p<0.00001
+1-19 (1-06-1-32)
+P=97%, p<0-00001
+significativamente un
+6
+Women 30-39 years
+6
+· 1-4 years after vaccination
+1.07 (1-00-1-14)
+₱-95%, p<0.00001
+51% entre niñas de
+5
++ 5-9 years after vaccination
+1.23 (1-13-1-34)
+P=97%, p<0.00001
+0-5
+1.0
+1.5
+2.0
+15-19 y 31% en
+Favours vaccination
+Figure 5: Changes in CIN2+ among screened girls and women between the pre-vaccination and post-vaccination periods
+CIN2+=cervical intraepithelial neoplasia grade 2+. * p values are associated with the x2 statistic.
+mujeres de 20-24
+años.
+
+[m03-t05-b010 | IMAGEN 10]
+Diagnóstico de verrugas anogenitales pre
+vacunación y post vacunación
+Studies
+Risk ratio (95% CI)
+Heterogeneity*
+Las verrugas
+Girls 15-19 years
+15
+0-60 (0-46-0-76)
+P=99%, p<0-00001
+8
+0-33 (0-24-0-46)
+P=99%, p<0.00001
+genitales
+Women 20-24 years
+15
+0-76 (0-67-0-86)
+12=99%, p<0.00001
+8
+Vacuna HPV. Dra Rodriguez Brusco
+0-46 (0-36-0-60)
+P=99%, p<0.00001
+Women 25-29 years
+disminuyen en
+15
+0-89 (0-80-0-98)
+P=96%, p<0-00001
+8
+0-69 (0-53-0-89)
+P=98%, p<0.00001
+Women 30-39 years
+14
+1.02 (0-92-1-13)
+P=96%, p<0.00001
+mujeres en todas
+7
+0-88 (0-67-1-16)
+P=98%, p<0.00001
+Boys 15-19 years
+14
+0-80 (0-62-1-04)
+[=98%, p<0.00001
+8
+0-52 (0-37-0-75)
+P=97%, p<0-00001
+las edades y
+Men 20-24 years
+14
+0-93 (0-82-1-06)
+P=98%, p<0.00001
+8
+0.68 (0-47-0.98)
+12=99%, p<0.00001
+Men 25-29 years
+14
+1.05 (0-93-1-17)
+12=97%, p<0-00001
+varones
+8
+0-94 (0-66-1-33)
+P=99%, p<0.00001
+00
+Men 30-39 years
+13
++ 1-4 years after vaccination
+1.08 (0-98-1-19)
+P=97%, p<0-00001
+5-8 years after vaccination
+1-04 (0-76-1-43)
+fundamentalmente
+7
+P=99%, p<0-00001
+0-5
+1-0
+1.5
+2.0
+de 15-19 años
+Favours vaccination
+Figure 3: Changes in anogenital wart diagnoses between pre-vaccination and post-vaccination periods in countries using the quadrivalent vaccine
+*p values are associated with the y2 statistic.
+
+[m03-t05-b011 | IMAGEN 11]
+Otros sitios
+Vagina/Vulva
+· Disminución del riesgo de VIN AG y VAIN AG.
+Eficacia 100% en pacientes naïve
+Ano
+· HSH-16-26 años. Previene AIN en un 77.5% en
+paciente naïve y 50,3% en población general
+Orofaringe
+· Mas limitado. Faltan establecer lesión
+precursoras. Intervalo mas largo. Eficacia del
+93.3% (15/5840)
+
+[m03-t05-b012 | IMAGEN 12]
+Vacuna nonavalente
+
+[m03-t05-b013 | IMAGEN 13]
+Vacuna 4VPH
+0,225 mg AAHS
+ADYUVANTE
+20ug
+40ug
+40ug 20ug
+6
+11
+16
+18
+Vacuna 9VPH
+0,5 mg AAHS
+30ug
+40ug 60ug 40ug 20ug 20ug
+20ug
+20ug 20ug
+6
+11
+16
+18
+31
+33
+45
+52
+58
+"TIPOS ORIGINALES"
+"NUEVOS TIPOS"
+No
+Eficacia
+inferioridad
+Seguridad
+clínica
+
+[m03-t05-b014 | IMAGEN 14]
+Potencial de prevenir lesiones de alto grado/ca HPV relacionado
+4vHPV 9vHPV
+90
+85
+4vHPV
+9vHPV
+80
+70
+100
+94.4
+70
+90
+82.3
+82.2
+81.5
+8
+77.6
+75.4
+60
+55
+50
+64.1
+50
+40
+50
+45.5
+40
+40 -
+30
+30
+30
+20
+20
+10
+pre-cancers lesions, %
+10
+anogenital pre-cancer lesions, %
+0
+Predicted prevention of high-grade
+CIN2+
+VIN2+
+ValN2+
+AIN2+
+0
+Predicted prevention of cervical
+FIGURE 2 Proportion of HPV-related anogenital pre-cancer
+CIN1
+CIN2
+CIN3
+lesions attributed to viral genotypes included in 4vHPV and 9vHPV.
+FIGURE 3 Proportion of HPV-related cervical pre-cancer lesions
+attributed to viral genotypes included in 4vHPV and 9vHPV as reported
+
+[m03-t05-b015 | IMAGEN 15]
+ESQUEMA DE VACUNACION
+HPV
+Vaccine
+Esquema actual en Argentina 1 única dosis de vacuna contra
+el VPH a los 11 años
+Esquemas atrasados:
+O Única dosis de vacuna hasta los 20 años.
+o Dos dosis (0 y 6 meses) en caso de inicio de esquema entre
+los 21 a 26 años.
+Personas con inmunocompromiso: se mantiene la
+vacunación con 3 dosis (0-2 y 6 meses) hasta los 26 años.
+
+[m03-t05-b016 | IMAGEN 16]
+Seguridad de las
+vacunas
+
+[m03-t05-b017 | IMAGEN 17]
+Vacuna 9VPH
+Vacuna 4 VPH
+Sujetos
+(N=7,071)
+(N=7,078)
+n (%)
+n (%)
+Todos los AA relacionados con la vacuna*
+6,519 (92.2)
+6,200 (87.6)
+Sitio de la inyección
+6,422 (90.8)
+6,023 (85.1)
+Sistémicos
+2,086 (29.5)
+1,929 (27.3)
+AA debidos a la vacuna que provocaron discontinuación **
+5 (0.1)
+3 (0.0)
+AA serios relacionados con la vacuna *
+2 (0.0)
+1 (0.0)
+AA serios relacionados con la vacuna que provocaron
+discontinuación **
+1 (0.0)
+0 (0.0)
+Muertes relacionadas con la vacuna*
+0 (0.0)
+0 (0.0)
+
+[m03-t05-b018 | IMAGEN 18]
+Contraindicaciones
+Vacuna HPV. Dra Rodriguez Brusco
+
+[m03-t05-b019 | IMAGEN 19]
+Si ya está vacunada, como sigo los
+controles?
+A medida que los genotipos virales de AR disminuya, con menor citologias de
+AG y mayor de BG con lo cual el valor predictivo de la citologia disminuira.
+Es muy probable que el Test de HPV como screening poblacional tome mayor
+importancia.
+Es probable que mas adelante se modifique la edad de inicio de tamizaje.
+
+[m03-t05-b020 | IMAGEN 20]
+Si ya tuvo HPV, le indico la vacuna?
+Reducción de Riesgo de Recaída/Nueva Lesión en Pacientes Tratadas
+Población de Estudios Future I/II
+Pacientes tratadas por lesión de Cuello Uterino. Prevención de nueva lesión
+independientemente del tipo de HPV que la produce.
+· Eficacia vs CIN2+:
+64,9% 95%IC: 20,1-86,3)
+· Eficacia vs CIN3+:
+73,5%
+95%IC: 3,4-95,2)
+· Condilomas:
+63.0% (95%IC: 10,3-86,6)
+Población de Estudio PATRICIA
+- Pacientes DNA Negativas y Seropositivas (tratamiento previo o regresión espontánea). Prevención de lesión
+intraepitelial.
+· Eficacia vs CIN2+: 88,5% (96,1%IC: 10,8-99,8)
+
+[m03-t05-b021 | IMAGEN 21]
+Si tiene mas de 26 años le indico la vacuna?
+Los comites de inmunizaciones recomiendan el catch up en pacientes hasta los 26 años. A mayor
+edad, si bien no entra como una recomendación, se reconoce que en algunas mujeres de 27-45 años
+podria ser beneficioso.
+FUTURE III 94, 1% eficacia de lesion intrepitelial cervical por los genotipos 6/11/16/18 en mujeres
+hasta 45 años. En algunos lugares las vacunas no tienen limites de edad.
+En varios estudios clinicos se muestra que la vacuna 4VHPV tiene una eficacia duradera por mas de
+10 años en mujeres de 27-45 años.
+Los AC contra VPH 18 podrian declinar mas rápido, sin embargo no se reportaron casos de lesiones
+por HPV 18 en pacientes vacunadas
+Podria ser de gran ayuda en pasises de bajos recursos, independientemente de la edad.
+Vacuna HPV. Dra Rodrigue:
+
+[m03-t05-b022 | IMAGEN 22]
+Nonavalente
+Es efectiva en las mujeres de +27 años?
+Puede ser inoculada pero depende del
+juicio médico y el riesgo individual .
+Muy poca evidencia.
+
+[m03-t05-b023 | IMAGEN 23]
+Puedo agregar nonavalente si la paciente ya
+recibió esquema completo de otra vacuna?
+1 solo estudio.
+Es una vacuna segura y pudiera ser administrada para adquirir esa prevención extra para los
+genotipos pero queda a criterio medico
+No es aconsejable.
+
+[m03-t05-b024 | IMAGEN 24]
+Puedo completar esquema con nonavalente si ya le
+dieron otra vacuna? Faltantes de vacunas?
+No hay estudios
+Limitado a los casos de desconocimiento o falta de disponibilidad de la vacuna.
+
+[m03-t05-b025 | NOTA]
+CONCLUSIONES
+
+[m03-t05-b026 | IMAGEN 25]
+** Existen en la actualidad 3 vacunas disponibles. (2 en nuestro paìs)
+** La vacunación tiene un beneficio directo tanto en hombres y
+mujeres al disminuir la infeccion persistente de los HPV de alto
+riesgo, teniendo en cuenta que causan el 100 % de los canceres de
+cuello, 90% de los de ano y una parte no despreciable de vulva,
+vagina, pene y orofaringe.
+** La vacunación disminuye las verrugas anogenitales.
+*Se recomienda vacunas mujeres (grado 1A) y hombres (grado 1B)
+entre los 11-12 años
+
+[m03-t05-b027 | IMAGEN 26]
+** El esquema de vacunación actual es de 1 sola dosis antes de
+los 20 años y 2 dosis de los 21 a los 26 años. Siempre esquema
+de 3 dosis en IC.
+* La vacuna nonavalente es una vacuna efectiva en prevenir
+enfemerdades asociadas a 9 genotipos de HPV en varones y
+mujeres de 9-26 años.
+*Tiene el potencial se reducir la prevalencia de lesiones
+premalignas y malignas anogenitales de 6-20% dependiendo la
+region anatomica.
+Son seguras y tienen pocos efectos adversos.
+
+[m03-t05-b028 | IMAGEN 27]
+Usted está viendo la pantalla de FCM ZOOM
+Ver opciones v
+26/12/2023
+MODIFICACIONES EN ESQUEMA DE
+VACUNA HPV - APARTIR DEL 1/1/2024
+Teniendo en cuenta la evidencia científica, las recomendaciones
+internacionales, el análisis del grupo de trabajo y
+posterior recomendación de la Comisión Nacional de Inmunizacione
+(CoNaln), se define lo siguiente:
+SIMPLIFICAR EL ESQUEMA DE VACUNACIÓN A UNA ÚNICA DOSIS
+1
+DE VACUNA CONTRA EL VPH A LOS 11 AÑOS, CON LA
+VACUNA VPH DISPONIBLE EN EL CNV. SE CONSIDERARÁ ESQUEMA
+COMPLETO A TODAS LAS PERSONAS MENORES DE 20
+Se respeta esquema de dosis del inicio
+AÑOS QUE HAYAN RECIBIDO AL MENOS UNA DOSIS DE VACUNA
+CONTRA VPH.
+y vacuna recibida.
+2
+EN CASO DE RECUPERO DE ESQUEMAS ATRASADOS:
+MUJERES NACIDAS A PARTIR AÑO 2000
+VARONES NACIDOS A PARTIR AÑO 2006
+· ÚNICA DOSIS DE VACUNA HASTA LOS 20 AÑOS, 11 MESES
+Y 29 DIAS.
+· DOS DOSIS (O Y 6 MESES) EN CASO DE INICIO DE ESQUEMA
+A PARTIR DE LOS 21 AÑOS Y SIEMPRE QUE CORRESPONDAN
+A LA COHORTE.
+3
+EN PERSONAS CON INMUNOCOMPROMISO*, SE MANTIENE LA
+VACUNACIÓN CON 3 DOSIS (0-2 Y 6 MESES) HASTA LOS 26
+AÑOS
+*PERSONAS VIVIENDO CON VIH, TRASPLANTADOS, LUPUS ERITEMATOSO SISTÉMICO (LES),
+ARTRITIS IDIOPÁTICA JUVENIL (AIJ), ENFERMEDAD INFLAMATORIA INTESTINAL (EII).
+
+[m03-t05-b029 | NOTA]
+Idelamente antes del incio de las relaciones sexuales
+
+[m03-t05-b030 | NOTA]
+Hipersensibilidad a cualquiera de sus compuestos
+
+[m03-t05-b031 | NOTA]
+Embarazo (o hay datos)
+
+[m03-t05-b032 | NOTA]
+Trombocitopenia

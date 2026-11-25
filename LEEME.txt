@@ -1,0 +1,52 @@
+TRACTO GENITAL INFERIOR - BIBLIOTECA LOCAL
+
+ABRIR
+1. Si recibiste un ZIP, extraelo completo.
+2. Abrí index.html con Chrome, Edge, Firefox o Safari.
+3. Buscá por tema, palabra, sigla o pregunta.
+
+No requiere internet, OneNote, servidor ni instalación.
+Mantené index.html, los archivos JS/CSS y las carpetas datos, imagenes y textos juntos.
+Para compartir, enviá la carpeta TGI completa o el ZIP TGI-portatil.zip.
+
+CONTENIDO INCLUIDO
+- Módulo 1: 7 temas, 36 fichas, 121 imágenes y 10 preguntas.
+- Módulo 2: 9 temas, 40 fichas, 127 imágenes y 0 preguntas.
+- Módulo 3: 20 temas, 99 fichas, 509 imágenes y 38 preguntas.
+- Módulo 4: 18 temas, 92 fichas, 561 imágenes y 26 preguntas.
+- Módulo 5: 11 temas, 59 fichas, 311 imágenes y 23 preguntas.
+Total: 65 temas, 326 fichas compactas, 1629 imágenes,
+508 notas escritas y 97 preguntas del curso.
+1549 imágenes contienen texto reconocido por OneNote. Las otras 80 se conservan
+y se encuentran por tema y notas cercanas, pero su contenido visual no es texto buscable.
+Las imágenes se optimizaron para reducir peso y conservan su orden dentro de cada tema.
+
+Blocs de origen: Mi bloc de notas en Trabajo = Módulo 1; as = Módulo 4.
+Los blocs Modulo 2, Modulo 3 y Modulo 5 mantienen su numeración.
+La página Gonorrea del Módulo 2 solo contiene el título en OneNote: queda identificada
+como vacía, sin inventar un resumen. Los otros 64 temas contienen material.
+
+USO
+- / o Ctrl+K: enfocar búsqueda. Esc: cerrar visor o limpiar búsqueda.
+- Sin tildes, mayúsculas o minúsculas. Sinónimos HPV/VPH, HIV/VIH, biopsia/BX.
+- Varias palabras: se buscan juntas; probá "liquen clobetasol" o "HSIL márgenes".
+- Elegí un módulo, tema o filtro (resumen, apunte, preguntas, imágenes).
+- Abrí la fuente de cada resumen para consultar su diapositiva.
+- En el visor, cursores izquierdo/derecho recorren las fuentes del tema.
+- Las estrellas se guardan en el navegador cuando permite almacenamiento local.
+  No se transfieren con el ZIP a otra computadora.
+- "Repaso compacto" permite imprimir las fichas o guardarlas como PDF desde el navegador.
+- Cada tema permite descargar el texto completo. También está en la carpeta textos.
+
+FIDELIDAD AL MATERIAL
+Los resúmenes sintetizan las clases aportadas; no constituyen una actualización externa.
+El OCR es automático y puede contener errores. Verificá cifras, dosis, tablas y flechas
+en la imagen del curso. Las imágenes también pueden contener recortes o errores de origen.
+Se señalan diferencias de nomenclatura y criterios entre clases cuando se detectaron.
+Las opciones de una pregunta no son todas afirmaciones correctas. Se conservaron las
+27 claves textuales explícitas; no se inventaron las respuestas restantes.
+
+PORTABILIDAD
+Esta web usa archivos locales y no carga fuentes, imágenes, bibliotecas ni datos externos.
+El buscador funciona directamente desde el archivo HTML (file://).
+El archivo cobertura.json registra los conteos por módulo y la página vacía de origen.

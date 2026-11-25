@@ -1,0 +1,645 @@
+# 04 Lesiones Intraepiteliales vulvares
+
+[t04-b001 | IMAGEN 1]
+LESIÓN
+NEOPLASIA
+RIESGO
+RIESGO
+TIEMPO
+TIEMPO
+RIESGO DE PROGRESIÓN A CARCINOMA
+RIESGO DE PROGRESIÓN A CARCINOMA
+
+[t04-b002 | IMAGEN 2]
+OBJETIVOS
+Desde 2020, un sólido cuerpo de evidencia clinicopatológica ha permitido alcanzar
+un consenso internacional en torno a tres principios fundamentales:
+1
+2
+3
+La inmunohistoquímica
+La asignación de
+La terminología
+p16
+para p16 y p53
+"neoplasia" vs "lesión"
+debe reflejar
+es esencial para
+debe reflejar el
+la etiología
+el diagnóstico
+NEOPLASIA
+LESIÓN
+p53
+comportamiento
+DIX
+y la estratificación
+biológico y la
+del riesgo.
+evidencia molecular.
+..
+Este documento tiene como objetivos:
+Aplicar estos principios a la
+Lograr una armonización
+Desarrollar una terminología
+entre la ISSVD y la OMS,
+que facilite la colaboración
+terminología de las lesiones
+manteniendo al mismo tiempo
+entre clínicos y patólogos,
+escamosas vulvares.
+la orientación clínica característica
+con el objetivo de mejorar
+de la ISSVD.
+la atención de las pacientes
+con enfermedades vulvares.
+C
+Nuestro propósito final: una terminología clara, basada en la evidencia,
+centrada en la paciente y que mejore su atención.
+
+[t04-b003 | IMAGEN 3]
+p16
+p53
+Proxy de integración
+genómica de VPH oncogénico.
+p16
+p53
+Proteína supresora de
+tumores (Gen TP53).
+Obligatorio para definir
+Permite categorizar y
+la etiología.
+estratificar el riesgo en HPVi.
+O
+10. 10
+
+[t04-b004 | NOTA]
+P16 PARA HPV RELACIONADO
+
+[t04-b005 | NOTA]
+P53 PARA HPV INDEPENDIENTE
+
+[t04-b006 | IMAGEN 4]
+Atipia nuclear basal
+NORMAL, HEALTHY
+NUCLEAR ATYPIA
+CELL
+IRREGULAR
+CYTOPLASM
+O
+SIZE , SHAPE,
+AND COLOUR OF
+NUCLEUS
+NUCLEUS
+PROMINENT NUCLEOLUS
+
+[t04-b007 | IMAGEN 5]
+Alteración de la maduración epitelial
+ABNORMAL SQUAMOUS
+CELLS
+SQUAMOUS
+EPITHELIUM
+BASEMENT
+MEMBRANE
+MUCOSA
+CONNECTIVE TISSUE
+BLOOD VESSELS
++
+STROMA
+MUSCLE
+FIBERS
+MUSCULAR
+LAYER
+
+[t04-b008 | IMAGEN 6]
+HPVa (Asociado a VPH)
+HPVi (Independiente de VPH)
+Positivo en Bloque
+Mosaico o Negativo
+Tinción nuclear/citoplasmática
+fuerte y confluente.
+Tinción dispersa o ausencia total.
+Implica > 1/3 inferior del epitelio.
+Diagnóstico:
+Diagnóstico: HPVa.
+Excluye VPH oncogénico (HPVi).
+
+[t04-b009 | IMAGEN 7]
+Patrones de p53 (Riesgo)
+01101
+Lesiones Intraepiteliales vulvares 2026mp4
+Tipo Salvaje
+(Wild Type)
+Sobreexpresión Basal
+Nulo
+(Mutante)
+(Mutante)
+Normal. Tinción
+Línea basal aberrante,
+heterogénea/parcheada.
+intensa y continua (>80%).
+Ausencia patológica
+total de tinción.
+
+[t04-b010 | NOTA]
+ENTONCES… APARTIR DEL USO DE LA P16
+
+[t04-b011 | IMAGEN 8]
+HPVa
+HPVi
+
+[t04-b012 | IMAGEN 9]
+HPVa
+· LSIL/Condiloma acuminado
+· HSIL (HPVa VIN)
+
+[t04-b013 | IMAGEN 10]
+Manejo Clínico y Riesgo: HPVa VIN
+Intervención
+El Riesgo Subyacente
+Protocolo de Vigilancia
+Inmunomoduladores
+El riesgo de
+tópicos
+recurrencia
+persiste de por
+vida.
+Ablación
+8%
+Requiere examen
+vulvar cada 6
+meses + inspección
+anual de vagina,
+Escisión quirúrgica
+Riesgo de progresión a
+cérvix y área
+cáncer a 10 años. Tasa de
+anorrectal.
+regresión espontánea
+desconocida.
+
+[t04-b014 | IMAGEN 11]
+Neoplasia HPVa (HPVa VIN / HSIL)
+· Atipia basal evidente
+(> 1/3 inferior).
+· Morfología basaloide
+(mayoría) o
+queratinizante.
+· p16: Positivo en Bloque (Obligatorio).
+·p53: Tipo Salvaje (dominancia suprabasal).
+
+[t04-b015 | IMAGEN 12]
+HPVa
+p16 +
+p53 Wild Type
+
+[t04-b016 | NOTA]
+(FORMA BASALOIDE)
+
+[t04-b017 | IMAGEN 13]
+HPVa
+p16 +
+p53 Wild Type
+
+[t04-b018 | NOTA]
+(FORMA QUERATINIZANTE)
+
+[t04-b019 | IMAGEN 14]
+CLINICA
+
+[t04-b020 | NOTA]
+PUEDEN CONSULTAR POR:
+
+[t04-b021 | NOTA]
+DOLOR
+
+[t04-b022 | NOTA]
+FISURAS
+
+[t04-b023 | NOTA]
+PRURITO
+
+[t04-b024 | NOTA]
+PLACAS O MACULAS
+
+[t04-b025 | NOTA]
+LOS COLORES VARIAN: GRIS, BLANCAS, HIPOPIGMENTADAS
+
+[t04-b026 | IMAGEN 15]
+Lesiones Intraepiteliales vulvares 2026mp4
+HSIL
+
+[t04-b027 | IMAGEN 16]
+HSIL
+
+[t04-b028 | IMAGEN 17]
+HSIL
+
+[t04-b029 | IMAGEN 18]
+Lesiones HPVa
+Condiloma
+LSIL
+O
+· Arquitectura exofítica / papilomotosa.
+· Arquitectura plana.
+· Afectación citopática superficial.
+· Atipia basal leve confinada al 1/3 inferior.
+Marcadores de Lesión HPVa:
+p16 (Variable/Mosaico) | p53 (Tipo Salvaje)
+
+[t04-b030 | IMAGEN 19]
+Imimore®
+Crema 3 g
+Imiquimod
+Industria Argentina
+5%
+Verza Bajo Racera
+PANALAB
+MANEJO
+
+[t04-b031 | IMAGEN 20]
+IMIQUIMOD 5%
+
+[t04-b032 | IMAGEN 21]
+IMIQUIMOD 5%
+
+[t04-b033 | IMAGEN 22]
+IMIQUIMOD 5%
+
+[t04-b034 | NOTA]
+ES EL TRATAMEINTO DE PRIMERA LINEA
+
+[t04-b035 | IMAGEN 23]
+Tratamiento quirurgico
+1€
+5mm
+
+[t04-b036 | NOTA]
+Margen de 5 mm
+
+[t04-b037 | NOTA]
+En caso de tener margenes positivos no es necesario re intervenir
+
+[t04-b038 | NOTA]
+HPV INDEPENDIENTE
+
+[t04-b039 | IMAGEN 24]
+HPVİ VIN
+· HPVi VIN,p53 mutado
+. HPVi, p53 Wild type
+· HPVi Verrucoso VIN
+· VIN inclasificable
+
+[t04-b040 | NOTA]
+YA NO SE HABLA MAS DE :
+
+[t04-b041 | IMAGEN 25]
+· VIN Diferenciado
+· VIN tipo simplex
+· Carcinoma escamoso in situ
+· Carcinoma in situ
+· VAAD/DEVIL
+· LEC verruciforme
+· Hiperplasia escamosa
+
+[t04-b042 | IMAGEN 26]
+Neoplasia HPVi (HPVİ VIN)
+Clásico
+Verrugoso
+Morfología: Atipia basal profunda, acantosis.
+Morfología: Exofítica, queratinizante, atipia
+p16: Negativo
+leve (Verrucous VIN).
+p53: Mutante (Sobreexpresión o Nulo).
+p16: Negativo
+p53: Tipo Salvaje.
+
+[t04-b043 | IMAGEN 27]
+HPVI
+p16 -
+p53 mutado
+
+[t04-b044 | IMAGEN 28]
+HPVi
+p16 -
+p53 Wild Type
+
+[t04-b045 | IMAGEN 29]
+El Terreno Predisponente: Liquen Escleroso (LS)
+LS Crónico /
+Estrés celular y
+alteración
+Inflamación no
+genética
+Neoplasia
+controlada.
+(Mutaciones
+HPVi (VIN).
+TP53).
+El HPVi surge casi exclusivamente sobre LS crónico.
+Pacientes >70 años (pero posible en premenopáusicas).
+
+[t04-b046 | IMAGEN 30]
+HPVİ VIN
+
+[t04-b047 | NOTA]
+Lesiones blanquecinas
+
+[t04-b048 | NOTA]
+Borramiento de los labios menores y del capuchon del clitoris
+
+[t04-b049 | IMAGEN 31]
+Patrones de p53 (Riesgo)
+O
+Tipo Salvaje
+Sobreexpresión Basal
+Nulo
+(Wild Type)
+(Mutante)
+(Mutante)
+Normal. Tinción
+Línea basal aberrante,
+Ausencia patológica
+heterogénea/parcheada.
+intensa y continua (>80%).
+total de tinción.
+
+[t04-b050 | NOTA]
+La p53 me ayuda a estratificar el riesgo que tiene la lesion:
+
+[t04-b051 | NOTA]
+Nulo:
+
+[t04-b052 | NOTA]
+Sobreexpresion de la capa basal: 67% de estas pacientes va a desarrolllar un carcinoma a los 10 años
+
+[t04-b053 | NOTA]
+Wild type: riesgo de carcinoma a 10 años del 28%
+
+[t04-b054 | IMAGEN 32]
+Patrones de pos
+28%
+67%
+Estratificación de
+Tipo
+Basal
+(Wi
+riesgo
+Norm
+rante,
+heterogén
+(>80%).
+
+[t04-b055 | IMAGEN 33]
+HPVİ VIN
+Carcinoma
+Verrucoso
+Verrucoso
+
+[t04-b056 | IMAGEN 34]
+Epidermis
+Carcinoma
+Dermis
+Verrucoso
+
+[t04-b057 | NOTA]
+El diagnostico no se puede realizar a partir de una biopsia simple, siempre se debe hacer una ampliada. Porque si la bx es superficial nos informara queratosis y no las alteraciones mas profundas
+
+[t04-b058 | IMAGEN 35]
+Carcinoma
+HPVİ VIN
+Verrucoso
+Verrucoso
+HPVİ VIN
+?
+HPVİ SCC
+
+[t04-b059 | IMAGEN 36]
+(Imagen sin texto reconocido)
+
+[t04-b060 | NOTA]
+Son pacientes que como base tiene un liquen escleroso
+
+[t04-b061 | NOTA]
+Suelen tener un patron salvaje
+
+[t04-b062 | IMAGEN 37]
+Tipo Salvaje
+(Wild Type)
+Normal. Tinción
+heterogénea/parcheada.
+
+[t04-b063 | IMAGEN 38]
+VIN Inclasificable
+· Resultados contradictorios
+· Positividad simultánea de p16 y p53
+· Tejido insuficiente para el dx
+· Fallas técnicas de IHQ
+HPV
+
+[t04-b064 | IMAGEN 39]
+Imimore®
+Crema 3 g
+Imiquimod
+Industria Argensna
+5%
+Varra Bajo Racera
+PANALAB
+MANEJO
+
+[t04-b065 | IMAGEN 40]
+CARCINOMA
+HPVİ VIN
+HPVİ VIN
+HPV
+(Verrucoso)
+VAM-
+CONDILOMA-
+LSIL
+
+[t04-b066 | IMAGEN 41]
+HPVİ VIN
+67%
+28%
+Tto qx
+Riesgo a 10a de progresión a ca
+
+[t04-b067 | IMAGEN 42]
+Margen?
+
+[t04-b068 | IMAGEN 43]
+(Imagen sin texto reconocido)
+
+[t04-b069 | IMAGEN 44]
+Márgenes
+comprometidos
+· Presencia de enfermedad clinicamente sospechosa
+· Interpretación AP detallada
+· Posibilidad de realizar una nueva cx precoz
+· Limitaciones anatómicas
+· Disponibilidad de seguimiento
+
+[t04-b070 | IMAGEN 45]
+₪
+
+[t04-b071 | NOTA]
+(VIN VERRUCOSO)
+
+[t04-b072 | IMAGEN 46]
+(Imagen sin texto reconocido)
+
+[t04-b073 | NOTA]
+LIMITANTE ANATOMICA POR MEATO URINARIO
+
+[t04-b074 | IMAGEN 47]
+(Imagen sin texto reconocido)
+
+[t04-b075 | IMAGEN 48]
+REMEMBER! -
+LE
+Seguimiento de por
+VIDA!
+
+[t04-b076 | IMAGEN 49]
+Manejo
+interdisciplinario
+
+[t04-b077 | IMAGEN 50]
+Lesiones HPV independientes
+VAM
+· Diagnóstico DESCRIPTIVO
+· Alteraciones que aparecen sobre un terreno de LE
+· Potencial neoplásico incierto
+Sospecha de VIN HPVi, pero NO cumplen los
+criterios dx suficientes
+
+[t04-b078 | NOTA]
+CUANDO HABLAMOS DE LESIONES, SON ENTIDADES QUE NO TIENEN UN POTENCIAL ONCOGENICO IMPORTANTE
+
+[t04-b079 | IMAGEN 51]
+(Imagen sin texto reconocido)
+
+[t04-b080 | NOTA]
+LIQUEN ESCLOROSO DE BASE, CON LESIONES PARECIDAS VERRUCOSAS
+
+[t04-b081 | IMAGEN 52]
+El Espectro de Transformación
+Histológica (HPVi)
+Fhase 1
+Phase 2
+Phase 3
+Phase 4
+Liquen Escleroso (LS)
+VAM
+Verrucous VIN
+Carcinoma
+Reactivo
+Verrugoso / Invasivo
+6) NotebookLM
+K
+
+[t04-b082 | IMAGEN 53]
+Lesión HPVi: Maduración Aberrante Vulvar (VAM)
+Hiperqueratosis y
+paraqueratosis
+confluente.
+Atipia basal equívoca
+(insuficiente para
+diagnóstico de VIN).
+p16: Negativo/Mosaico | p53: Tipo Salvaje
+Conducta: Optimizar terapia con esteroides. Seguimiento estricto.
+(No es diagnóstico definitivo por defecto).
+Note
+
+[t04-b083 | IMAGEN 54]
+FIGURE 1
+Categorization of HPVa and HPVi VIN and SIL
+Greater to lesser basal atypia
+Treat to prevent
+as a red to blue gradient
+progression to:
+p53 mutant type
+HPV-independent
+VIN (HPVi VIN
+p53abn)
+HPV-independent
+Excision
+conventional SCC
+p16 negative
+p53 wild type
+HPV-independent
+VIN (HPVi VIN
+or mosaic
+p53wt)
+Verrucous
+Excision
+Verrucous
+VIN
+carcinoma
+Treatment-resistant
+Vulvar aberrant
+plaque within
+maturation
+Medical or
+lichen sclerosus
+HPVi VIN
+Lichenified lichen
+excision
+sclerosus
+p53 wild type,
+Excision, ablation,
+p16 block
+suprabasilar dominant
+HPV-associated VIN,
+immunomodulator
+HPV-associated
+positive
+HSIL
+SCC
+p53 wild type
+LSIL
+p16 negative,
+mosaic, or
+block positive
+Condyloma
+Algorithm of HPVa and HPVi VIN and lesions demonstrating the role of p16, p53, and degree of nuclear abnormality in categorization and management
+HPV, human papillomavirus; HPVa, human papillomavirus-associated; HPV), human papillomavirus-independent; SIL, squamous intraepithelial lesion; VW, vulvar intraepithelial neoplasia.
+
+[t04-b084 | IMAGEN 55]
+Biopsia de lesión sospechosa
+IHC (p16 y p53)
+p16 Bloque Positivo
+p16 Negativo / Mosaico
+p53 Mutante
+p53 Salvaje
+Núcleos equívocos
+Neoplasia:
+Lesión:
+VIN HPVa
+LSIL / Condiloma
+VIN HPVi
+VIN Verrugoso /
+Mutante
+HPVi Salvaje
+VAM
+Ablación / Escisión /
+Escisión Quirúrgica Obligatoria
+Optimización Médica a
+Inmunomoduladores + Vigilancia
++ Esteroides de Mantenimiento
+Corto Plazo.
+Escisión si no resuelve.
+VIN Inclasificable: Si existen resultados de IHC
+contradictorios, manejar clínicamente como
+Neoplasia HPVi para evitar el subtratamiento.
+6 NotebookLM
+
+[t04-b085 | IMAGEN 56]
+· Espectro clinico NO distintivo (HPVa vs. HPVi)
+· Toda lesión vulvar nueva, cambiante o resistente al tratamiento, ya sea blanco-grisácea,
+rosado-rojiza o pigmentada, debe considerarse candidata a biopsia.
+· La neoplasia asociada al HPV (HPVa) requiere un seguimiento continuo de todo el tracto
+genital inferior, debido al riesgo de lesiones multicentricas y recurrencias.
+· La neoplasia independiente del HPV (HPVi) requiere un tratamiento prolongado del liquen
+escleroso, con el objetivo de mantener un adecuado control de la enfermedad.
+. Posibilidad de lesiones asociadas

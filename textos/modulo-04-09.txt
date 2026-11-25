@@ -1,0 +1,339 @@
+# 09 Lesiones pigmentadas de la vulva
+
+[t09-b001 | IMAGEN 1]
+Que
+es?
+Lesiones muy frecuentes
+Apariencia diferente
+Diagnósticos diferenciales
+Biopsia
+Es un
+melanoma?
+Tomo
+biopsia?
+
+[t09-b002 | NOTA]
+TODA LESION QUE NO PUEDE SER DIAGNOSTICADA CLINICAMENTE DEBE SER BIOPSIADA
+
+[t09-b003 | IMAGEN 2]
+Lesiones pigmentadas de vulva
+20 % de la patologia vulvar
+Benignas o malignas
+Melanociticas o no melanocíticas
+
+[t09-b004 | NOTA]
+EL AUTOEXAMEN ES MUY POCO FRECUENTE
+
+[t09-b005 | IMAGEN 3]
+Herramientas para el diagnóstico
+Clínica
+Edad de la paciente
+Antecedentes de la
+lesión
+Características
+Numero de lesiones
+Visión
+aumentada
+Histopatología
+(dermatoscopia)
+
+[t09-b006 | IMAGEN 4]
+Lesiones pigmentadas planas
+· Nevo melanocítico
+· Melanosis vulvar (lentiginosis)
+· Liquen plano
+. Acantosis nigricans
+· Melanoma in situ
+ISSVD
+Lesiones pigmentadas sobrelevadas
+· Nevo melanocítico
+· Condilomas
+· VIN
+· Queratosis seborreica
+· Angioqueratomas
+· Hidroadenoma papilifero
+· Melanoma
+
+[t09-b007 | IMAGEN 5]
+Mas frecuentes
+Hiperpigmentación fisiológica
+Hiperpigmentación postinflmatoria
+Menos frecuentes
+Melanosis
+HSIL
+Melanoma
+Acantosis nigricans
+Nevo melanocítico
+Varices
+Hidroadenoma papiplifero
+Queratosis seborreica
+Carcinoma basocelular
+Angioqueratomas
+
+[t09-b008 | IMAGEN 6]
+Hiperpigmentación fisiológica
+
+[t09-b009 | NOTA]
+EN PIELES OCURAS
+
+[t09-b010 | NOTA]
+MACULA, SIN RELIEVE
+
+[t09-b011 | NOTA]
+HOMOGENEA Y SIMETRICA
+
+[t09-b012 | NOTA]
+BORDES DIFUSOS
+
+[t09-b013 | NOTA]
+ASINTOMATICA
+
+[t09-b014 | NOTA]
+SE VE EN LABIOS MENORES, PERINE Y REGION PERIANAL
+
+[t09-b015 | NOTA]
+EN LA VULVA HAY MAYOR CANTIDAD DE MELANOCITOS
+
+[t09-b016 | IMAGEN 7]
+Hiperpigmentación postinflamatoria
+
+[t09-b017 | NOTA]
+MACULAS DE DISTINTAS TONALIDADES Y MORFOLOGIA
+
+[t09-b018 | NOTA]
+NO HAY TANTA SIMETRIA, PORQUE DEPENDE DE LA INJURIA QUE LO HAYA PCASIONADO, EJ EL RASCADO
+
+[t09-b019 | NOTA]
+ASINTOMATICA
+
+[t09-b020 | NOTA]
+SE DEBE EXOLICAR BIEN AL PATOLOGO EN EL PEDIDO LAS CARACTERISTICAS DE LA LESION, PORQUER PUEDE SER CONFUNDIDO COMO UN MELANOMA
+
+[t09-b021 | NOTA]
+SON PACIENTES QUE PUEDEN TENER UN LIQUEN ESCLEROSO
+
+[t09-b022 | NOTA]
+ALT EN LA QUE LOS MELANOCITOS CAEN EN LA CAPA BASAL DE LA EPIDERMIS Y DE LA DERMIS:
+
+[t09-b023 | IMAGEN 8]
+Hiperpigmentación postinflamatoria
+
+[t09-b024 | IMAGEN 9]
+(Imagen sin texto reconocido)
+
+[t09-b025 | IMAGEN 10]
+HSIL vulvar (VIN)
+
+[t09-b026 | NOTA]
+ES MAS FRECUENTE EN PACIENTES JOVENES, QUE TIENEN FACTORES DE RIESGO PARA HPV (FUMADORAS, MULTIPLES PAREJAS SEXUALES)
+
+[t09-b027 | NOTA]
+PLACAS MARRONES GRISACEAS, ATERCIOPELADAS, BORDES DIFUSOS
+
+[t09-b028 | NOTA]
+PUEDEN SER ASINTOMATICAS O SINTOMATICAS (PRURITO, DOLOR Y DISPREUNIA)
+
+[t09-b029 | IMAGEN 11]
+(Imagen sin texto reconocido)
+
+[t09-b030 | IMAGEN 12]
+Angioqueratomas
+
+[t09-b031 | NOTA]
+LESIONES CAPILARES, CONSTITUIDAS POR VASOS QUE ESTAN EN LA DERMIS CAPILAR. TIENEN PAREDES DELGADAS. CUBIERTOS POR EPIDERMIS HIPERQUERATOSICA
+
+[t09-b032 | NOTA]
+MAS FRECUENTE EN EDAD AVANZADA
+
+[t09-b033 | NOTA]
+SI SE PRESENTAN EN PACIENTES MAS JOVENES SOSPECHAR PATOLOGIAS CONGENITAS
+
+[t09-b034 | NOTA]
+PUEDEN SANGRAR AL CONTACTO O CON MINIMO TRAUMATISMO
+
+[t09-b035 | IMAGEN 13]
+Queratosis seborreica
+
+[t09-b036 | NOTA]
+TUMOR DE LOS QUERATONICITOS, QUE VA A AFECTAR A PACIENTES MAYORES DE 40 AÑOS
+
+[t09-b037 | NOTA]
+NO SE VEN EN MUCOSA. SI EN TEJIDO QUERATINIZADO COMO LOS LABIOS MAYORES
+
+[t09-b038 | NOTA]
+SIN PREDILECCION POR REGION VULVAR
+
+[t09-b039 | NOTA]
+LESIONES PIGMENTADAS, SOBREELEVADAS, RUGOSAS
+
+[t09-b040 | NOTA]
+DENTRO DE LA LESION PUEDE APARECER UN FOLICULO PILOSO
+
+[t09-b041 | NOTA]
+NO SE SUELEN BIOPSIAR. PERO SE PUEDEN SACAR POR ESTETICA O MOLESTIA
+
+[t09-b042 | IMAGEN 14]
+(Imagen sin texto reconocido)
+
+[t09-b043 | IMAGEN 15]
+O
+
+[t09-b044 | IMAGEN 16]
+Condilomas
+depositoh
+0
+
+[t09-b045 | NOTA]
+LESIONES PAPULARES, QUE PUEDERPLANAS O VERRUGOSAS
+
+[t09-b046 | NOTA]
+MULTIPLES
+
+[t09-b047 | NOTA]
+NORMOPIGMENTADAS O HIPERPIGMENTADAS (SOBRETODO EN PIELES OSCURAS)
+
+[t09-b048 | NOTA]
+CAUSADAS POR GENOTIPOS 6 Y 11 DEL HPV
+
+[t09-b049 | IMAGEN 17]
+Melanosis vulvar
+
+[t09-b050 | NOTA]
+MACULAS UNICAS O MULTIPLES. ASIMETRICAS
+
+[t09-b051 | NOTA]
+UNI O BILATERALES
+
+[t09-b052 | NOTA]
+DE COLOR VARIABLE, PUEDEN SER MARRONES, MAS NEGRAS
+
+[t09-b053 | NOTA]
+BORDES POCO DEFINIDOS
+
+[t09-b054 | NOTA]
+LA DIFERENCIA CON MELANOMA, QUE SE DA EN PACIENTES >70. ESTAS PACIENTES SON MUCHO MAS JOVENES, CERCA DE LOS 40 AÑOS
+
+[t09-b055 | NOTA]
+UBICACION MAS FECUENTE EN LABIOS MENORES E INTROITO
+
+[t09-b056 | NOTA]
+SON LESIONES BENIGNAS, SIN RIESGO. SE SUGIERE SEGUIMIENTO, SACAR FOTOS Y SUBIRLAS A LA HC
+
+[t09-b057 | NOTA]
+SI SON ESTABLES NO SE BIOPSIAN. AUNQUE ANTE LA DUDA BIOPSIAR!!
+
+[t09-b058 | NOTA]
+PUEDEN INVOLUCIONAR
+
+[t09-b059 | IMAGEN 18]
+(Imagen sin texto reconocido)
+
+[t09-b060 | IMAGEN 19]
+daposí
+otos
+depi
+
+[t09-b061 | IMAGEN 20]
+Nevo melanocitico
+Dermatoscopía
+A: Asimétrica
+B: Bordes irregulares
+C: Color 2 ó +
+D: 6 mm diámetro
+E: Evolución
+
+[t09-b062 | NOTA]
+SON LESIONES QUE APARECEN EN LAS MENOPAUSICAS
+
+[t09-b063 | NOTA]
+TIENEN UN COLOR UNIFORME, SIMETRICO, MENORES DE 1 CM
+
+[t09-b064 | NOTA]
+SE LOCALIZAN EN LABIOS MENORES Y MAYORES.
+
+[t09-b065 | NOTA]
+NO CAMBIAN CON EL TIEMPO
+
+[t09-b066 | NOTA]
+TIENEN SUPERFICIE LISA
+
+[t09-b067 | NOTA]
+ANTE LA DUDA BIOPSIAS
+
+[t09-b068 | IMAGEN 21]
+Acantosis nigricans
+
+[t09-b069 | NOTA]
+HIPERPIGMENTACION QUE DA ASPECTO ATERCIOPELADO
+
+[t09-b070 | NOTA]
+COMPROMETE PLIEGUES Y LUGARES DE ROCE
+
+[t09-b071 | NOTA]
+COMUN ENPACIENTE OBESAS, ENF MEYBOLICA Y SECUNDARIA A ALGUNOS MEDICAMENTOS
+
+[t09-b072 | NOTA]
+LA HIPERPIGMENTACION NO DEPENDE DE LA MELANINA, SINO DE LA ACONTOSIS, AUMENTO DE LAS PROYECCION EPIDERMICAS.
+
+[t09-b073 | NOTA]
+VARICES
+
+[t09-b074 | IMAGEN 22]
+(Imagen sin texto reconocido)
+
+[t09-b075 | IMAGEN 23]
+Melanoma
+Es un tumor raro, aunque es la
+2da en frecuencia en la vulva
+Los factores genéticos tienen mas
+relevancia
+ABCDE>>>>biopsia
+
+[t09-b076 | NOTA]
+EDAD >65 AÑOS
+
+[t09-b077 | NOTA]
+COLORES HETROGENEOS
+
+[t09-b078 | NOTA]
+CAMBIOS EVOLUTIVOS
+
+[t09-b079 | IMAGEN 24]
+3 variantes: extensivo superficial,
+nodular, lentigo maligno.
+El Breslow es el factor pronostico
+mas importante
+
+[t09-b080 | IMAGEN 25]
+El tto es la cirugía
+La linfadenectomía es mas pronostica
+
+[t09-b081 | NOTA]
+SI EL MELANOMA INVADE HASTA 1 MM. SE HACE RESECCION AMPLIA CON UN MARGEN DE 1 CM
+
+[t09-b082 | NOTA]
+SI LA PROFUNDIDAD DE INVASION ES MAYOR, UN MARGEN DE 2 O 3 CM
+
+[t09-b083 | NOTA]
+LA LINFADENECTOMIA NO SE HACE EN TUMORES SUPERFICIALES
+
+[t09-b084 | NOTA]
+ES UN TUMOR RADIORESISTENTE
+
+[t09-b085 | NOTA]
+INMUNOTERAPIA SI
+
+[t09-b086 | IMAGEN 26]
+Donde y como biopsiar?
+Escisional con 1-3
+Incisional: es
+mm de margen es
+aceptable. A veces
+lo preferible
+múltiples.
+
+[t09-b087 | IMAGEN 27]
+Conclusiones
+Las lesiones pigmentadas son muy frecuentes y si bien la
+mayorias son benignas, las que sos sospechosas o generan
+duda DEBEN SER BIOPSIADAS.

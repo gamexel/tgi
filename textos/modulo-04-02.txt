@@ -1,0 +1,234 @@
+# 02 Dermatosis vulvares
+
+[t02-b001 | IMAGEN 1]
+DERMATITIS VULVARES
+· DERMATITIS DE CONTACTO ALERGICA o
+IRRITATIVA
+· DERMATITIS ATOPICA O LIQUEN SIMPLE CRONICO
+
+[t02-b002 | IMAGEN 2]
+ISSVD
+1970
+CURRENT ISSVD TERMINOLOGY AND CLASSIFICATION OF
+VULVAR DISEASES
+PATHOLOGICAL SUBSETS - Last updated January 23, 2016
+The purpose of this classification is to assist clinicians in interpreting pathology
+reports. It is important to consider the clinical presentation in addition to the
+histology to determine a diagnosis.
+2006 HISTOLOGICAL CLASSIFICATION OF VULVAR DERMATOSES
+
+[t02-b003 | NOTA]
+SON CONDICIONES BENIGNAS, INFLAMATORIAS, NO INFECCIOSAS
+
+[t02-b004 | IMAGEN 3]
+DERMAL HOMOGENIZATION/SCLEROSIS PATTERN
+2006 HISTOLOGICAL CLASSIFICATION OF VULVAR DERMATOSES
+Lichen sclerosus
+SPONGIOTIC PATTERN
+Atopic dermatitis
+VESICULOBULLOUS PATTERN
+Allergic contact dermatitis Irritant contact dermatitis
+Pemphigoid, cicatricial type
+ACANTHOTIC PATTERN (FORMERLY SQUAMOUS CELL
+Linear IgA disease
+HYPERPLASIA)
+ACANTHOLYTIC PATTERN
+Psoriasis
+Hailey-Hailey disease
+Lichen simplex chronicus
+Darier disease
+Primary (idiopathic)
+Papular genitocrural acantholysis
+Secondary (superimposed on lichen sclerosus, lichen planus, or other vulvar
+disease)
+GRANULOMATOUS PATTERN
+Crohn disease
+LICHENOID PATTERN
+Melkersson-Rosenthal syndrome
+Lichen sclerosus
+Lichen planus
+VASCULOPATHIC PATTERN
+Aphthous ulcers
+Behcet disease
+Plasma cell vulvitis
+
+[t02-b005 | NOTA]
+PATRON ESPONGIOTICO:
+
+[t02-b006 | NOTA]
+EDEMA INTERCELULAR
+
+[t02-b007 | NOTA]
+PATRON DE ACANTOSIS:
+
+[t02-b008 | NOTA]
+AUMENTO EN EL NUMERO DE CELULAS ESCAMOSAS Y DEL GROSOR EPIDERMICO
+
+[t02-b009 | IMAGEN 4]
+DERMATITIS DE CONTACTO:
+CLASIFICACIÓN
+ALERGICA
+IRRITATIVA
+Mecanismo inmunológico: reacción de
+Mecanismo no inmunológico: efecto citotóxico
+hipersensibilidad tipo IV
+contra queratinocitos
+Afecta a individuos predispuestos genéticamente
+Afecta cualquier individuo
+Respuesta demorada (3 a 5 días) posterior al
+Respuesta inmediata (3-5 horas) posterior al
+contacto
+contacto
+Prurito
+Quemazón
+Espongiosis
+Necrosis epidérmica
+Prueba del parche positiva
+Prueba del parche negativa
+Menos comun
+No se conoce prevalencia, pero es mas frecuente.
+
+[t02-b010 | NOTA]
+Es un conjunto de patologias de respuesta inflamatoria de la piel, que se producen por factores externos
+
+[t02-b011 | IMAGEN 5]
+ETIOLOGIA
+AGENTES IRRITANTES
+ALERGENOS
+Agua: exceso de lavado
+Anestésicos locales: lidocaína, benzocaína, tetracaína
+Fluidos corporales: orina, sudor, heces, semen, flujo vaginal
+Antibióticos: neomicina, bacitracina, polimixina, sulfamidas
+Productos de higiene: lubricantes, compresas, toallitas,
+Antifúngicos: imidazoles, nistatina
+pañales.
+Antisépticos: clorhexidina, violeta de gemsiana, tiomersal,
+Agentes térmicos: secadores y bolsas de agua caliente.
+povidona yodada.
+Fármacos: geles con alcohol, imiquimod, flouracilo (5-FU),
+Fragancias: balsamo de Peru, alcohol cinamico, eugenol,
+podofilino cantaridina, propilenglicol, podofilotoxina.
+isoeugemnol, citronela, corticoides tópicos.
+Detergentes y jabones
+Emolientes: lanolina, glicerina, aceite de jojoba,
+propilenglicol
+Preservantes: kathon, quaternium 15, formaldehido,
+bronopol, diazolidinil, urea, imidazolin urea
+Gomas: condones, diafragmas, guantes, pesarios, látex,
+tiuram
+Compresas femeninas: formoaldehido, fragancias,
+metacrilatos, acetil acetona
+Otros: niquel, toluen, sulfonamida de la laca de uñas,
+espermicidas.
+
+[t02-b012 | IMAGEN 6]
+DERMATITIS DE CONTACTO: CLÍNICA
+FORMA AGUDA
+FORMA SUBAGUDA
+FORMA CRONICA
+
+[t02-b013 | NOTA]
+Forma aguda: eritema, edema, vesicualas, secrecion serosa
+
+[t02-b014 | NOTA]
+Forma subaguda: eritema, piel seca y con descamacion
+
+[t02-b015 | NOTA]
+Forma cronica: sequedad, descamacion, fisura, proceso de liquenificacion e hiperqueratosis
+
+[t02-b016 | IMAGEN 7]
+DERMATITIS DE CONTACTO: CLÍNICA
+FORMA AGUDA
+FORMA SUBAGUDA
+FORMA CRONICA
+
+[t02-b017 | IMAGEN 8]
+DERMATITIS IRRITATIVA DEL PAÑAL
+
+[t02-b018 | IMAGEN 9]
+DERMATITIS IRRITATIVA POR
+INCONTINENCIA FECAL
+
+[t02-b019 | IMAGEN 10]
+DERMATITIS DE CONTACTO:
+DIAGNOSTICO
+ANAMNESIS
+· EXAMEN FISICO
+· PRUEBA DEL PARCHE
+· BIOPSIA
+
+[t02-b020 | IMAGEN 11]
+DERMATITIS DE CONTACTO:
+TRATAMIENTO
+· REGLA DE LAS 4R
+· RECONOCIMIENTO DEL AGENTE CAUSAL IRRITANTE O ALERGENO
+· REMOCION DEL IRRITANTE O ALERGENO
+· REDUCCION DE LA INFLAMACION
+· RESTAURACION DE LA BARRERA CUTANEA
+
+[t02-b021 | NOTA]
+Reduccion de la inflamacion con corticoides de 7 a 14 dias (Clobetasol unguento)
+
+[t02-b022 | NOTA]
+Restauracion: con emolientes como ceramidas (lipiods) e hidratacion
+
+[t02-b023 | IMAGEN 12]
+LIQUEN SIMPLE CRÓNICO
+· Dermatosis que se genera como consecuencia del rascado crónico. Se puede
+dar en cualquier parte de la piel, incluso los genitales
+· En las mujeres afecta con mayor frecuencia entre los 30 y 50 años
+PRURITO
+· Multicausal (antecedentes de atopia, psoriasis, tratornos psicológicos, ansiedad
+o depresión)
+RASCADO
+· PRIMARIO antecedentes de atopia
+· SECUNDARIO ciclo prurito-rascado (ej inicio con una candidiasis, liquen escleroso,
+liquen plano, etc)
+PRURITO
+
+[t02-b024 | IMAGEN 13]
+LIQUEN SIMPLE CRONICO: CLINICA
+· Prurito (inicio vespertino tardío o nocturno). Agravantes: estrés, sudoración, calor,
+actividad física, fricción, toallas higiénicas femeninas, contacto ropa interior sintética.
+Alivio parcial con rascado
+· PLACA UNILATERAL o BILATERAL localizada en área pilosa, de superficie irregular
+y bordes bien definidos. Piel engrosada, liquenificada con aumento de los pliegues
+cutáneos. La coloración es variable desde eritema hasta hipopigmentación o
+hiperpigmentación residual.
+· Lesiones por rascado eventualmente (erosiones, excoriaciones, ulceras)
+
+[t02-b025 | IMAGEN 14]
+LIQUEN SIMPLE CRÓNICO:
+DIAGNOSTICO
+CLINICO
+Biopsia ante dudas diagnosticas (psoriasis, VINd, Paget, liquen escleroso)
+
+[t02-b026 | IMAGEN 15]
+Dermatitis vulvar. Dra Serber
+LIQUEN SIMPLE CRÓNICO:
+TRATAMIENTO
+· Eliminar factores desencadenantes
+· Reparar el daño epitelial
+· Reducir la inflamación
+· PRIMERA LINEA Propionato de clobetasol 0.05% unguento
+· SEGUNDA LINEA Pimecrolimus al 1% o tacrolimus al 0.1%, triamcinolona IM 60-80mg.
+· Romper el círculo prurito-rascado-prurito
+· Tratar infecciones agregadas
+
+[t02-b027 | NOTA]
+Romer circulo rascado prurito: con antihistaminico
+
+[t02-b028 | IMAGEN 16]
+VULVOSCOPIAS
+
+[t02-b029 | IMAGEN 17]
+VULVOSCOPIAS
+
+[t02-b030 | IMAGEN 18]
+VULVOSCOPIAS
+
+[t02-b031 | IMAGEN 19]
+VULVOSCOPIAS
+
+[t02-b032 | IMAGEN 20]
+VULVOSCOPIAS

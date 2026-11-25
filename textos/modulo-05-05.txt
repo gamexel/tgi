@@ -1,0 +1,123 @@
+# m05-t05 CA DE CUELLO POCO FRECUENTES
+
+[m05-t05-b001 | IMAGEN 1]
+Aquellos que se presentan < 15/100.000 personas por año
+
+[m05-t05-b002 | IMAGEN 2]
+Carcinoma de cuello uterino HPV no relacionados
+2020 WHO classification of cervical adenocarcinoma (AC)
+(International Endocervical Adenocarcinoma Classification; IECC1)
+HPV-associated
+HPV-independent
+› Usual type
+Gastric AC
+Clear-cell AC
+› Mesonephroid AC (Gartner's duct carcinoma)
+Endometrioid3
+Variants
+p16-positive
+Immunohistochemistry
+p16-positive4
+› Villoglandular
++ p16 is not absolutely necessary
+›Mucinous NOS
+for the classification; usually,
+› Mucinous intestinal
+the HE morphology is sufficient
+› Mucinous signet-ring cell
+› Invasive SMILE (i-SMILE)
+› (Endometrioid)2
+1 The IECC Classification (Stolnicu et al. 2018) [31] has been largely adopted by the WHO.
+Adenosquamous
+2 Is a variant of the usual type with mucus depletion. Immunohistochemical analysis to rule out cervical
+›Mucoepidermoid
+infiltration of an endometrioid endometrial carcinoma is recommended.
+› Adenoid basal cell
+3 Primary endometrioid cervical carcinoma is extremely rare and is usually associated with endometriosis.
+4 In its role as a tumor suppressor gene, p16 may also be positive in HPV-independent AC; in such cases
+it is not indicative of a high-risk HPV infection.
+
+[m05-t05-b003 | IMAGEN 3]
+Carcinoma de cuello uterino HPV no relacionados
+Pruebas de VPH: detección y genotipificación
+El estado de negativo al VPH puede estar asociado con diferentes escenarios potenciales:
+- Cánceres independientes del VPH (verdaderos negativos): algunos subtipos de adenocarcinomas y de
+carcinoma escamoso;
+- Pérdida del genoma del VPH durante el proceso de integración;
+- Presencia de genotipos virales no incluidos en las pruebas moleculares;
+- Falla en la detección del método de diagnóstico empleado; o
+- Clasificación errónea de cánceres como cervicales primarios (metástasis o neoplasias primarias del cuerpo
+uterino)
+
+[m05-t05-b004 | IMAGEN 4]
+Los cánceres cervicales poco frecuentes constituyen menos del 5% de todos los cánceres de cuello
+uterino.
+· Carcinoma de células pequeñas/neuroendocrino: 1-2% de todos los casos.
+· Carcinoma adenoescamoso: 3-5% de los casos.
+· Melanoma cervical: menos del 1% de melanomas ginecológicos
+· Carcinoma de células claras: menos del 5%.
+
+[m05-t05-b005 | IMAGEN 5]
+· Factores de Riesgo: Similar a los cánceres más comunes (VPH, tabaquismo, inmunosupresión), algunos
+subtipos pueden estar asociados a factores adicionales como exposición prenatal al dietilestilbestrol (DES)
+en el carcinoma de células claras.
+· Supervivencia: En general, estos cánceres tienen un pronóstico más desfavorable, con tasas de
+supervivencia a 5 años que varían del 30-50%, dependiendo del subtipo y estadio al diagnóstico.
+
+[m05-t05-b006 | IMAGEN 6]
+Presentación Clínica:
+- Síntomas: Similar a otros cánceres cervicales (sangrado vaginal anormal, dolor pélvico), pero
+pueden progresar más rápidamente.
+- Hallazgos Citológicos: Puede ser difícil distinguirlos en citologías de rutina; se requiere
+confirmación histológica.
+- Biopsia: Colposcopia con Biopsia Dirigida: Es crucial para el diagnóstico inicial.
+- Inmunohistoquímica: Utilizada para subtipificar el tumor (p. ej., sinaptofisina y cromogranina
+en carcinomas neuroendocrinos).
+
+[m05-t05-b007 | IMAGEN 7]
+Presentación Clínica:
+- Tumores neuroendocrinos: sangrado vaginal anormal, dolor pélvico o masas pelvianas.
+- Diagnóstico definitivo: biopsia con inmunohistoquímica: cromogranina A, sinaptofisina y enolasa
+neuroespecífica.
+- Melanoma cervical: sangrado vaginal, dolor pélvico o la aparición de una masa pigmentada en el cuello
+uterino.
+- Diagnóstico con biopsia e inmunohistoquímica: HMB-45, S100 y melan A son positivos.
+- Carcinoma de células claras: Clínicamente similar al cáncer de cuello uterino epidermoide, con
+síntomas como sangrado vaginal. Puede ser diagnosticado mediante biopsia, con células tumorales
+grandes con citoplasma claro en la tinción de H&E.
+- Diagnóstico confirmado con inmunohistoquímica: Positivo para CK7, negativo para CK20, y
+pueden expresar Napsina A y WT1.
+
+[m05-t05-b008 | IMAGEN 8]
+Exámenes complementarios
+- Resonancia Magnética (RM): Para evaluar extensión local.
+- Tomografía por Emisión de Positrones (PET): Útil para evaluar la diseminación a distancia,
+especialmente en carcinomas neuroendocrinos.
+
+[m05-t05-b009 | IMAGEN 9]
+Tratamiento
+- Tumores neuroendocrinos: Tratamiento agresivo que incluye cirugía (histerectomía radical),
+quimioterapia con platino-etopósido y radioterapia. El manejo es similar al de los tumores
+neuroendocrinos de pulmón debido a su comportamiento agresivo.
+- Melanoma cervical: cirugía (histerectomía radical), muy resistente a la radioterapia y
+quimioterapia. Recientemente se han investigado inmunoterapias como inhibidores de puntos de
+control inmunitarios (anti-PD-1/PD-L1).
+- Carcinoma de células claras: El tratamiento inicial es similar al de otros cánceres de cuello
+uterino: histerectomía radical, seguido de radioterapia y quimioterapia basada en platino. Peor
+respuesta a quimioterapia que otros tipos histológicos.
+
+[m05-t05-b010 | IMAGEN 10]
+Seguimiento
+Controles mensuales con examen fisico e imágenes.
+- Tumores neuroendocrinos: Tienen una tasa de supervivencia a 5 años que varía entre el 25% y
+el 30%, debido a su naturaleza agresiva.
+- Melanoma cervical: La tasa de supervivencia a 5 años es inferior al 25%, con recurrencias
+frecuentes y mal pronóstico.
+- Carcinoma de células claras: La tasa de supervivencia a 5 años es variable, entre el 50% y el
+70%, dependiendo del estadio en el momento del diagnóstico.
+
+[m05-t05-b011 | IMAGEN 11]
+CONCLUSIONES
+· Detección temprana: promoción de programas de tamizaje y
+vacunación (sobre todo en lo HPV dependientes)
+· Manejo multidisciplinario (NeCTuR)

@@ -1,0 +1,755 @@
+# m03-t13 Manejo HSIL
+
+[m03-t13-b001 | IMAGEN 1]
+¿Qué es un HSIL hoy?
+Cytology
+HSIL
+LAST
+LSIL
+System[1]
+Histology
+LSIL
+p16 staining should
+be performed*
+HSIL
+Bethesda
+Cytology
+LSIL
+HSIL
+Classification
+System[2]
+Histology
+CIN 1
+CIN 2
+CIN 3
+Previous
+Severe
+terminology
+Mild dysplasia
+Moderate dysplasia
+Carcinoma
+dysplasia
+in-situ
+Histologic
+images
+
+[m03-t13-b002 | IMAGEN 2]
+¿Qué es un HSIL hoy?
+The Lower Anogenital Squamous Terminology
+CIN 2 morfológico
+Standardization Project for HPV-Associated Lesions:
+Background and Consensus Recommendations from the College of American
+Pathologists and the American Society for Colposcopy and Cervical Pathology
+por H&E
+Teresa M. Darragh, MD;1 Terence J. Colgan, MD;2 J. Thomas Cox, MD;3 Debra S. Heller, MD;3 Michael R. Henry, MD;4 Ronald D.
+Luff, MD;5,6 Timothy McCalmont, MD;' Ritu Nayar, MD;7 Joel M. Palefsky, MD;1 Mark H. Stoler, MD;8 Edward J. Wilkinson, MD;9
+Richard J. Zaino, MD;10 David C. Wilbur, MD," for members of the LAST Project Work Groups
+· Alto grado
+· Bajo grado
+· Marcación positiva para p16
+· Marcación negativa
+· Patrón fuerte, difuso y en bloque.
+· no en bloque/ en parches.
+· Puede ser nuclear o nuclear y
+citoplasmática.
+· Solo citoplasmática.
+· Capa basal con extensión de al
+· Células aisladas.
+menos un tercio del espesor
+epitelial.
+Arch Pathol Lab Med-Vol 136, October 2012
+
+[m03-t13-b003 | IMAGEN 3]
+Lesiones intraepiteliales
+Dos entidades biológicas distintas
+Infección
+Infección
+productiva
+transformante
+LSIL
+HSIL
+· P16 neg.
+· P16 positivo
+· Virus en estado
+· Verdadera lesión
+episomal
+preneoplásica
+· Conducta: seguimiento
+· Conducta: tratamiento
+
+[m03-t13-b004 | IMAGEN 4]
+ORIGINAL RESEARCH ARTICLE: CERVIX AND HPV
+OPEN
+2019 ASCCP Risk-Based Management Consensus
+Guidelines for Abnormal Cervical Cancer Screening
+Tests and Cancer Precursors
+Rebecca B. Perkins, MD, MSc,1 Richard S. Guido, MD,2 Philip E. Castle, PhD,3 David Chelmow, MD,4
+Mark H. Einstein, MD, MS,5 Francisco Garcia, MD, MPH,6 Warner K. Huh, MD,7 Jane J. Kim, PhD, MSc,8
+Anna-Barbara Moscicki, MD,9 Ritu Nayar, MD,10 Mona Saraiya, MD, MPH,11 George F. Sawaya, MD,12
+Nicolas Wentzensen, MD, PhD, MS,13 and Mark Schiffman, MD, MPH14 for the 2019
+ASCCP Risk-Based Management Consensus Guidelines Committee
+(J Low Genit Tract Dis 2020;24: 102-131)
+
+[m03-t13-b005 | IMAGEN 5]
+CAMBIO DE PARADIGMA:
+DE GUÍAS BASADAS EN RESULTADOS
+A
+GUÍAS BASADAS EN UMBRALES
+DE RIESGO
+
+[m03-t13-b006 | IMAGEN 6]
+UMBRAL DE ACCIÓN CLÍNICA
+PARA TRATAMIENTO INMEDIATO
+· Riesgo de una paciente HPV 16 + con citología HSIL
+UMBRAL DE ACCIÓN CLÍNICA PARA
+COLPOSCOPIA O TRATAMIENTO
+· Riesgo de una paciente HPV+ con citología ASC-H
+INMEDIATO ACEPTABLE
+UMBRAL DE ACCIÓN CLÍNICA
+· Riesgo de una paciente HPV+ con citología ASC-US/
+PARA COLPOSCOPIA
+LSIL.
+UMBRAL DE ACCIÓN CLÍNICA
+· Riesgo intermedio entre seguimiento a 3 años y
+PARA SEGUIMIENTO EN I ANO
+colpo. Ej .; HPV + citología NILM
+UMBRAL DE ACCIÓN CLÍNICA
+·
+Equivale al riesgo de una paciente con citología
+PARA SEGUIMIENTO EN 3 AÑOS
+negativa, en la población general.
+UMBRAL DE ACCIÓN CLÍNICA
+·
+Equivale al riesgo de una paciente con test de HPV
+PARA CONTROL EN 5 AÑOS
+negativo o Co-test negativo en la población general.
+KIB
+Hospital Británico
+
+[m03-t13-b007 | IMAGEN 7]
+Decidir ...
+Conducta
+expectante
+Tratamiento
+· Seguimiento
+· Ablación
+cito-
+colposcópico
+· Escisión
+
+[m03-t13-b008 | IMAGEN 8]
+HSIL- Manejo
+Diferentes escenarios:
+· CIN 1 precedido de:
+· Histología de CIN 2 menores de 25
+· Citología ASC-H
+años.
+· Citología HSIL
+· CIN 2 en mayores de 25 años.
+· "Discordancia cito-histológica"
+· CIN 3
+
+[m03-t13-b009 | IMAGEN 9]
+Lesión de bajo grado (CIN 1) precedida de citología
+ASC-H
+Observation:
+Cytology <25 years
+HPV-based testing ≥ 25 years
+OR
+Review of cytologic,
+histologic, and
+at 1 and 2 years*
+colposcopic findings
+-Con límite E-C completamente
+visible.
+Negative Cytology or
+Abnormal
+Age ≥ 25 years:
+Manage per
+HPV-based testing
+Test Results
+Cytology HSIL
+Diagnostic
+-Límite superior de la lesión visible.
+at 1 year and 2 years
+at 1 or 2 years or
+Excisional
+2019 ASCCP Guideline
+Procedure^
+for revised diagnosis
+ASC-H at 2 years
+-LEC neg.
+Age < 25 yrs:
+1
+HPV-based testing
+Manage
+Cytology HSIL
+in 3 years
+per 2019 ASCCP
+or ASC-H
+Conducta: seguimiento con test de
+Guidelines
+at 2 years
+HPV.
+"Only if colposcopy visualizes the entire squamocolumnar junction and
+upper limit of lesion(s), and endocervical sampling negative
+^Except in pregnant women
+El riesgo de CIN 3+ al año: 1,4%.
+JOURNAL Copyright 2020. ASCOPIAll rights reserved
+ASEP
+
+[m03-t13-b010 | IMAGEN 10]
+Lesión de bajo grado (CIN 1) precedida de
+citología HSIL
+Observation:
+Colposcopy & Cytology <25 years
+OR
+Diagnostic Excision Procedure^
+OR
+Review of cytologic, histologic,
+Manejo más agresivo
+Colposcopy & HPV-based testing ≥ 25 years
+and colposcopic findings
+at 1 year*
+Tanto un procedimiento
+Abnormal Test Results
+Manage per
+diagnóstico escisional como
+ASCCP Guideline
+All Tests Negative
+Cytologic HSIL
+for revised diagnosis
+seguimiento al año son aceptables.
+at 1 year
+1
+Age-specific
+Manage per
+Continued observation
+Procedimiento diagnóstico
+retesting
+2019 ASCCP
+for age <25 years only
+in 1 year+
+Guidelines
+escisional:
+-si límite E-C no es completamente
+-
+ASC-H/HSIL
+All Tests Negative
+cytology
+Diagnostic Excisional
+Procedure
+visible o la lesión no es completamente
+at 2 years
+visible.
+HPV-based
+"Only if colposcopy visualizes the entire squamocolumnar junction and
+testing in
+upper limit of lesion(s), and endocervical sampling is <CIN2
+3 years
+^Except in special populations (pregnant women and those <25 years)
+Cytology + colposcopy <25 years; HPV-based testing ≥25 years
+Seguimiento con colpo y test de HPV.
+El riesgo de CIN 3+ al año: 3,9%
+HPV-based testing
+every 3 years for at
+least 25 years
+Copyright 2020, ASCCP All rights reserved
+ASEP
+
+[m03-t13-b011 | IMAGEN 11]
+Citología ASC-H o H-SIL
+Algoritmo Nº 2
+Considerar la revisión
+de los resultados
+1
+citológicos,
+Colposcopia
+colposcópicos e
+histológicos y de
+1
+acuerdo al resultado de
+Presencia o sospecha de lesión Grado 2
+Sin lesión visible
+los mismos, el manejo
+1
+correspondiente
+Biopsia
+H-SIL:
+CIN 2 p16+ / CIN 3
+ECE
+L-SIL o menor
+ZT tipo 3
+Tratamiento
+L-SIL o menor
+ZT tipo 1 o 2
+Control a los 6 meses:
+citología y colposcopia
+Persistencia de la discordancia
+Sin lesión
+con evaluación de vagina
+con sospecha de H-SIL
+1
+1
+Control con prueba de
+Lesión vaginal
+Procedimiento
+HPV en 1 año o citología
+diagnóstico
+escisional :
+B II
+cada 6 meses por 1 año
+Tratamiento o seguimiento
+biopsia ampliada
+C II
+1
+de la lesión de vagina
+C III
+Ver algoritmo Nº 1
+
+[m03-t13-b012 | IMAGEN 12]
+HPV 16 y PAP HSIL y Bp LSIL
+·
+50 años, antecedentes crio por LSIL
+en el pasado
+· Co-test: Test HPV +16, citología
+HSIL
+· Colpo sin lesión ecto
+· LEC: LSIL/ CIN 1
+· Conducta:
+· Revisar los hallazgos
+· Procedimiento escisional
+(¡no olvidarse de evaluar la vagina!)
+K+B
+
+[m03-t13-b013 | IMAGEN 13]
+Explicación:
+· CIN 1 con citología cambios menores/
+HPV+ con cito NILM: seguimiento
+· CIN 1 con cito precedente HSIL,
+colposcopia ZT 3: procedimiento
+escisional.
+· HPV 16 y PAP HSIL: riesgo inmediato
+>60%: justifica procedimiento escisional.
+
+[m03-t13-b014 | IMAGEN 14]
+HSIL ectocervical con lesión completamente visible
+· Con límite E-C completamente
+visible (ZT 1)
+CIN 2,3
+› Procedimiento diagnóstico
+escisional preferible.
+› Tratamiento ablativo es
+aceptable
+Guías 2019 de la ASCCP.
+J Low Genit Tract Disease 2020; 24: 102-131.
+
+[m03-t13-b015 | IMAGEN 15]
+Management of CIN 2,3
+-Escisional preferible
+-Ablación aceptable
+1% of CIN 2,3 biopsies associated with invasive cancer
+Ablación inaceptable si:
+3/1000 Invasive Cancer
+-la unión E-C o el límite
+Excision
+(-) ECC
+superior de la lesión no
+Only
+Satisfactory Colpo
+puede verse por completo.
+7% Invasive Cancer
+Ablation
+Unsatisfactory Colpo
+or
+-lesión se extiende al conducto
+(+) ECC
+Excision
+-LEC +
+-extensión >75% de la
+ASEP
+superficie del ectocervix
+2020 Scientific Meeting on Anogenital & HPV-Related Diseases
+Ablación incluye: crioterapia, ablación con láser, termoablación
+
+[m03-t13-b016 | IMAGEN 16]
+CIN 2 en <25 años
+Paciente de 25 años, sin antecedentes.
+Sin hijos, con deseos de fertilidad.
+PAP ASC-H
+Bp ectocervix HSIL (CIN 2, p16+).
+LEC: negativo
+Conducta:
+-tratamiento escisional
+-seguimiento
+Condiciones:
+-límite E-C visible
+-LEC neg para CIN 2+/ SIL no clasificable
+Seguimiento:
+-Colposcopia
+-Citología c/6 meses x 2 años
+-Si persiste + 2 años: tratamiento
+
+[m03-t13-b017 | IMAGEN 17]
+CIN 2 en mujer joven o con deseos de fertilidad
+Clinical course of untreated cervical intraepithelial neoplasia
+grade 2 under active surveillance: systematic review and
+meta-analysis
+Karoliina Tainio,1 Antonios Athanasiou,2 Kari A O Tikkinen,3 Riikka Aaltonen,4
+Jovita Cárdenas Hernándes,5 Sivan Glazer-Livson,1 Maija Jakobsson,1 Kirsi Joronen,4
+Mari Kiviharju,1 Karolina Louvanto,1,6 Sanna Oksjoki,4 Riikka Tähtinen,7 Seppo Virtanen,1
+Pekka Nieminen,1 Maria Kyrgiou,8,9 Ilkka Kalliala 1,8
+36 ensayos, 3160 pacientes incluidas.
+Resultados a 24 meses:
+Subgrupo de <30 años N: 1069
+-50% regresión
+-60% regresión
+-32% persistencia
+-23% persistencia
+-18% progresión
+-11% progresión
+
+[m03-t13-b018 | IMAGEN 18]
+CIN 2 en mujer joven o con deseos de fertilidad
+· Es deseable que todo el tejido afectado sea extirpado.
+· Pero
+· Cuanto mayor sea la resección, especialmente del conducto endocervical,
+mayores son las secuelas.
+· Profundidad de la resección >12mm, RR: 2,98 de parto pretérmino2
+(con <10mm no aumentaría el riesgo)
+· Volumen >6cm3, RR: 3,0 de parto pretérmino2
+· La proporción de cuello resecado refleja mejor el riesgo.1
+· "Tratamiento a medida".
+
+[m03-t13-b019 | IMAGEN 19]
+HSIL
+· CIN 3: siempre tratamiento, salvo
+en el embarazo.
+· CIN 2 >25 años:
+· ZT 1 o 2: el tratamiento es lo
+recomendado pero el seguimiento es
+aceptable.
+· ZT 3: siempre tratamiento
+
+[m03-t13-b020 | IMAGEN 20]
+HSIL- Elección del tratamiento
+· Ante una biopsia que informe SIL de alto grado, el manejo posterior dependerá de
+una serie de factores.
+-Edad de la paciente.
+-Extensión de la lesión.
+-Colposcopia adecuada/ tipo de ZT.
+-Compromiso del canal endocervical.
+-Embarazo.
+-Posibilidad de seguimiento.
+
+[m03-t13-b021 | IMAGEN 21]
+Evaluación pre-terapéutica
+· Colposcopía:
+· ZT tipos (límite escamo-columnar
+a.
+type l
+b.
+type II
+c.
+type III
+visible, parcialmente visible o no
+visible).
+· Extensión de la lesión.
+· Bp dirigida.
+· Citología.
+completely ectocervical
+has endocervical
+has endocervical
+fully visible
+component
+component
+small or large
+fully visible
+is not fully visible
+· Estudio del canal endocervical.
+may have ectocervical
+may have ectocervical
+component which may
+component which may
+be small or large
+be small or large
+
+[m03-t13-b022 | IMAGEN 22]
+ZT tipo 1
+
+[m03-t13-b023 | IMAGEN 23]
+ZT tipo 2
+
+[m03-t13-b024 | IMAGEN 24]
+(Imagen sin texto reconocido)
+
+[m03-t13-b025 | IMAGEN 25]
+ZT tipo 2
+Evaluación
+con
+endoespéculo
+
+[m03-t13-b026 | IMAGEN 26]
+ZT tipo 3
+
+[m03-t13-b027 | IMAGEN 27]
+Modalidades terapéuticas
+Métodos destructivos
+Métodos escisionales:
+locales:
+Conización a bisturí
+Vaporización con láser.
+LLETZ
+Crioterapia
+Electroconización/ SWETZ/
+Electrofulguración (PEF)
+NETZ
+Conización láser
+
+[m03-t13-b028 | IMAGEN 28]
+Tratamientos ablativos/ destructivos locales
+·
+Si bien no hay diferencias estadísticamente significativas en la tasa de
+curación para el CIN, en estudios aleatorizados, entre los tratamientos
+destructivos, la vaporización láser o el LEEP.
+(Mitchell, MF, et al. A randomized clinical trial of cryotherapy, laser
+vaporization, and loop electrosurgical excision for treatment of squamous intraepithelial lesions of the cervix. Obstet Gynecol 1998; 92:737.)
+· No se dispone de pieza para estudio AP.
+· Se ha reportado el hallazgo inesperado de un Ca microinvasor o
+adenoca in situ en hasta 2-3% de las piezas de LEEP.
+(Ferenczy, A, et al. Loop electrosurgical excision
+procedure for squamous intraepithelial lesions of the cervix: advantages and potential pitfalls. Obstet Gynecol 1996; 87:332.)
+· Preferimos los tratamientos escisionales.
+
+[m03-t13-b029 | IMAGEN 29]
+*Procedimiento diagnóstico escisional
+-espécimen intacto/ evitar la fragmentación de la pieza
+operatoria.
+- que tenga márgenes evaluables.
+-raspado del canal residual o escisión de forma cónica
+
+[m03-t13-b030 | IMAGEN 30]
+2011 Colposcopic Terminology of the
+International Federation for Cervical
+Pathology and Colposcopy
+Jacob Bornstein, MD, MPA, James Bentley, MB, ChB, Peter Bösze, MD, Frank Girardi, MD,
+Hope Haefner, MD, Michael Menton, MD, Myriam Perrotta, MD, Walter Prendiville, MD,
+Peter Russell, MD, Mario Sideri, MD, Björn Strander, MD, Silvio Tatti, MD, Aureli Torne, MD,
+and Patrick Walker, MD
+Terminología colposcópica del cuello uterino de IFCPC 20111
+Evaluación General
+· Adecuada/inadecuada a causa de ... (por
+ej .: cuello uterino no claro por
+inflamación, sangrado, cicatriz)
+· Visibilidad de la unión escamocolumnar:
+completamente visible, parcialmente
+visible, no visible.
+Tipos de zona de transformación 1,2,3
+
+[m03-t13-b031 | IMAGEN 31]
+Terminología colposcópica del cuello uterino - apéndice de IFCPC 20111
+Tipos de tratamiento de
+Tipo de escisión 1,2,3
+escisión
+Medidas de la muestra
+Largo - distancia del margen
+de escisión
+distal/externo al margen
+proximal/interno
+Grosor - distancia del margen
+estromal a la superficie de la muestra
+extirpada
+Circunferencia (Opcional)- el
+perímetro de la muestra extirpada.
+
+[m03-t13-b032 | NOTA]
+EL PATOLOGO DEBE INFORMAR EL LARGO DE LA PIEZA, LA CIRCUNFERENCIA Y ESPESOR
+
+[m03-t13-b033 | IMAGEN 32]
+Tipos de escisión:
+Type 1 Excision
+Type 2 Excision
+Type 3 Excision
+2.
+Upper Limit of Visibility
+2.
+Upper Limit of Visibility
+2 =
+Upper Limit of Visibility
+Transformation Zone
+Transformation Zone
+Transformation Zone
+Excision Line
+.....
+Excision Line
+Excision Line
+-Tipo 1: para una zona de transformación completamente exocervical (profundidad 8mm)
+-Tipo 2: reseca una pequeña porción de epitelio endocervical, visible por el colposcopio. (entre 8
+y 12mm)
+-Tipo 3: reseca mayor cantidad de tejido que las anteriores, con una significativa porción del
+epitelio endocervical (mayor de 20mm)
+
+[m03-t13-b034 | IMAGEN 33]
+Elección de la técnica
+ZT tipo 1
+ZT tipo 2
+ZT tipo 3
+Escisión de tipo1
+Escisión de tipo 2
+Escisión de tipo 3
+Asa semicircular/LLETZ,
+Doble pasada/ asa de
+Cono con
+adecuar el tamaño del asa
+mayor profundidad/
+bisturí/ electroconización
+al de la lesión
+tallado con microaguja
+con microaguja/ cono
+con asa triangular/cono
+con laser
+9006215 Loop
+(2.0cm x 0.8cm)
+9006220 Loop
+(2.0cm x 1.3cm)
+
+[m03-t13-b035 | IMAGEN 34]
+Procedimiento de extirpación de pasos múltiples.
+
+[m03-t13-b036 | IMAGEN 35]
+Conización cervical con leep
+Técnicas:
+-Asa de Elizalde o Focaccia
+-Microaguja (SWETZ, NETZ)
+
+[m03-t13-b037 | IMAGEN 36]
+Asa de Elizalde
+· Se pueden utilizar 2 puntos tractores en h 3 y 9.
+· Se realiza la cervicometría.
+· Se ajusta el tope del asa al largo del cuello.
+· Tomar el mango de bisturí desde el extremo,
+con los dedos rodeándolo. Usar el pedal.
+· Se introduce el asa cortando por hora 11 hasta
+la profundidad convenida y, en un movimiento
+continuo, se la gira hasta completar el círculo.
+
+[m03-t13-b038 | IMAGEN 37]
+Asa de Elizalde
+· Pro
+· Cono con escasas diferencias intra e
+inter operador. Procedimiento poco
+·
+Contras
+operador dependiente.
+· Daño térmico del canal al ingresar
+· Tiempo quirúrgico breve.
+con el asa.
+· Piezas amplias de buena calidad.
+· Dificultad en cuellos con orificios
+cervicales desgarrados.
+
+[m03-t13-b039 | IMAGEN 38]
+·
+Cono con Microaguja
+· Operador dependiente.
+· Tallado artesanal del cono al modo del bisturí frío, variable en
+función de la topografía de la lesión.
+· Sin daño térmico al conducto.
+· Mayor tiempo quirúrgico que con asas triangulares.
+· Adaptable a cualquier anatomía cervical. Útil en cuellos
+desgarrados.
+
+[m03-t13-b040 | IMAGEN 39]
+La pieza operatoria se marca
+con punto en h 12.
+Se fija en formol al 10%.
+
+[m03-t13-b041 | IMAGEN 40]
+Tratamientos escisionales
+Comparación de las diferentes técnicas
+Ventajas
+Desventajas
+Cono "frío"
+Calidad del espécimen
+Mayor alteración anatómica
+luego de la cicatrización
+Mayores complicaciones
+Cono laser
+Buena hemostasia
+Alto costo
+Mínima distorsión anatómica
+Dificultad para un cono alto y
+angosto
+Ambulatorio
+Daño térmico
+Cono leep (microaguja)
+Ambulatorio
+Algo de daño térmico
+Mínimo daño térmico/ buena
+calidad del espécimen
+Bajo costo
+Mínima distorsión anatómica
+
+[m03-t13-b042 | IMAGEN 41]
+SOGIBA
+COLPOARGENTINA
+SOCIEDAD ARGENTINA DE PATOLOGÍA
+Sociedad de Obstetricia
+DEL TRACTO GENITAL INFERIOR Y COLPOSCOPIA
+y Ginecología de Bs. As.
+Fundada en 1908
+· CIN 3:
+Nueva guía 2022
+·Tratamiento escisional de acuerdo a
+Prevención primaria y secundaria
+del cáncer cervicouterino:
+la ZT, tipo 1, 2 o 3.
+"Manejo del tamizaje anormal y de las
+lesiones histológicas del cuello uterino".
+·La resección será la necesaria para la
+eliminación completa de la lesion.
+Evitar la resección excesiva de tejido sano.
+
+[m03-t13-b043 | IMAGEN 42]
+Nueva guía 2022
+- Sin posibilidad de realizar p16: manejo
+Prevención primaria y secundar
+del cáncer cervicouterino:
+como CIN 2 p16 positiva
+"Manejo del tamizaje anormal y de
+lesiones histológicas del cuello uter
+CIN 2
+· Con posibilidad de realizar p16
+- CIN 2 p16 negativa: manejo del L-SIL
+- CIN 2 p16 positiva:
+< 25 años: control cito-colposcópico cada
+6 meses por 2 años en ZT tipo 1 y 2 con posibi-
+≥ 25 años: Con ZT tipo 1 y 2 el tratamiento
+lidad de seguimiento estricto (C II). Es acepta-
+escisional es preferible y el seguimiento es aceptable.
+ble el tratamiento escisional (especialmente cuando
+Con ZT tipo 3: tratamiento escisional.
+la preocupación sobre el cáncer supere la inquietud
+sobre los posibles efectos ante un futuro embarazo)
+(B II).
+
+[m03-t13-b044 | IMAGEN 43]
+Conclusiones
+· Debe procurarse la realización de la IHQ con p16 en todos los casos de CIN
+2 por H&E, para asegurar el diagnóstico de AG.
+· El CIN2 en paciente jóven, colposcopia ZT tipo 1, 2 y posibilidad de
+seguimiento estricto, se puede recomendar observación, dada la alta tasa de
+regresión.
+· En HSIL preferimos el tratamiento escisional, aunque el destructivo local es
+aceptable en algunos casos.
+· El tipo de escisión a realizarse depende principalmente del tipo de ZT.
+
+[m03-t13-b045 | IMAGEN 44]
+Indicaciones de Estudio del conducto endocervical
+ZT3
+- Sospecha de invasión en conducto
+- Lesiones que se introducen en el conducto
+- Estudio de patología glandular
+
+[m03-t13-b046 | NOTA]
+*ESTADO EPISOMAL: EL AND DEL VIRUS SE ENCUENTRA DENTRO DE LA CELULA PERO SEPARADO DEL AND CELULAR, NO ESTA INTEGRADO AL GENOMA

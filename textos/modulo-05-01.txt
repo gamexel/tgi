@@ -1,0 +1,487 @@
+# m05-t01 AP CA DE CUELLO
+
+[m05-t01-b001 | IMAGEN 1]
+Carcinoma escamoso
+85 %
+. Adenocarcinoma y ca. Adenoescamoso
+10-15%
+
+[m05-t01-b002 | IMAGEN 2]
+ICCR -¿ Qué debemos reportar en un cancer de cérvix?
+FlorenciA Garcia Kamermann
+Clínico
+Macroscopia
+Microscópico
+TIPO DE ESPECIMEN
+· Dimensiones/ cono-leep: número de cortes.
+· Dimensión tumoral: Horizontal (2
+· Cuello:
+medidas) y espesor o profundidad
+O
+-Diámetro ectocervical
+· Tipo histológico
+- Profundidad
+· Embolias vasculolinfaticas
+· Magos vaginales: Máxima y mínima longitud.
+· Patología coexistente: SIL-AIS-etc
+· Macroscopia del sitio tumoral
+· Extensión de la invasión
+· Parametrios: extensión lateral.
+· Márgenes (distancia)
+· Estado ganglionar
+· FIGO/TNM
+18 19 20 21 22 23 24 25 26
+19
+20
+21 22 23 24 25 26 27 28
+
+[m05-t01-b003 | IMAGEN 3]
+FlorenciA Garcia ...
+FlorenciA Garcia Kamermann
+20 '21 22 23 24
+25 26 27 26 29 30 31 32 33 34
+19 20 '21 22 23 24 25 26 27 28
+
+[m05-t01-b004 | IMAGEN 4]
+B. Tumor Size
+Tumor Size Measurement
+Larger tumors are more accurately measured grossly, while smaller tumors and some larger tumors with
+a diffusely infiltrative pattern or with marked fibrosis are best measured microscopically. It is best to report
+only one set of tumor measurements based on a correlation of the gross and microscopic features to
+avoid confusion. According to the 2018 FIGO staging system for all stages the size of the primary tumor
+can be assessed by clinical evaluation (pre- or intraoperative), imaging, and/or pathological
+measurement.1 However, in surgically treated cases, the pathologist's findings should take priority over
+clinical or image-based staging and should be used for the pathological staging.
+
+[m05-t01-b005 | IMAGEN 5]
+Tipo tumoral
+FlorenciA Garcia ...
+FlorenciA Garcia Kamermann
+·
+Carcinoma de células escamosas, NOS
+Otros tumores epiteliales
+·
+Tumor de células germinales
+" Queratinizante
+Carcinoma adenoescamoso
+·
+Tumores mieloides y linfoides
+· No queratinizante
+O
+Carcinoma de células vidriadas
+· Papilar
+Carcinoma adenoide basal
+·
+Tumores secundarios
+· Basaloide
+Carcinoma adenoide quístico
+Carcinoma indiferenciado
+· Warty
+·
+Tumores neuroendocrinos
+· Verrugoso
+Tumor neuroendocrino de bajo grado
+· Escamotransicional
+O
+Tumor carcinoide
+WHO Classification of Tumours of
+Female Reproductive Organs
+· Tipo linfoepitelioma
+Tumor carcinoide atípico
+Carcinoma neuroendocrino de alto grado
+Edited by Robert J. Kurman, Maria-Luisa Carcanglu, C. Simon Herrington, Robert H. Young
+· Adenocarcinoma
+Carcinoma neuroendocrino de células pequeñas
+O
+= Adenocarcinoma endocervical,
+O
+Carcinoma neuroendocrino de células grandes
+tipo usual
+·
+Tumores mesenquimaticos y lesiones simil tumor
+" Carcinoma mucinoso
+Benigno
+Leiomioma
+0
+o Tipo gástrico
+O
+Rabdomioma
+o Tipo intestinal
+Otros
+o Tipo células en anillo de
+Maligno
+sello
+Leiomiosarcoma
+" Carcinoma velloglandular
+Rabdomiosarcoma
+" Carcinoma endometrioide
+Sarcoma alveolar de partes blandas
+" Carcinoma de células claras
+Angiosarcoma
+Tumor maligno de la vaina nerviosa periferica
+· Carcinoma seroso
+Otros sarcomas
+7
+" Carcinoma mesonefrico
+·
+Lesiones símil tumor
+" Adenocarcinoma con carcinoma
+Tumores mixtos mesenquimaticos y epiteliales
+neuroendocrino
+Tumores melánicos
+WHO
+
+[m05-t01-b006 | NOTA]
+LO IMPORTANTE ES VER SI ESTAN O NO ASOCIADOS AL VIRUS DEL HPV
+
+[m05-t01-b007 | IMAGEN 6]
+FlorenciA Ga
+Nueva clasificación de los carcinomas escamosos de cuello uter frente
+O
+WHO Classification of Tumours · 5th Edition
+V HPV relacionado (>90-95%/ 70% 16-18)
+Female Genital
+Molecular: > 70% exhiben alteraciones genómicas PI3K/MAPK,TGF-B,
+Tumours
+ERBB3,CASP8,HLA-A,SHKBP1 y TGFBR2
+Edited by the WHO Classification of Tumours Editorial Board
+P16/molecular HPV
+IMPORTANTE! : patrón histológico, subtipo HPV y grado no tienen
+implicancias pronosticas.
+V HPV independiente o no relacionado (5-7%)
+Molecular: poco se conoce. P53, Kras, ARID1A y PTEN.
+IMPORTANTE !: Es necesario utilizar para su diagnóstico una técnica
+molecular altamente sensible.
+V NOS (si no se puede determinar el status del HPV)
+International Agency for Research on Cancer
+No hay patrón morfológico que sirva para diferenciar si es o no HPV
+relacionado
+
+[m05-t01-b008 | IMAGEN 7]
+P16
+
+[m05-t01-b009 | IMAGEN 8]
+FlorenciA Garcia ...
+ADENOCARCINOMA INVASOR (9,5-34%)
+FlorenciA Garcia Kamermann
+WHO Classification
+International Endocervical AdenoCA
+Criteria & Classification (IECC)
+WHO Classification of Tumours · 5th Edition
+Female Genital
+· Endocervical, usual (70-80%)
+HPV(+)
+HPV(-)
+Tumours
+· Endometrioid
+Edited by the WHO Classification of Tumours Editorial Board
+· Mucinous NOS
+· Gastric
+Usual
+Endometrioid
+· Intestinal
+· Signet ring cell
+Villoglandular
+· Villoglandular
+Mucinous: NOS,
+Gastric
+· Clear cell
+intestinal, signet
+ring
+· Serous
+Serous
+· Mesonephric
+Stratified mucin-
+· Adenocarcinoma with admixed
+producing (SMILE)
+Clear cell
+neuroendocrine carcinoma
+Neuroendocrine
+. Other: adenoid basal, NE
+tumors
+Adenoid Basal
+Mesonephric
+
+[m05-t01-b010 | IMAGEN 9]
+CASO
+FlorenciA Garcia Kamerman
+0 12 3 4 5
+· Mujer de 60 años sin antecedentes
+11
+
+[m05-t01-b011 | IMAGEN 10]
+Florencia Garcia Kamermann
+Mujeres con canceres HPV negativo:
+>Fueron diagnosticadas en estadios mas avanzados
+>Mayor frecuencia de ganglios metastásicos
+>Menor tiempo de sobrevida global y de sobrevida libre de enfermedad
+. Son tumores verdaderos independientes por E7 PCR. Pero no pudieron determinar si antes
+eran HPV relacionados y por el clearance viral se transformaron en negativos.
+
+[m05-t01-b012 | IMAGEN 11]
+Grado Tumoral.
+· No es un dato elemental (no bien validado ni caracterizado)
+
+[m05-t01-b013 | IMAGEN 12]
+FlorenciA Ga
+LVI
+FlorenciA Garcia Kame
+· No afecta el estadio
+· Pronostico adverso predominantemente en estadios iniciales (IB)
+· Puede modificar el manejo en estadios iniciales (1A1-1B1)
+· Algunos estudio demostraron que la invasión vascular tendría peor pronostic
+que la linfática y conllevaría a mayor compromiso ovario (IHQ no de rutina)
+LVI + en FIGO 1A1
+
+[m05-t01-b014 | IMAGEN 13]
+FlorenciA Garcia ...
+EXTENSION DE LA INVASION
+FlorenciA Garcia Kamermann
+· Compromiso del segmento uterino inferior o del
+cuerpo: aumenta el riesgo de afectación ovárica y
+de ganglios para aórticos.
+· Compromiso vaginal
+· Compromiso de parametrios
+· Compromiso de anexos
+· Compromiso de ganglios
+· Etc.
+
+[m05-t01-b015 | IMAGEN 14]
+FlorenciA Garcia ..
+ESTADO GANGLIONAR
+FlorenciA Garcia Kamerman
+· Uno de los factores pronósticos mas importantes.
+· Informar: numero de ganglios resecados de casa sitio y numero de ganglios
+comprometidos.
+Tamaño de las MTS y presencia/ ausencia de extensión extra ganglionar
+Macrometastasis (>2)-Micometastasis (>0,2 -< 2)-iTC (<0,2): poca información en tumores ginecológicos
+
+[m05-t01-b016 | IMAGEN 15]
+DOI: 10.1002/ijgo.12611
+WILEY
+FIGO 2018
+FIGO CANCER REPORT 2018
+FlorenciA Garcia ...
+Cancer of the cervix uteri
+FlorenciA Garcia Kamermann
+Neerja Bhatla1 .* | Daisuke Aoki2 | Daya Nand Sharma3 | Rengaswamy Sankaranarayanan4
+Int J Gynecol Obstet 2018; 143 (Suppl. 2): 22-36
+Stage
+Description
+1
+The carcinoma is strictly confined to the cervix (extension to the uterine corpus should be disregarded)
+· Si bien la estatificación es clínica toma en
+IA
+Invasive carcinoma that can be diagnosed only by microscopy, with maximum depth of invasion <5 mmª
+IA1
+Measured stromal invasion <3 mm in depth
+cuenta los hallazgos patológicos y
+IA2
+Measured stromal invasion ≥3 mm and <5 mm in depth
+radiológicos (p) (r)
+IB
+Invasive carcinoma with measured deepest invasion ≥5 mm (greater than Stage IA), lesion limited to the cervix uterib
+IB1
+Invasive carcinoma ≥5 mm depth of stromal invasion, and <2 cm in greatest dimension
+IB2
+Invasive carcinoma ≥2 cm and <4 cm in greatest dimension
+CAMBIOS
+IB3
+Invasive carcinoma ≥4 cm in greatest dimension
+11
+The carcinoma invades beyond the uterus, but has not extended onto the lower third of the vagina or to the pelvic wall
+IIA
+Involvement limited to the upper two-thirds of the vagina without parametrial involvement
+IIA1
+Invasive carcinoma <4 cm in greatest dimension
+· 1A1: Se saco la extensión horizontal
+IIA2
+Invasive carcinoma ≥4 cm in greatest dimension
+(7mm)
+IIB
+With parametrial involvement but not up to the pelvic wall
+· 1B: Previo: 1B1: < o igual 4cm.
+III
+The carcinoma involves the lower third of the vagina and/or extends to the pelvic wall and/or causes hydronephrosis or nonfunction-
+ing kidney and/or involves pelvic and/or para-aortic lymph nodes‘
+1B2: > 4 cm.
+IIIA
+The carcinoma involves the lower third of the vagina, with no extension to the pelvic wall
+Se incorpora estadio 1B3.
+IIIB
+Extension to the pelvic wall and/or hydronephrosis or nonfunctioning kidney (unless known to be due to another cause)
+· IIIC: nueva categoría
+IIIC
+Involvement of pelvic and/or para-aortic lymph nodes, irrespective of tumor size and extent (with r and p notations)"
+IIIC1
+Pelvic lymph node metastasis only
+IIIC2
+Para-aortic lymph node metastasis
+IV
+The carcinoma has extended beyond the true pelvis or has involved (biopsy proven) the mucosa of the bladder or rectum. (A bulous
+edema, as such, does not permit a case to be allotted to Stage IV)
+FIGO NO MENCIONA EL TEMINO
+IVA
+Spread to adjacent pelvic organs
+MICROINVASOR: 1A1:LAST
+IVB
+Spread to distant organs
+
+[m05-t01-b017 | IMAGEN 16]
+DOI: 10.1002/ijgo.12611
+FIGO CANCER REPORT 2018
+WILEY
+SIGO
+Conducta terapéutica
+FlorenciA Garcia ...
+Cancer of the cervix uteri
+adecuada: ejemplo
+FlorenciA Garcia Kamermann
+Neerja Bhatla1,*
+| Daisuke Aoki2
+Daya Nand Sharma3
+Rengaswamy Sankaranarayanan4
+· Estadio 1A1:
+-Ausencia de LSI
+· Cono/HT extrafascial (paridad cumplida-añosas)
+-Márgenes negativos (cono)
+-Presencia de LSI
+·
+HT extrafascial- Considerar linfadenectomia pelviana/Cono con objetivo de preservar la paridad y
+estricto seguimiento
+Simple extrafascial hysterectomy
+Modified radical hysterectomy
+Radical hysterectomy
+Piver and Rutledge
+Type I
+Type II
+Type III
+Classification
+Querleu and Morrow
+Type A
+Type B
+Type C
+classification
+Indication
+Stage IA1
+Type IA1 with LVSI. IA2
+Stage IB1 and IB2, selected
+Stage IIA
+Uterus and cervix
+Removed
+Removed
+Removed
+Ovaries
+Optional removal
+Optional removal
+Optional removal
+Vaginal margin
+None
+1-2 cm
+Upper one-quarter to one-third
+Ureters
+Not mobilized
+Tunnel through broad ligament
+Tunnel through broad ligament
+Cardinal ligaments
+Divided at uterine and cervical border
+Divided where ureter transits broad
+Divided at pelvic side wall
+ligaments
+Uterosacral ligaments
+Divided at cervical border
+Partially removed
+Divided near sacral origin
+Urinary bladder
+Mobilized to base of bladder
+Mobilized to upper vagina
+Mobilized to middle vagina
+Rectum
+Not mobilized
+Mobilized below cervix
+Mobilized below cervix
+Surgical approach
+Laparotomy or laparoscopy or
+Laparotomy or laparoscopy or
+Laparotomy or laparoscopy
+robotic surgery
+robotic surgery
+or robotic surgery
+
+[m05-t01-b018 | IMAGEN 17]
+FlorenciA Garcia ...
+FlorenciA Garcia Kamermann
+FACTORES PRONOSTICOS
+· Estadío ( FIGO 2018)
+· Tamaño Tumoral (Profundidad-Grosor- extension
+horizontal)
+· Invasión Vascular
+· Metástasis Ganglionares
+· Tipo de crecimiento (Bulky vs. Endofítico)
+· Edad
+· ASOCIACION CON HPV
+· PATRON DE INFILTRACION (Silva) (en los tumores de tipo
+usual)
+
+[m05-t01-b019 | IMAGEN 18]
+FlorenciA Garcia ...
+FlorenciA Garcia Kamermann
+IMPORTANT
+INFORMAR PATRONES DE SILVA EN ADENOCARCINOMAS HPV RELACIONADOS
+IMPOR'
+Invasive Endocervical Adenocarcinoma: Proposal for a
+New Pattern-based Classification System With Significant
+Clinical Implications: A Multi-institutional Study
+Pattern-based Classification System for Invasive
+Andrea Diaz De Vivar, M.D., Andres A. Roma, M.D., Kay J. Park, M.D.,
+Endocervical Adenocarcinoma*
+Isabel Alvarado-Cabrero, M.D., Golnar Rasty, M.D., Jose G. Chanona-Vilchis, M.D.,
+Yoshiki Mikami, M.D., Sung R. Hong, M.D., Brent Arville, D.O., Norihiro Teramoto, M.D.,
+Rouba Ali-Fehmi, M.D., Joanne K.L. Rutgers, M.D., Farah Tabassum, M.D.,
+Denise Barbuto, M.D., Irene Aguilera-Barrantes, M.D., Alexandra Shaye-Brown, M.D.,
+*applies to usual type adenocarcinomas
+Dean Daya, M.D., and Elvio G. Silva, M.D.
+Expansile
+Single
+Desmoplasia
+Destructive
+LVI
+LN(+)
+Recur
+DOD
+Glands
+Cells
+Invasion
+A
++
+0%
+0%
+0%
+-
+-
+-
+-
+B
++
++
++
+-
++/-
+4%
+1%
+0%
+C
++
++
++
++/-
+24%
+22%
+9%
+Pattern A: expansile
+Pattern B: early stromal invasion
+Pattern C: diffuse destructive invasion
+Diaz de Vivar 2013; Roma 2016
+
+[m05-t01-b020 | NOTA]
+ADENOCARCINOMA GASTRICO, HPV INDEPENDIENTE

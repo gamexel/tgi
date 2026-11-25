@@ -1,0 +1,306 @@
+# m02-t01 Metodologia diagnostica de infecciones cerivicovaginales
+
+[m02-t01-b001 | IMAGEN 1]
+METODOLOGÍA DIAGNÓSTICA DE LAS INFECCIONES CERVICOVAGINALES
+IMPORTANCIA DEL TEMA
+·Los síntomas derivados de una vaginitis y/o vaginosis (flujo genital,
+irritación, olor, picazón, hinchazón, etc.) se encuentran entre las causas
+más frecuentes de consultas a ginecólogos, médicos de atención primaria
+tanto en consultas programadas como de urgencia.
+"Con la anamnesis y el examen ginecológico en ocasiones no siempre es
+posible determinar el agente etiológico y el tra tamiento empírico puede
+no ser el adecuado, teniendo como consecuencia la aparición de
+persistencias o recurrencias.
+·La vaginitis tienen un diagnóstico diferencial amplio, y el tratamiento
+exitoso con frecuencia se basa en un diagnóstico preciso.
+"El importante el correcto diagnóstico, a fin de evitar complicaciones y
+27-3-19
+lograr la curación o control de la enfermedad, ya que estos cuadros pueden
+también tener impacto en el área psicosocial de la mujer, en la función
+sexual y autoimagen.
+
+[m02-t01-b002 | IMAGEN 2]
+DIFERENCIAS ENTRE INFECCIONES ENDÓGENAS Y EXÓGENAS
+INFECCIONES ENDOGENAS
+· Vaginosis Bacteriana
+· Candidiasis vulvovaginal
+· Vaginitis aeróbica
+· Vaginosis citolitica/Lactobacillosis
+INFECCIONES EXOGENAS
+· T. vaginalis
+· C. trachomatis
+· N. gonorrhoeae
+· M. genitalium
+
+[m02-t01-b003 | IMAGEN 3]
+EPIDEMIOLOGÍA
+· Las infecciones del TGI pueden originarse en la vagina (vaginitis y/o vaginosis) o
+el el cuello uterino (cervicitis). El algunos casos la infección es en ambos sitios
+anatómicos.
+"Si bien las 3 etiologías mas probables de infecciones vaginales (VB, CVV y TV)
+causan hasta un 70% de síntomas vaginales anormales, no son las únicas causas.
+· Entre las pacientes con síntomas vaginales, la CVV se diagnostica en el 17-39%
+de los casos, VB en el 22-50% de los casos y TV en el 4-35% de los casos; sin
+embargo, la vaginitis puede permanecer sin diagnosticar en el 7-72% de los
+pacientes.
+"Otras etiologías incluyen dermatosis vulvar, vaginitis inflamatoria descamativa y
+SGM.
+
+[m02-t01-b004 | IMAGEN 4]
+Modelo de anamnesis en pacientes con VV recurrentes
+· Edad
+· Motivo de consulta:
+Leve +
+Moderado ++
+Severo +++
+Aumento en la cantidad
+de flujo vaginal
+Ardor
+Prurito
+Olor
+Dispareunia
+Síntomas urinarios
+Otros: aclarar
+· Tiempo de evolución:
+< de 1 semana
+1 semana a 1 mes
+>1mes
+Recurrencia
+Primer episodio en toda su vida
+Recurrencia
+Episodios en el último año:
+Enfermedades concomitantes:
+Medicación actual:
+Alergia a medicamentos:
+Método anticonceptivo actual:
+Uso de preservativo:
+No
+Si
+· Embarazo actual:
+No
+Si
+Edad gestacional:
+· Pareja actual:
+Estable ¿cuánto tiempo ?:
+Sin pareja estable actual
+Parejas anteriores:
+Hábitos actuales:
+tabaco:
+alcohol:
+drogas:
+ITS:
+Higiene genital:
+LVE
+LVI
+Frecuencia diaria:
+Producto utilizado:
+Tratamientos previos:
+Último tratamiento:
+fecha:
+
+[m02-t01-b005 | IMAGEN 5]
+METODOLOGÍA DIAGNÓSTICA DE LAS INFECCIONES CERVICOVAGINALES
+Luego de una correcta anamnesis debemos utilizar para el diagnóstico
+herramientas que nos permitan llegar al mismo con la mayor precisión,
+siempre teniendo en cuenta el nivel de complejidad asistencial del sistema de
+salud y la disponibilidad de recursos.
+26-3-04
+C16
+a) Métodos para el diagnóstico en el lugar de atención:
+· Especuloscopía: las características del flujo no siempre son típicas pero
+nos ayudan a orientarnos hacia el diagnóstico en muchas pacientes.
+· Determinación de pH vaginal y prueba de aminas
+Microscopia en fresco
+· Pruebas rápidas: ya incorporadas en algunos países (tienen costos
+elevados y muchas veces falsos positivos).
+OSOON
+BD Affirm VPIN
+robe Analysis Card
+osom
+IUSTI Guidelines Int J STD Aids 2018 ;29(13):1258-1272
+Artirni VP
+CALA BVBLUE Test
+ACOG Practice Bulletin Obstet Gynecol. 2020 ;135(1):243-245
+SHOWN ACTUAL SIZE
+Vieira-Baptista P, J Low Genit Tract Dis. 2021 1;25(2):172-180.
+-
+
+[m02-t01-b006 | IMAGEN 6]
+Orientación diagnóstica
+pH menor 4.5
+pH mayor a 4.5
+Test de aminas positivo
+Microbiota habitual
+Vaginosis bacteriana
+Vaginosis bacteriana
+Candidiasis vulvovaginal
+Tricomoniasis
+Tricomoniasis
+Menos frecuente:
+Menos frecuente
+Menos frecuente
+Vaginosis citolítica
+Vaginitis aeróbica
+Vaginitis aeróbica
+Lactobacilosis
+Vaginitis inflamatoria
+descamativa
+Cervicitis por gonococo o
+clamidia
+Otras situaciones:
+Presencia de semen, moco
+cervical, sangre,
+posmenopausia
+
+[m02-t01-b007 | IMAGEN 7]
+METODOLOGIA DIAGNOSTICA
+Criterios de Nugent
+Iscore de 7A 10: vaginosis bacteriana
+b) Pruebas de laboratorio:
+Iscore de 4 a 6: Microbiota intermedia
+IIscore de 1 a 3: Microbiota normal
+Microscopía (con tinción):
+· Permite diagnosticar la mayoría de las infecciones del tracto genital
+Tipos de microbiota vaginal (Hay y Ison)
+inferior (TGI) a un bajo costo.
+TIPO o: indica la ausencia de lactobacilos y sin
+desplazamiento de la microbiota Sólo células
+· Evaluar además la respuesta inflamatoria (RI)
+epiteliales
+TIPO I: Microbiota habitual
+· Permite clasificar la microbiota vaginal según los criterios
+microbiológicos clásicos:
+TIPOII: Microbiota intermedia
+TIPO III: Vaginosis bacteriana.
+TIPO IV: Microbiota vaginal anormal NO VB
+V Criterios de Amsel
+V Criterios de Nugent
+Criterios de Hay y Ison
+IUSTI Guidelines Int J STD Aids 2018 ;29(13):1258-1272
+ACOG Practice Bulletin Obstet Gynecol. 2020 ;135(1):243-245.
+
+[m02-t01-b008 | NOTA]
+Criterios de Nugent
+
+[m02-t01-b009 | NOTA]
+Se evaluan varios campos en el extendido
+
+[m02-t01-b010 | NOTA]
+Se observa la presencia de Lactobacilos, Mobiluncus y Gardenerella. Se estrablece un score y luego una puntuacion
+
+[m02-t01-b011 | IMAGEN 8]
+METODOLOGIA DIAGNOSTICA
+MÉTODOS PARA EL DIAGNÓSTICO EN EL LUGAR DE ATENCIÓN: MICROSCOPIA EN FRESCO
+· Consiste en la observación microscópica directa del flujo vaginal diluido con solución salina (ya
+veces con KOH), sin previa tinción
+· Permite la evaluación inmediata de la muestra durante la visita al consultorio.
+· Es una técnica económica (siendo el microscopio la única inversión importante) que permite una
+rápida evaluación del contenido vaginal.
+· Es una buena herramienta para el diagnóstico de la vaginosis bacteriana (VB); candidiasis y
+tricomoniasis. Permite el diagnóstico de vaginitis aeróbica (AV)/vaginitis inflamatoria
+descamativa (DIV) y de vaginosis citolítica
+· También permite evaluar la microbiota vaginal habitual, la respuesta inflamatoria y el estado
+hormonal.
+
+[m02-t01-b012 | IMAGEN 9]
+METODOLOGÍA DIAGNÓSTICA
+A
+B
+0
+A, Microbiota habitual (presencia de lactobacilos y células superficiales).
+B, Vaginosis bacteriana (células clave, ausencia de lactobacilos, presencia de flora granular).
+C, Candida (micelio y blastosporas, inflamación moderada, lactobacilos grado lla; el dimorfismo sugiere C. albicans)
+
+[m02-t01-b013 | IMAGEN 10]
+D
+E
+F
+D, Candida y vaginosis bacteriana (ausencia de lactobacilos, flora granular, inflamación grave, blastosporas).
+E, Vaginosis citolítica (abundantes lactobacilos, núcleos desnudos y restos citoplasmáticos).
+F, vaginitis aeróbica (moderada; lactobacilos grado III, cocos).
+
+[m02-t01-b014 | IMAGEN 11]
+G
+G, Vaginitis inflamatoria descamativa (AV grave; cocos, atrofia e inflamación moderada).
+H, Tricomoniasis y vaginosis bacteriana (células clave, flora granular, ausencia de lactobacilos, inflamación, T. vaginilis).
+I, Atrofia vaginal (ausencia de lactobacilos, escasez celular, células parabasales).
+
+[m02-t01-b015 | IMAGEN 12]
+J
+J, Leptotrix.
+K, Moco cervical.
+L, Vaginosis bacteriana y esperma (los espermatozoides pueden confundirse con blastosporas, especialmente después de la pérdida de la cola).
+
+[m02-t01-b016 | IMAGEN 13]
+Diagnóstico
+MICROBIOTA HABITUAL
+VAGINOSIS BACTERIANA
+TRICOMONIASIS
+CANDIDIASIS
+pH vaginal
+3,8 - 4,2
+> 4,5
+> 4,5
+< 4,5 (usualmente)
+Blanquecino o
+Flujo
+transparente, con
+homogéneo, blanquecino
+Amarillo verdoso,
+Blanquecino como "leche
+flóculos
+o grisáceo, abundante
+espumoso, abundante
+cortada o ricota"
+Prueba de aminas
+Negativa
+Positiva (a pescado)
+Puede ser positiva (a veces
+fecaloide)
+Negativa
+Lactobacilos, células
+Levaduras, hifas y
+Microscópia
+epiteliales intactas
+Clue cells
+Visualización del parásito
+pseudohifas
+Respuesta inflamatoria
+Negativa
+Negativa
+Positiva
+Positiva o negativa
+Imagen microscópica
+en fresco
+
+[m02-t01-b017 | IMAGEN 14]
+METODOLOGIA DIAGNOSTICA
+b) Pruebas de laboratorio:
+Cultivos: permiten la recuperación de los microorganismos y eventualmente su
+comportamiento frente a los AM.
+Se recomienda en casos de:
+· Querer investigar N. gonorrhoeae a nivel cervical
+· Candidiasis recurrente: para establecer la especie involucrada y eventual antifungigrama.
+· En sospecha de vaginitis aeróbica.
+· En situaciones de abuso sexual con fines legales.
+· En embarazadas, especialmente para la investigación de Streptococcus agalactiae.
+Biología molecular: Permite la detección de Ags. Se suele utilizar en casos de microorganismos
+que no desarrollan en los medios convencionales (C. trachomatis o M. genitalium) o para la
+pesquisa rápida de algunas bacterias que tienen crecimiento convencional (S. agalactiae en el
+embarazo).
+IUSTI Guidelines Int J STD Aids 2018 ;29(13):1258-1272
+ACOG Practice Bulletin Obstet Gynecol. 2020 ;135(1):243-245.
+
+[m02-t01-b018 | IMAGEN 15]
+CONCLUSIONES
+" La vaginitis/vaginosis tienen un diagnóstico diferencial amplio, y el tratamiento exitoso
+con frecuencia se basa en un diagnóstico preciso.
+· El importante el correcto diagnóstico, a fin de evitar complicaciones y lograr la curación
+o control de la enfermedad
+"Con la anamnesis y el examen ginecológico en ocasiones no siempre es posible
+determinar el agente etiológico y el tratamiento empírico puede no ser el adecuado,
+teniendo como consecuencia la aparición de persistencias o recurrencias.
+· La incorporación de métodos simples y de bajo costo permiten una mayor aproximación
+diagnostica
+· La microscopia en fresco sigue siendo en la actualidad una herramienta muy valiosa para
+el diagnostico de infecciones vaginales para ser utilizada en el lugar de atención.

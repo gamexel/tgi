@@ -1,0 +1,16 @@
+# Paquetes de distribución: se adjuntan a Releases.
+*.zip
+
+# Extracciones de trabajo y blocs originales.
+extraccion/
+*.one
+*.onepkg
+*.onetoc2
+
+# Archivos locales del sistema y del editor.
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp

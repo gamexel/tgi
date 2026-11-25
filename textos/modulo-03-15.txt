@@ -1,0 +1,218 @@
+# m03-t15 RIESGO OBSTETRICOS DEL TTO DE HSIL
+
+[m03-t15-b001 | IMAGEN 1]
+. VPH
+No infectada
+Infectada
+Transfomación
+Lesiones de alto grado = Tratamiento
+
+[m03-t15-b002 | IMAGEN 2]
+Las Lesiones de alto grado Son las que requieren tratamiento. Es preferible siempre el
+tratamiento escisional.
+HSIL CIN 3 no se acepta la observación
+- HSIL CIN 2 morfológico: Tasa de regresión del 50%. En ciertos casos se difiere el
+tratamiento por el riesgo potencial de parto prematuro después de los procedimientos
+escisionales. (prof. mayor a 10mm)
+
+[m03-t15-b003 | IMAGEN 3]
+Las Lesiones de bajo grado: MANEJO CONSERVADOR -> SEGUIMIENTO
+
+[m03-t15-b004 | IMAGEN 4]
+- Cada vez más, las guías nacionales e internacionales remarcan la importancia de
+evitar el sobretratamiento; sobre todo en pacientes jóvenes.
+- Una alta proporción de mujeres que son tratadas por HSIL, se encuentran en edad
+reproductiva (25 a 35 años), por lo cual se debe tener una especial consideración en su
+manejo
+¡ATENCIÓN!
+
+[m03-t15-b005 | IMAGEN 5]
+EL TRATAMIENTO DEBE SER UN TRAJE
+A MEDIDA
+" No todos los cuellos son iguales
+1 23 24 25 26 27
+" No todas las lesiones son iguales
+" No todas las lesiones representan la
+misma proporción del cuello en una
+paciente que en otra
+
+[m03-t15-b006 | IMAGEN 6]
+La proporción del volumen cervical total eliminado
+sería más crítica que el tamaño de la escisión
+
+[m03-t15-b007 | IMAGEN 7]
+OBJETIVO DEL TRATAMIENTO:
+-> Evaluar la extensión de la lesión
+-> Evaluar los márgenes
+-> Evitar el cáncer de cuello
+Es importante realizar la escisión adecuada
+Escisión tipo 1
+Escisión tipo 2
+Escisión tipo 3
+.....
+2 - upper limit of visibility
+........ Type 1 excision line
+-4 = upper limit of visibility
+-2 - upper limit of visibility
+-
+Type 2 12
+Type 3 T2
+.... Type 2 enchion line
+-....... Type 3 excision lina
+
+[m03-t15-b008 | IMAGEN 8]
+" Las causas de PP son de origen multifactorial e involucra una serie de alteraciones
+y mecanismos fisiopatológicos, la mayoría de los cuales son pobremente
+conocidos.
+Los tratamientos escisionales pueden contribuir a aumentar el riesgo de
+complicaciones obstétricas.
+· El grado de escisión del cérvix podría comprometer su función.
+
+[m03-t15-b009 | IMAGEN 9]
+Factores de riesgo que contribuyen a aumentar el riesgo de
+parto prematuro:
+· Edad
+· Paridad
+· Etnia
+· Tabaco
+· ITS
+· Nivel sociocultural
+· Hábitos sexuales (IRS, Parejas sexuales, etc)
+
+[m03-t15-b010 | IMAGEN 10]
+Los posibles mecanismos fisiopatológicos podrían ser debidos por:
+· Cambios anatómicos y cambios histológicos que generan alteración de la
+calidad del colágeno por los procesos de cicatrización.
+· Alteración de factores inmunológicos que afectan los mecanismos de
+defensa contra el HPV
+· Por alteraciones de la flora cervicovaginal.
+
+[m03-t15-b011 | IMAGEN 11]
+PARTO PREMATURO
+" Genera un considerable impacto no solo en la madre y en el recien nacido sino
+también en el gasto en salud por los cuidados intensivos neonatales.
+" Está asociado con considerables costos emocionales y económicos de sus familias y
+de la comunidad y tiene un desproporcionado impacto en la utilización de los
+servicios de salud.
+" Contribuye en forma relevante en la morbimortalidad perinatal, 3 de cada 4
+muertes neonatales ocurren en recién nacidos prematuros.
+
+[m03-t15-b012 | IMAGEN 12]
+Perinatal mortality and other severe adverse pregnancy
+outcomes associated with treatment of cervical
+intraepithelial neoplasia: meta-analysis
+M Arbyn, head of unit of cancer epidemiology1, leader, working package HPV screening,2
+M Kyrgiou, assistant,3 C Simoens, assistant,1 A O Raifu, assistant,1 G Koliopoulos, senior lecturer,4
+P Martin-Hirsch, consultant gynaecological oncologist,3 W Prendiville, associated professor,5
+E Paraskevaidis, head of department4
+BMJ 2008;337:a1284 doi:10.1136/bmj.a1284
+Cono frio
+Mortalidad perinatal -> RR 2,87
+Parto prematuro (<32-34 sem) > RR 2,78.
+Parto prematuro extremo (<28-30 sem)-> RR 5,33
+LLETZ
+Mortalidad perinatal -> RR 1,17
+Parto prematuro (<32-34 sem) -> RR 1,20
+NS
+
+[m03-t15-b013 | IMAGEN 13]
+Pregnancy outcome in women before and after
+cervical conisation: population based cohort study
+Susanne Albrechtsen 1, Svein Rasmussen, Steinar Thoresen, Lorentz M Irgens, Ole Erik Iversen
+BMJ. 2008 Sep 18;337:a1343. doi: 10.1136/bmj.a1343.
+Estudio de cohortes poblacional
+Grupos: Mujeres con conizacion previa a embarazos, con conización posterior a embarazos y control.
+PP Post cono 17,2% vs Pre cono 6,7% vs Grupo control 6,2%
+Aborto tardío (<24 sem): Post cono RR 4,0 vs control
+Post cono RR 4,0 vs pre cono
+
+[m03-t15-b014 | IMAGEN 14]
+Loop electrosurgical excision of the cervix and
+subsequent risk for spontaneous preterm delivery: a
+population-based study of singleton deliveries
+during a 9-year period
+Bugge Noehr 1, Allan Jensen, Kirsten Frederiksen, Ann Tabor, Susanne K Kjaer
+Am J Obstet Gynecol. 2009 Jul;201(1):33.e1-6. doi: 10.1016/j.ajog.2009.02.004.
+552.678 pacientes con partos y procedimientos cervicales. Dinamarca - Período de 9 años,
+1997-2005
+Profundidad del LEEP: < 12mm -> OR 1,00
+16-19mm -> OR 1,45
+1 6% por cada mm adicional: OR 1,06
+> 20mm -> OR 1,79
+· 2 LEEP o + vs NO LEEP: aumenta 4 veces el riesgo de PP
+· 2 LEEP o + vs 1 LEEP: aumenta 2 veces el riesgo de PP
+
+[m03-t15-b015 | IMAGEN 15]
+The thickness and volume of LLETZ specimens can
+predict the relative risk of pregnancy-related
+morbidity
+S Khalid 1, E Dimitriou, R Conroy, E Paraskevaidis, M Kyrgiou, C Harrity, M Arbyn, W Prendiville
+BJOG. 2012 May;119(6):685-91. doi: 10.1111/j.1471-0528.2011.03252.x. Epub 2012 Feb 14.
+· LLETZ -> Volumen > 6 cm3 -> Abortos: 12,5% - PP: 20,8%
+-> RR: 3,0
+· LLETZ -> Espesor > 12 mm -> Abortos: 14,3% - PP: 23,8%
+-> RR: 2,98
+* Es riesgo de Trabajo de PP está 3 veces incrementado
+· El grado de daño funcional probablemente dependa del volumen relativo de tejido eliminado
+(proporción de cuello), el grado de daño termal ocasionado sobre el lecho post LLETZ, y la
+extensión de conducto endocervical involucrado.
+
+[m03-t15-b016 | IMAGEN 16]
+Increased risk of preterm birth after treatment for
+CIN
+M Kyrgiou, M Arbyn, P Martin-Hirsch, E Paraskevaidis
+BMJ. 2012 Sep 4;345:e5847. doi: 10.1136/bmj.e5847
+-
+Parto Prematuro: Factores de riesgo + Tratamiento
+-
+Existe una relación directa entre la cantidad de tejido resecado y los resultados
+obstétricos adversos
+- La proporción de cuello resecado refleja mas exactamente el grado de daño cervical que
+las dimensiones absolutas del tejido resecado
+
+[m03-t15-b017 | IMAGEN 17]
+Cervical excisional treatment increases the risk of
+intraamniotic infection in subsequent pregnancy
+complicated by preterm prelabor rupture of membranes
+Marian Kacerovsky, MD, PhD; Ivana Musilova, MD, PhD; Simona Baresova, MD; Klara Kolarova, MSc; Jana Matulova, MSc;
+Johanna Wiik, MD, PhD; Verena Sengpiel, MD, PhD; Bo Jacobsson, MD, PhD
+JULY 2023 American Journal of Obstetrics & Gynecology 51.e1
+El TTO escisional de CIN o estadios tempranos de ca cuello aumenta el riesgo de RPM
+2,5 veces y de infección/inflamación intraamniotica en embarazos subsecuentes
+- Este riesgo se incrementa cuanto mayor es la pieza qx extraída.
+Estudio de cohorte retrospectivo. Republica Checa. 2014 - 2021. 765 pacientes.
+Pacientes con antecedente de cx cervical vs las que no tenían cirugía:
+- > riesgo de infección intraamniotica 25% vs 12%
+- > invasión microbiana de la cavidad amniótica sin inflamación 25% vs 11%
+> sepsis neonatal 8%vs 3%
+· Riesgo > en los casos donde la longitud de la pieza era mayor a 18mm (29-40-20% )
+
+[m03-t15-b018 | IMAGEN 18]
+LA COLPOSCOPÍA REALIZADA POR PROFESIONALES
+ENTRENADOS, ES INDISPENSABLE PARA LOGRAR EL
+EQUILIBRIO NECESARIO PARA EXTRAER LA LESION
+PRECANCEROSA COMPROMETIENDO LO MENOS
+POSIBLE LA ANATOMIA DEL CUELLO
+Stoch
+
+[m03-t15-b019 | IMAGEN 19]
+CONCLUSIONES
+Optimizar la selección de pacientes que requieren tratamiento para HSIL
+CIN 3, CIN2 P16 +, AIS.
+· Informar a las pacientes sobre los posibles riesgos obstétricos
+" Evaluar la edad de la paciente y el futuro obstétrico para decidir el
+tratamiento y el tipo de escisión. Intentar escisiones tipo 1 con
+profundidad no mayor a 10mm.
+
+[m03-t15-b020 | IMAGEN 20]
+CONCLUSIONES
+!
+El incremento en el riesgo de PP sería debido al tratamiento de las lesiones
+precancerosas y/o al propio CIN (factores de riesgo compartidos)
+" Mujeres que han tenido un tratamiento escisional de cuello deben tener un
+control mas cercano durante su embarazo (escisiones > 12 mm.)
+" Considerar que un acortamiento cervical descubierto antes de la semana 24 de
+embarazo sería equivalente a una eventual insuficiencia cervical y es un factor
+de riesgo para PP.
+Riesgos obstetricos del tratamient
+esiones de alto grado. Dra Fishkel

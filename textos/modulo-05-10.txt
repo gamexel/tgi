@@ -1,0 +1,241 @@
+# m05-t10 CA DE CUELLO UTERINO Y EMBARAZO
+
+[m05-t10-b001 | IMAGEN 1]
+Carcinoma de cuello uterino y embarazo
+· El cáncer asociado al embarazo es toda neoplasia maligna que se diagnostica durante la
+gestación o hasta un año después del parto. (Organización Mundial de la Salud).
+· Con respecto a la incidencia de cáncer y embarazo se estima que es de 1:1000 embarazos.
+· La estadística mundial reporta al cáncer de mama, cervicouterino, melanoma, linfomas y
+leucemias agudas como los más comunes asociados con el embarazo.
+
+[m05-t10-b002 | IMAGEN 2]
+· La verdadera incidencia del CCU y embarazo es desconocida, se estima que es del 0,05 de todos
+los embarazos con una incidencia de 1 CCU cada 100.000 mujeres embarazadas.
+· El tipo histológico más frecuente es el Epidermoide; al ser un tumor no hormono dependiente, no
+está influenciado por el estado de hiperestrogenismo del embarazo.
+· Los factores pronósticos más importantes son el estadio y el compromiso ganglionar al momento
+del diagnóstico.
+
+[m05-t10-b003 | IMAGEN 3]
+. No se ha podido demostrar que la sobrevida sea diferente cuando se compara con mujeres no
+embarazadas, con el mismo estadio y tipo histológico.
+· Las embarazadas tienen mayor posibilidad de acceder a una citología del cuello uterino, tal es así
+que el 50% de los CCU y embarazo se diagnostican en Estadios iniciales.
+· En países en vías de desarrollo el diagnóstico es más tardío y la derivación más dificultosa,
+agravándose por la falta de normatizaciones, lo que acarrea menores posibilidades de sobrevida
+para la madre y el recien nacido
+
+[m05-t10-b004 | IMAGEN 4]
+Equipo
+multidisciplinario
+Deseo de la
+paciente
+Trimestre de
+EN COMUN
+gestación
+
+[m05-t10-b005 | IMAGEN 5]
+Original research
+ESGO/ESTRO/ESP Guidelines for the management of patients with
+PDI
+cervical cancer - Update 2023* 8
+PDF
+Suppleme
+Materi
+David Cibula 1 , 2, Maria Rosaria Raspollini 3 , ID François Planchamp 4 , Carlos Centeno 5, ID Cyrus Chargari 6 , Ana Felix 7, 8
+ID Daniela Fischerová 1 , 2 , Daniela Jahnn-Kuch 9 , Florence Joly 10, Christhardt Kohler 11 , 12, Sigurd Lax 13 , 14, Domenica
+Lorusso 15, 16, Umesh Mahantshetty 17 , Patrice Mathevet 18 , Raj Naik 19 , Remi A Nout 20, 21, ID Ana Oaknin 22 , 23, Fedro
+Peccatori 24 , Jan Persson 25, 26
+İD
+Denis Querleu 15, 27, ID Sandra Rubio Bernabé 28 , Maximilian P Schmid 29, ID Artem
+Stepanyan 30 , Valentyn Svintsitskyi 31 , Karl Tamussino 32, ID Ignacio Zapardiel 33 and Jacob Lindegaard 34
+Correspondence to Dr David Cibula, Department of Obstetrics and Gynecology, Charles University, First Faculty of Medicine, Prague, 121 08,
+Czech Republic; dc@davidcibula.cz
+
+[m05-t10-b006 | IMAGEN 6]
+· Toda paciente con diagnóstico de cáncer de cuello uterino durante el embarazo debe recibir
+asesoramiento de un equipo multidisciplinario.
+· Plan de tratamiento según la intención de la paciente, el estadio del tumor y la edad gestacional del
+embarazo al momento del diagnóstico de cáncer.
+· Objetivos principales del plan de tratamiento: seguridad oncológica de la embarazada, supervivencia
+fetal sin morbilidad adicional
+· El tratamiento debe realizarse exclusivamente en centros de oncología ginecológica asociados con un
+centro perinatal de máximo nivel.
+
+[m05-t10-b007 | IMAGEN 7]
+Diagnóstico clínico y por imágenes
+El examen clínico y la verificación histológica del cáncer de cuello uterino son obligatorios.
+Imágenes preferidas: resonancia magnética pélvica o ecografía realizada por un experto como
+parte del estudio primario. Evitar gadolinio.
+a
+***
+(b)
+#
+***
+#
+*
+**
+*
+**
+
+[m05-t10-b008 | IMAGEN 8]
+Manejo oncológico
+PRIMER
+SEGUNDO
+TERCER
+TRIMESTRE
+TRIMESTRE
+TRIMESTRE
+· Conización o
+· QMT (14 sem)
+· Retrasar el
+traquelectomía
+tratamiento
+simple.
+oncológico hasta
+· No QMT
+la madurez fetal
+e iniciar el
+tratamiento
+específico
+inmediatamente
+después de la
+cesárea.
+
+[m05-t10-b009 | IMAGEN 9]
+Manejo oncológico
+· La afectación tumoral de ganglios sospechosos debe ser confirmada histológicamente debido a
+su importancia pronóstica y al impacto en el manejo hasta las 24 semanas de gestación
+(viabilidad fetal).
+· Se recomienda la interrupción del embarazo antes de cualquier tratamiento después del primer
+trimestre y la evacuación del feto antes de la QTR, si es posible.
+· Se recomienda un intervalo de al menos 2 semanas entre la quimioterapia y la cesárea.
+
+[m05-t10-b010 | IMAGEN 10]
+Manejo oncológico
+· La quimioterapia sugerida es basada en cisplatino o carboplatino a partir de las 14 semanas de
+embarazo. La combinación con taxanos es una opción.
+· Los antiangiogénicos (bevacizumab) y la inmunoterapia están contraindicados.
+· Antes de iniciar cada ciclo de quimioterapia, se debe realizar una evaluación de la respuesta al
+tratamiento mediante examen clínico y ecografía transvaginal o transrectal. Si no se logra
+respuesta después de 2 ciclos de quimioterapia durante el embarazo, se debe reevaluar la
+estrategia de tratamiento.
+
+[m05-t10-b011 | IMAGEN 11]
+Cervical cancer in pregnancy1
+Desire to preserve pregnancy
+Yes
+No
+Complete tumor resection achievable
+Pregnancy termination + standard
+by conization or simple trachelectomy
+radical surgery or definitive CTRT2
+Yes
+No
+Conization or simple trachelectomy
+Fetal maturity approaching
++ cerclage + LN staging3
+Yes
+No
+Delay oncological treatment until fetal maturity
+Chemotherapy until term of pregnancy
+(>34 weeks)+
+(37 weeks)5
+Cancer specific treatment after delivery
+Cancer specific treatment after delivery
+
+[m05-t10-b012 | IMAGEN 12]
+Cervical Cancer and Pregnancy
+Cervical cancer is the most frequently diagnosed gynecologic malignancy
+in pregnant individuals; however, most of these patients have stage I
+disease. 390-393 Invasive cervical cancer during pregnancy creates a clinical
+dilemma and requires multidisciplinary care. 390,394 Patients must make the
+difficult decision either to delay treatment until documented fetal maturity
+or to undergo immediate treatment based on their stage of disease.391,394
+Patients who delay treatment until fetal maturity should have their children
+delivered by cesarean section. 393,395,396 Radical trachelectomy with
+preservation of pregnancy has been successfully performed in a few
+pregnant patients with early-stage cervical cancer.59,397-399 Patients with
+early-stage disease may prefer to have radical hysterectomy and node
+dissection instead of RT to avoid radiation fibrosis and to preserve their
+ovaries. Patients with stage I disease who delay treatment until fetal
+maturity can undergo cesarean section with concurrent radical
+hysterectomy and pelvic node dissection. For those choosing RT,
+traditional RT with (or without) chemotherapy protocols (described
+previously) may need to be modified. 393
+
+[m05-t10-b013 | IMAGEN 13]
+· El cáncer de cuello uterino se diagnostica a menudo en una etapa temprana durante el embarazo, generalmente
+alrededor de la semana 18.
+· El pronóstico de la enfermedad parece no estar influenciado por el embarazo en sí.
+· La evaluación preoperatoria consiste en colposcopia, ecografía experta y resonancia magnética sin gadolinio.
+· La tomografía computarizada (TC) y la tomografía por emisión de positrones (PET) deben evitarse.
+
+[m05-t10-b014 | IMAGEN 14]
+· En tumores en etapa temprana, una linfadenectomía pélvica es un procedimiento de estadificación estándar, que es
+factible durante el embarazo hasta la semana 22.
+· La elección del abordaje laparoscópico o laparotómico se basa en la experiencia del equipo; sin embargo, se
+encontró que la laparoscopia, si se realiza en menos de 90 minutos, causa menos complicaciones y contracciones
+prematuras.
+· En cuanto al procedimiento quirúrgico en el cuello uterino, se prefiere una traquelectomía simple a una
+traquelectomía radical, que tiene una alta tasa de complicaciones obstétricas y quirúrgicas.
+· En una edad gestacional más avanzada o en etapas más tardías de la enfermedad (IB3, FIGO 2018), la
+quimioterapia neoadyuvante es el único procedimiento terapéutico que preserva el embarazo.
+
+[m05-t10-b015 | IMAGEN 15]
+· El tratamiento de pacientes con cáncer en el embarazo debe ofrecerse en centros de oncología ginecológica
+asociados a centros perinatales experimentados con experiencia en todos los aspectos necesarios.
+· El cribado del cáncer de cuello uterino antes y durante el embarazo es esencial para diagnosticar la
+enfermedad cervical.
+· El cáncer en el embarazo no es una emergencia aguda y los médicos deben tomar todo el tiempo necesario
+para estudiar el caso y ofrecer el mejor diagnóstico y terapia.
+· En el futuro, el desarrollo de marcadores moleculares y su uso rutinario podrían ayudar en la toma de
+decisiones clínicas.
+
+[m05-t10-b016 | IMAGEN 16]
+I trimester
+Pre-invasive
+Early stage
+Advanced stage
+!
+!
+Delay
+Wait until 12 w
+TOP
+Il trimester
+Pre-invasive - IA1
+IA2-IB1$2 cm
+IB1>2 cm-IIA
+IIB-IV
+!
+1
+!
+Delay
+PLN
+NAC
+TOP
+node +
+node -
+TOP
+NAC
+Ill trimester
+Pre-invasive - IA1
+IA2-IB1$2 cm
+IB1>2 cm-IV
+1
+Delay
+Delay
+NAC
+
+[m05-t10-b017 | IMAGEN 17]
+CONCLUSION
+· El manejo del CCU en el embarazo requiere un enfoque multidisciplinario que involucre
+ginecólogos oncólogos, oncólogos clínicos, obstetras, neonatólogos, especialistas en imágenes y
+psicólogos.
+· Las decisiones deben ser personalizadas considerando el estadio del cáncer, el trimestre del
+embarazo y los deseos de la paciente.
+· Si bien el diagnóstico precoz es vital para mejorar los resultados maternos, la seguridad fetal
+también debe ser priorizada.
+
+[m05-t10-b018 | IMAGEN 18]
+https://www.cancerinpregnancy.org/

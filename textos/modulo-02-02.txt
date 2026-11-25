@@ -1,0 +1,458 @@
+# m02-t02 Microbioma vaginal habitual
+
+[m02-t02-b001 | IMAGEN 1]
+IMPORTANCIA DEL TEMA
+· Los constituyentes de la MV forman parte del sistema inmunológico
+natural o innato
+· Su normalidad previene de la adquisición de infecciones infecciones
+de transmisión sexual (ej .: HIV, HPV, herpes,etc)
+· Una microbiota vaginal alterada puede conducir aparición de
+infecciones endógenas del TGI y facilitar su recurrencia (ej .: vaginosis
+bacteriana, candidiasis vulvovaginal y vaginitis aeróbica)
+· Al prevenir el establecimiento de infecciones exógenas y/o
+endógenas, también se previene complicaciones relacionadas tanto
+en la mujer no embarazada como en la gestante.
+
+[m02-t02-b002 | IMAGEN 2]
+DEFINICIÓN
+·La microbiota habitual, o microbioma humano es el conjunto de
+microorganismos (MO) que se localizan de manera habitual en distintos
+sitios del cuerpo.
+"El microbioma humano se refiere al conjunto de genes de los
+microorganismos presentes en nuestro organismo (incluye
+microorganismos cultivables y no cultivables).
+·Estos MO están en relación simbiótica comensal , ya que los huéspedes
+obtienen ventajas de ellos, tanto como ellos la obtienen del individuo
+(digestión, producción de vitaminas y protegen contra la colonización de
+otros microorganismos que pueden ser patógenos
+
+[m02-t02-b003 | IMAGEN 3]
+COMPOSICIÓN
+· El flujo vaginal se describe como el líquido excretado por la vagina. Puede ser patológico o fisiológico.
+· Se origina en la propia vagina, pero también del cuello uterino y del tracto genital superior
+· Los componentes del flujo vaginal incluyen células del huésped, microorganismos y componentes
+solubles. Los tres crean el color, el olor, la viscosidad y la cantidad del fluido.
+" Los componentes celulares del huésped incluyen células epiteliales y leucocitos.
+· La desintegración de las células epiteliales es una fuente importante de glucógeno, el principal
+sustrato de los lactobacilos.
+· En cuanto a los leucocitos, los linfocitos T constituyen el tipo dominante. Pero también son
+componentes menores, los granulocitos, los linfocitos B y los macrófagos.
+
+[m02-t02-b004 | IMAGEN 4]
+COMPOSICIÓN
+· La vagina humana posee un ecosistema dinámico pero equilibrado que consta de
+diferentes microorganismos
+· La población de microorganismos presentes en la vagina de mujeres sanas es compleja e
+incluye bacterias aerobias y anaerobias, también hongos y mollicutes (micoplasmas)
+· Suele estar dominada por Lactobacillus spp., que producen ácido láctico, peróxido de
+hidrógeno (H202) y bacteriocinas para inhibir la colonización de otros microorganismos
+potencialmente patógenos.
+· Los lactobacilos promueven la producción de ácido láctico generando un ambiente
+vaginal saludable con un pH de 3,8-4,5.
+
+[m02-t02-b005 | IMAGEN 5]
+Mecanismos de regulación que permiten el mantenimiento del ecosistema vaginal saludable
+· Competición por nutrientes (interferencia)
+· Competición por los mismos receptores de la célula huésped (tropismo)
+· Producción de bacteriocinas (sustancias símil ATB)
+· Producción de metabolitos que son tóxicos para otras bacterias (ej .: ácido láctico, H202, )
+CELULAS VAGINALES CON GLUCOGENO
+adhesión de lactobacillus spp.
+Producción de ácido láctico
+liberación de H202
+->
+PH : 3.8 a 4.5
+Dificultad de reproducción de especies que no
+poseen catalasa (anaerobios, g.vaginalis,
+>
+Dificultad de reproducción de especies que no se
+mobiluncus spp. streptococcus spp.)
+multiplican a ph ácido( ej .: enterobacterias)
+
+[m02-t02-b006 | IMAGEN 6]
+COLONIZACIÓN VS. INFECCIÓN
+Entrada microorganismo
+Adherencia y multiplicación
+DEFINICIONES
+Infección: presencia y replicación de MO en los tejidos del
+Infección
+huésped.
+La interacción puede ser muy variable dependiendo de
+factores como las características del MO, la cantidad del
+Factores del
+microorganismo
+inóculo y factores dependientes del huésped como la
+Patogenicidad/virulencia:
+respuesta inmunitaria.
+Patógeno primario
+Factores del huésped:
+Patógeno oportunista
+Respuesta inmune
+No patógeno: flora
+La enfermedad infecciosa es por tanto la expresión clínica
+comensal
+de la infección
+Colonización: presencia de M.O. sin producir enfermedad
+Colonización
+Infección latente
+Enfermedad infecciosa:
+clínica o subclínica
+o subclínica
+Localizada
+Generalizada
+
+[m02-t02-b007 | IMAGEN 7]
+COLONIZACIÓN POTENCIALMENTE PATOGENA
+Colonización con EGB
+Colonización con EB
+Colonización con
+Micoplasmas ???
+Colonización con
+Colonización con
+Colonización con
+Actinomyces spp.
+Candida spp.
+bacterias asociadas a VB
+
+[m02-t02-b008 | IMAGEN 8]
+COMPOSICION DEL CONTENIDO VAGINAL NORMAL
+Origen
+Aspecto y caracteres
+Celularidad
+fisicos
+Transudado de la pared
+Claro, blanquecino,
+Polimorfonucleares(PMN):
+vaginal y moco cervical
+viscoso, inodoro,
+< de 10 por campo de 400x
+homogéneo o con
+(Respuesta Inflamatoria)
+pequeños flócu.os
+Células epiteliales con
+pH: < a 4.5
+bordes enteros
+..
+
+[m02-t02-b009 | IMAGEN 9]
+HMP
+MICROBIOMA HUMANO
+·El término microbioma lo acuñó en 2001 Joshua Lederberg, biólogo molecular (USA)
+que fue uno de los investigadores que obtuvieron en 1958 el Premio Nobel de
+Medicina
+· Las comunidades microbianas específicas y complejas, denominadas microbiota, y su
+material genético colectivo denominado microbioma, difieren enormemente entre los
+sitios del cuerpo como entre individuos.
+·Proyecto del Microbioma Humano (PMH),es un programa de investigación diseñado
+con el objetivo de construir un catálogo o mapa genético de los microorganismos que
+colonizan al ser humano.
+·Los científicos del proyecto obtuvieron material genético de bacterias, virus y otros
+microorganismos tomados de partes distintas del organismo de 242 voluntarios sanos
+(129 hombres y 113 mujeres).
+·Originalmente, "microbioma" se refería al conjunto de genes de nuestros
+microorganismos comensales que forman la microbiota, pero hoy en día ambos
+términos se usan como sinónimos.
+
+[m02-t02-b010 | IMAGEN 10]
+Taxonomía e identificación actual de los lactobacillus spp.
+La adscripción precisa de los lactobacilos aislados de vagina a especies va a depender de los métodos de
+identificación empleados
+Técnicas que ponen de manifiesto cualidades fenotípicas
+"En los métodos dependientes de cultivo se incluyen habitualmente dentro del género Lactobacillus, que son
+bacilos no esporulados, grampositivos y catalasa negativos.
+"Una vez purificados, los aislados se suelen someter a las pruebas de identificación (Aislamiento e
+identificación) - L. acidophilus, y/o L. fermentum.
+Técnicas que ponen de manifiesto propiedades genotípicas.
+"Cuando se aplican métodos genotípicos (Técnicas biomoleculares) de identificación a los mismos aislados,
+las predominantes son L. crispatus, L. gasseri, L. jensenii, L. iners y L. vaginalis.
+"Estas técnicas se enfocan principalmente en la amplificación de secuencias de los cuales de genes
+ribosomales (16S ARNr, son genes exclusivos de las bacterias) son los más comúnmente empleados y se
+emplean con propósitos de identificación, tipificación o monitoreo de cambios en las poblaciones
+microbianas.
+·La tendencia actual es la utilización de técnicas (metagenómica) que permiten caracterizar a las
+comunidades microbianas presentes en una muestra clínica ( no informa viabilidad de los microorganismos)
+
+[m02-t02-b011 | IMAGEN 11]
+REVIEW ARTICLE
+Vaginal microbiota and its role in HIV transmission and
+infection
+Mariya I. Petrova1,2, Marianne van den Broek1,2, Jan Balzarini3, Jos Vanderleyden1 & Sarah Lebeer 1,2
+Los lactobacilos podrían actuar
+1KU Leuven, Centre of Microbial and Plant Genetics, Leuven, Belgium; 2University of Antwerp, Department of Bioscience Engineering, Antwerp,
+Belgium; and 3KU Leuven, Rega Institute for Medical Research, Leuven, Belgium
+disminuyendo el riesgo de adquisición
+del VIH a través de:
+Bacteriocins
+4
+Capture the virus
+Pathogens
+1
+through lectin molecules
+la producción de ácido láctico, H202,
+5
+Directly inhibit HIV
+H2O2
+Lactobacillus
+3
+Inhibit pathogens
+bacteriocinas y otros agentes inhibidores
+Lactic acid
+2
+preservar el integridad del epitelio
+Compete
+Promote integrity of
+for receptor site
+vaginal epithelium
+Compromise
+epithelium barrier
+vaginal
+Mucus
+competir con los patógenos de VB por
+los receptores en el epitelio vaginal
+podrían capturar el VIH mediante
+Squamous
+yõ CD4+ T cells
+epithelium
+moléculas de lecitina evitando la unión a
+Compromise
+epithelium barrier
+Stroma
+las glucoproteínas del VIH
+Decrease
+activation of T-
+mejorar el sistema inmune local
+lymphocytes
+DCs
+5
+Inflammation
+Regulate immune response
+Macrophage
+during health and disease
+Immune activation
+CD4+T cell
+HIV replication
+FEMS Microbiol Rev 37 (2013) 762-792
+AIDS 2014; 28(16):2333-44
+
+[m02-t02-b012 | IMAGEN 12]
+" EL MICROBIOMA VAGINAL Y SU IMPACTO EN LA HISTORIA NATURAL DE LA INFECCIÓN POR HPV"
+· La comunidad bacteriana Grupo I
+A
+B
+HPV acquisition
+CST IV
+Proinflammatory environment
+tiene un abundancia relativa alta
+de L. crispatus pueden proteger
+Viral integration
+Clearance
+Telomerase activation
+(CST II)
+E6/E7 expression
+Genomic instability
+contra la adquisición de HPV.
+Persistence
+(CST IV & III)
+· Las alteraciones de la MV
+probablemente conducen a
+estados pro-inflamatorios que
+causan daño tisular y promueven
+Normal
+HPV infection
+CIN
+CIN2
+CIN3
+Invasive
+epithelium
+koilocytosis
+carcinoma
+la expresión de E6 / E7, la
+Lactobacillus dominance
+Diversity
+inestabilidad genómica y la
+us (CST I)
+Liners (CST III)
+CST I
+L. jenseni (CST V)
+G. vaginals
+A.vaginae
+integración viral que finalmente
+Putrescines
+Sneathia spp
+, Nitrosamines
+Sialidases
+promueve el desarrollo de HSIL.
+Oxidative Stress
+Mucu
+breakdown
+
+[m02-t02-b013 | IMAGEN 13]
+EL MICROBIOMA VAGINAL SU IMPACTO EN LA REPRODUCCION
+Los datos del HMP han revelado que la
+cavidad uterina y la placenta están
+. ALTERED INMUNE MILEU
+. DECREASED IMPLANTATION
+. INCREASED FARSY
+PREGNANCY
+INCREASED LATE
+PREGNANCY LOSS
+colonizados con su propio microbioma .
+La importancia en la reproducción se
+. INTRAAMNIOTIC INFECTION
+. PRETEAM BIRTH
+extiende más allá de la fase de
+. INTRAUTERINE GROWTH RESTRICTION
+. IMPAIRED FERTILIZATION
+ALFERED IMBEYO MIGRATION
+implantación del embrión y afecta la
+. IMPAIRED FOLLICULOGENESIS
+ALTERED GONADOTROPIN
+salud del embarazo
+BESPONSE
+Se sabe que la disbiosis en obstetricia
+. PUERPERAL INFECTION
+· ASTHENOSPERMIA
+NEONATAL COLONIZATION
+está relacionada con estados
+- OLIGOSPERMIA
+·LEUKOSPIENIA
+inflamatorios que dan como resultado
+un parto prematuro espontáneo y
+The Microbiome in Human Reproduction
+otros resultados obstétricos adversos
+
+[m02-t02-b014 | IMAGEN 14]
+International Journal of
+Molecular Sciences
+MDPI
+Review
+The Endometrial Microbiome and Its Impact on
+Human Conception
+Bruno Toson 1, Carlos Simon 2,3,4,5,#, and Inmaculada Moreno 2,.,+
+1
+INCLIVA Biomedical Research Institute, Av. Menendez y Pelayo 4, 46010 Valencia, Spain;
+bruno.toson@igenomix.com
+2
+Igenomix Foundation/INCLIVA Biomedical Research Institute, Narcis Monturiol Estarriol 11B,
+46980 Paterna, Spain
+Department of Obstetrics and Gynecology, University of Valencia, Av. Blasco Ibáñez 15, 46010 Valencia, Spain
+Beth Israel Deaconess Medical Center, Harvard University, 330 Brookline Ave, Boston, MA 02215, USA
+In
+Department of Obstetrics and Gynecology, Baylor College of Medicine, 1 Baylor Plaza,
+Houston, TX 77030, USA
+Correspondence: carlos.simon@uv.es (C.S.); inmaculada.moreno@igenomix.com (I.M.)
++ These authors contributed equally to this work.
+· Varios estudios describen el estado saludable de la microbiota uterina en mujeres en
+edad reproductiva, y la mayoría informa el predominio de especies de Lactobacillus.
+· La colonización de la cavidad uterina puede producirse desde el intestino, la cavidad
+oral, vía hemática, y por vía ascendente vaginal, pero en también podría ocurrir
+potencialmente a través de procedimientos de tecnología reproductiva y colocación
+de dispositivos intrauterino así como la unión de microorganismos a los
+espermatozoides humanos
+· La investigación demuestra consistentemente que el microbioma uterino es muy
+diverso y escasamente poblado en comparación con el tracto genital inferior, pero su
+composición queda por desentrañar por completo.
+
+[m02-t02-b015 | IMAGEN 15]
+Las biopelículas producidas por microorganismos patógenos dan forma a una protección eficaz contra las respuestas inmunitarias
+del huésped y los antimicrobianos.
+›El ciclo de vida de las biopelículas comprende tres fases, fijación a una superficie, secreción de matriz polimérica y agregación de
+microorganismos para producir biopelículas maduras y dispersión por desprendimiento de biopelículas
+
+[m02-t02-b016 | IMAGEN 16]
+PROBIÓTICOS
+1
+Disminución de
+lactobacilos
+Antibiotic
+DISRUPTORES
+Desarrollo de
+Sobrecrecimiento
+TERAPIA
+Adjuvant
+DE BIOFILMS
+biofilms
+de bacterias
+SUPRESIVA CON
+asociadas a VB
+ANTIMICROBIANOS
+Antibiotic
+B
+C
+Aumento del pH
+vaginal
+O
+RESTAURADORES
+DEL PH VAGINAL
+Figura 2. Opciones terapeuticas actuales y en estudio para prevenir VBR.
+
+[m02-t02-b017 | IMAGEN 17]
+MODIFICACIONES FISIOLÓGICAS Y EN SITUACIONES ESPECIALES
+Hábitos y situaciones especiales que podrían afectar la microbiota vaginal
+· Ingesta de antimicrobianos
+· Higiene genital
+· Inicio de las relaciones sexuales
+· Tipo de relaciones sexuales
+· Uso de tampones y protectores diarios
+· Uso de copa menstrual
+· Uso de pesarios
+· Uso de geles lubricantes
+· Uso de estrógenos locales
+
+[m02-t02-b018 | IMAGEN 18]
+Should we be testing for urogenital Mycoplasma hominis , Ureaplasma parvum and
+U. urealyticum in men and women? - a Position Statement from the European STI
+Guidelines Editorial Board
+" En la actualidad, no existen evidencias de beneficios sobre riesgos con la detección
+y tratamiento posterior de la colonización/infección de Mycoplasma hominis,
+Ureaplasma parvum y Ureaplasma urealyticum.
+" En consecuencia, las pruebas de rutina y el tratamiento de hombres y mujeres
+asintomáticos o sintomáticos para M. hominis, U. urealyticum y U. parvum. no se
+recomienda.
+" La colonización asintomática con estas bacterias es común y el la mayoría de las
+personas no desarrollan la enfermedad.
+" Aunque U. urealyticum se ha asociado con uretritis en hombres, probablemente no
+sea causal a menos que exista una alta carga bacteriana.
+· El tratamiento de estas bacterias puede favorecer la selección de cepas resistentes
+a los antimicrobianos, así como alterar la microbiota vaginal, y un costo económico
+sustancial para la sociedad y los individuos, particularmente las mujeres.
+
+[m02-t02-b019 | IMAGEN 19]
+DIFERENCIAS ENTRE INFECCIONES ENDÓGENAS Y EXÓGENAS
+INFECCIONES ENDOGENAS
+0/06/08
+· Los microorganismos pueden forman parte de la microbiota normal
+· Los factores del huésped son importantes en la fisiopatología
+· Tienden a ser recurrentes
+· La transmisión sexual no juega un rol relevante
+INFECCIONES EXOGENAS
+· Los microorganismos NUNCA forman parte de la microbiota normal
+· En algunos casos producen infecciones persistentes
+· La transmisión sexual juega un rol importante
+· Los factores del microorganismo son importantes en la fisiopatología
+
+[m02-t02-b020 | IMAGEN 20]
+CLASIFICACION DE LAS INFECCIONES NO VIRALES DEL TGI
+INFECCIONES ENDOGENAS
+· Vaginosis Bacteriana
+· Candidiasis vulvovaginal
+· Vaginitis aeróbica
+· Vaginosis citolitica/Lactobacillosis
+INFECCIONES EXOGENAS
+· T. vaginalis
+· C. trachomatis
+· N. gonorrhoeae
+· M. genitalium
+
+[m02-t02-b021 | IMAGEN 21]
+CONCLUSIONES
+· Los constituyentes de la MV forman parte del sistema inmunológico natural c
+innato
+· Su normalidad previene de la adquisición de infecciones endógenas e ITS como
+así también de complicaciones G & O
+· Su estudio actualmente mediante biología molecular permitió descubrir distintas
+comunidades bacterianas o vaginotipos
+· Es importante reconocer sus variaciones fisiológicas o en situaciones especiales
+y brindar pautas de prevención para evitar la disbiosis.
+· Se minimiza su importancia y se desconoce sus componentes, regulación y
+variaciones.

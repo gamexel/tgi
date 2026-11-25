@@ -1,0 +1,486 @@
+# m03-t12 Manejo LSIL
+
+[m03-t12-b001 | IMAGEN 1]
+ALGUNOS CONCEPTOS ANTES DE
+COMENZAR ...
+· Contagio través de cualquier tipo de contacto sexual
+· El adecuado uso del preservativo no evita el contagio; reduce el
+HPV
+riesgo en un 40% a 50%
+· Una persona puede tener HPV y contagiarlo aún si han pasado años
+desde el contagio inicial.
+· No produce signos ni síntomas; se encuentra en la piel y en las
+mucosas genitales
+· No está en la sangre
+· No está en el semen
+· 70% de las mujeres se infectarán por HPV en algún momento de su
+vida
+
+[m03-t12-b002 | IMAGEN 2]
+Como es la Relación entre infección por
+VPH y Ciclo de Vida del VPH 1
+Desprendimiento de Células
+Superficie Cervical
+Epiteliales Cargadas
+Capa Escamosa
+del Virus
+Madura
+Ensamblaje Viral
+(L1 y L2)
+Capa
+Replicacion del ADN
+Escamosa
+Viral (E6 y E7)
+ADN Viral Episomal en
+Células
+Los Núcleos Celulares
+Parabasales
+(E1 y E2, E6 y E7)
+Células Basalog
+Infección de
+(Madres)
+Células Basales
+Membrana Basal
+(E1 y E2)
+Mala one Al
+Epitelio
+Epitelio
+Normal
+Infectado
+1. Frazer IH. Nature Rev Immunol. 2004:4:46-54. Adaptado con permiso de Nature Reviews Immunology @ 2004
+Macmillan Magazines Ltd.
+
+[m03-t12-b003 | IMAGEN 3]
+VPH
+Meses
+1-15 años
+Décadas
+Inicio actividad sexual
+0000000
+0000000
+0000000
+Epitelio
+Infección VPH
+CIN1
+CIN2
+CIN3/CIS
+normal
+LSIL
+HSIL
+Carcinoma
+80%
+invasor
+20%
+Prevención primaria Tamizaje-Cribado
+Tratamiento
+INFECCION PERSISTENTE
+
+[m03-t12-b004 | IMAGEN 4]
+Útero
+Cambios en el cuello uterino
+8
+Normal
+LSIL
+HSIL
+Cáncer de
+cuello uterino
+Cuello-
+uterino
+Vagina
+2014 Terese Winslow LLC
+U.S. Govt. has certain rights
+
+[m03-t12-b005 | IMAGEN 5]
+Normal cervical
+squamous epithelium
+New infection
+Infected cervical squamous epithelium
+HPV-
+-New infectious HPV
+Mature
+cells
+Viral
+assembly
+Intermediate-
+cells
+Maturation of
+Parabasal
+infected cells
+cells
+Viral DNA
+Basal
+replication
+cells
+Basement
+HPV-infected
+Stromal
+membrane
+basal cell
+tissue
+Healthy
+HPV
+CIN1
+CIN3
+cervical tissue
+infection
+CIN2
+Invasive
+Low-grade dysplasia
+High-grade dysplasia
+carcinoma
+REGRESION
+PERSISTENCIA
+PROGRESION
+CIS
+INVASION
+CIN 1
+57%
+32%
+11%
+1%
+CIN 2
+43%
+35%
+22%
+5%
+CIN 3
+32%
+<56%
+>12%
+I
+
+[m03-t12-b006 | IMAGEN 6]
+ZONA DE TRANSFORMACIÓN
+ENDOCÉRVIX
+ENDOCÉRVIX
+Epitelio columnar
+simple
+ECTOCÉRVIX
+UEC
+METAPLASIA ESCAMOSA
+ECTOCÉRVIX
+Epitelio escamoso
+www.mdsaude.com/es
+ALTA ACTIVIDAD MITÓTICA
+OCI
+Epitelo columnar
+TERRENO VULNERABLE INMUNOLÓGICAMENTE
+Quiste de Nabot
+UEC original
+Zona de transición
+UEC activa
+TERRENO PROPICIO PARA LA INFECCIÓN POR HPV
+(B)
+OCE
+
+[m03-t12-b007 | IMAGEN 7]
+COFACTORES ESTABLECIDOS Y POTENCIALES INVOLUCRADOS EN LA
+PERSISTENCIA DEL VPH Y EN LA CARCINOGÉNESIS1
+HIV
+Hormonas
+endógenas
+IMC
+ACO*
+HPV
+Alta
+paridad
+TBQ
+DIET
+A
+
+[m03-t12-b008 | IMAGEN 8]
+LSIL y lesiones menores
+· Infecciones transitorias
+· Pobre reproducibilidad diagnóstica
+· Conducta: SEGUIMIENTO
+LESIONES
+HSIL (CIN 2)
+· Situación "borderline"
+INTRAEPITELIALES
+· Reproducibilidad diagnóstica pobre a moderada
+· Infección por HPV vs verdadero pre-cáncer cervical
+CERVICALES
+· HPV16 < probabilidad de regresión
+· ¿ Conducta terapéutica?
+HSIL (CIN3)
+· Infección transformante
+· Verdadero precursor del cáncer cervical
+· Buena reproducibilidad diagnóstica
+· Conducta terapéutica establecida = Escisión
+
+[m03-t12-b009 | IMAGEN 9]
+2 ENTIDADES BIOLÓGICAS DIFERENTES
+LSIL
+HSIL
+P16 -
+VIRUS EN ESTADO
+P16 +
+EPISOMAL
+VERDADERA LESIÓN
+PRNEOPLÁSICA
+
+[m03-t12-b010 | IMAGEN 10]
+CIN 2
+o Lesión "borderline"
+o Incluida en los H-SIL, pero con potencial biológico discutido (simple infección por HPV o
+verdadera lesión precursora?)
+o Pobre a moderada reproducibilidad diagnóstica y conducta terapéutica variable.
+o Uso de biomarcador p16 para mejorar la reproducibilidad diagnóstica y para su manejo
+clínico
+
+[m03-t12-b011 | IMAGEN 11]
+Proyecto LAST (LAST: Lower Anogenital Squamous
+Terminollogy Standardization).
+·Nueva terminología recomendada para las lesiones intraepiteliales escamosas del tracto anogenital asociadas a HPV = L-
+SIL y H-SIL
+·Se recomienda el uso de la inmunohistoquímica p16 (IHC) para definir claramente las lesiones escamosas de alto grado
+(LIEAG).
+·Mejora la reproducibilidad diagnóstica
+o Al alinear el número de términos diagnósticos con el número de categorías biológicamente relevantes
+o Con el uso de biomarcadores
+·Las lesiones pueden ser además subcategorizadas_IN(CIN)". CIN2 (bajo la antigua terminología), que es una lesión
+biológicamente equívoca cayendo entre los cambios morfológicos de infección por HPV (lesión de bajo grado) y pre-
+cáncer ... "
+
+[m03-t12-b012 | IMAGEN 12]
+LSIL (CIN 1)
+BETHESDA 2001
+HSIL (CIN 2-3)
+TERMINOLOGÍA
+LSIL
+LAST (p16)
+HSIL
+
+[m03-t12-b013 | IMAGEN 13]
+UTILIDAD DE INMUNOHISTOQUIMICA EN PTGI
+p16INK4A (p16)
+Marcador de integración
+Ki67
+de HPV-AR
+Factor de proliferación
+· Diagnóstico diferencial SIL de alto grado / simuladores (epitelio atrófico, metaplasia inmadura, epitelio reactivo)
+· Lesiones delgadas ("thin dysplasia, metaplasia")
+· Lesiones pequeñas
+· Corte tangencial de una lesión por el patólogo (que impresiona comprometer > 1/3 del espesor epitelial)
+· CIN2
+
+[m03-t12-b014 | IMAGEN 14]
+CIN 2 - PROYECTO LAST
+CIN3
+o Frente a un diagnóstico morfológico (H&E) de
+High-Grade SIL
+- IN2, recomienda el uso de la p16
++
+Treatment
+o Marcación + fuerte y difusa "en bloque", apoya
+CIN2
+p16 IHC
+la categorización de pre-cáncer
+o Marcación - o no "en bloque", favorece L-SIL o
+CIN1
+Low-Grade SIL
+Increasing Cancer Risk
+patología no asociada a HPV
+Histologic
+LAST Terminology
+Follow-up
+B
+Interpretation
+Diagnosis
+
+[m03-t12-b015 | IMAGEN 15]
+DIAGNÓSTICO
+Confección de Historia Clínica
+Colposcopia
+Citología Exocervical - Endocervical
+Biopsia
+Biología Molecular
+Inmunohistoquímica
+
+[m03-t12-b016 | IMAGEN 16]
+ROL DE LA COLPOSCOPÍA
+International Federation for Cervical Pathology and Colposcopy
+I.F.C. P.C.
+Internationale Federation für Zervixpathologie und Kolposkopie
+Federación Internacional de Patología Cervical y Colposcopia
+Fédération Internationale de Pathologie Cervicale et Colposcopie
+2011 IFCPC Nomenclature1
+Accepted in Rio World Congress, July 5, 2011
+Nomenclature Committee chairman: Jacob Bornstein MD
+Nomenclature Committee: Chairperson: Jacob Bornstein (Israel) mdjacob2@gmail.com
+Members: Frank Girardi (Austria), frank.girardi@medunigraz.at. Bjorn Strander (Sweden) bjorn.strander@oc.gu.se.
+Peter Bosze (Hungary) bosze@eage.eu. Walter Prendiville (Ireland) prendiville.walter@gmail.com.
+Peter Russell (Australia) russell2@bigpond.net.au. Myriam Perrotta (Argentina) myriam.perrotta@hospitalitaliano.org.ar.
+Mario Sideri (Italy) mario.sideri@ieo.it, Michael Menton (Germany) msm.menton@t-online.de
+Aureli Tome (Spain) aureli@comb.es. Jim Bentley (Canada) jbentle2@dal.ca. Hope Haefner (U.S.A.) haefner@med.umich.edu
+TRADUCCION AL ESPAÑOL: Dr Silvio Tatti
+
+[m03-t12-b017 | IMAGEN 17]
+Nomenclatura IFCPC 20111
+Aceptada en el Congreso Mundial de Río, 5 de Julio, 2011
+Presidente del Comité de Nomenclatura: Jacob Bornstein MD
+Hallazgos
+Principios
+Ubicación de la lesión: dentro o fuera de la
+colposcópicos
+generales
+zona de Transformación, ubicación de la
+anormales
+lesión según las agujas del reloj.
+Tamaño de la lesión Número de cuadrantes
+del cuello uterino que cubre la lesión, tamaño
+de la lación on porcentajes del cuello uterino.
+Grado 1
+Epitelio acetoblanco
+Mosaico fino,
+(Menor)
+delgado.
+Puntillado fino
+Borde irregular
+Grado 2
+(Mayor)
+Epitelio acetoblanco
+Mosaico grueso,
+denso, Aparición
+Puntillado grueso.
+rápida de epitelio
+Bordes delimitados,
+acetoblanco.
+Orificios glandulares
+Signo del límite del
+borde interno,
+abiertos con bordes
+Signo de cresta o
+engrosados.
+sobreelevado.
+No
+Leucoplasia (queratosis, hiperqueratosis),
+específicos
+Erosión
+Solución de Lugol (Test de Schiller):
+positivo/negativo
+1 Bornstein J, Bentley J, Bosze P, Girardi F, Haefner H, Menton M, Perrotta M,
+Prendiville W, Russell P, Sideri M, Strander B, Torne A, Walker P. 2011 IFCPC
+colposcopic nomenclature. In preparation for publication
+
+[m03-t12-b018 | IMAGEN 18]
+(Imagen sin texto reconocido)
+
+[m03-t12-b019 | IMAGEN 19]
+OF
+
+[m03-t12-b020 | IMAGEN 20]
+(Imagen sin texto reconocido)
+
+[m03-t12-b021 | IMAGEN 21]
+LSIL Y USO DE MARCADORES MOLECULARES
+o La Tipificación viral no posee ningún rol en la decisión terapéutica vs. Seguimiento
+O No se recomienda su utilización en pacientes < 30 años, dado su elevada tasa de positividad
+(86%), lo que resta Especificidad para el diagnóstico de Lesión precursora
+
+[m03-t12-b022 | IMAGEN 22]
+PACIENTES CON DIAGNÓSTICO DE LSIL
+Discordancia cito-colpo-histológica
+Pap LSIL: 12 al 17% enmascaran un CIN 2 o 3.
+ASC-H/HSIL o AGC citológico y prueba de VPH+: identifica mujeres que requieren inmediato triage,
+seguimiento o tratamiento.
+La recomendación es la derivación a colposcopia con eventual biopsia, citobrush y eventual
+tratamiento posterior a la confirmación histológica.
+
+[m03-t12-b023 | IMAGEN 23]
+Algoritmo 13.1 Manejo del tamizaje anormal
+1) Citología ASC-US / L-SIL
+2) Prueba de HPV (+) persistente*
+3) ASC-US con prueba de HPV (+)
+4) Prueba de HPV (+)con ASC-US / L-SIL
+5) Prueba de HPV (+) 16 y/o 18
+6) Prueba de HPV (+) no 16 no 18
+Citología o tinción dual (TD)
+Colposcopia
+Positiva
+Negativa
+Presencia o sospecha de lesión grado 2
+Sin lesión visible
+Colposcopia
+Prueba de HPV
+en 12 meses
+ZT tipo 1 o 2
+ZT tipo 3
+ZT tipo 1 o 2
+Control con prueba de HPV
+Biopsia
+en 1 año o citología
+Estudio conducto
+cada 6 meses por 1 año
+endocervical (ECE)
+Negativo
+Negativo
+Positivo
+Positivo
+Negativo
+>
+Manejo de acuerdo al
+resultado histológico
+Colposcopia
+Control con prueba de HPV
+en 3 años o con citología
+en 1 año -> si negativo
+volver al tamizaje habitual
+B II
+Prueba de HPV (+) con triaje citológico negativo
+C III
+-> Repetir prueba de HPV en 12 meses y si es HPV (+) determina persistencia*
+
+[m03-t12-b024 | IMAGEN 24]
+L-SIL
+L-SIL: la observación es
+preferible y el tratamiento es
+aceptable luego de 2 años de
+Prueba de HPV o citología sola o asociada a la colposcopia en 1 año
+seguimiento y en relación a
+cofactores y factores de riesgo
+Prueba de HPV
+Citología anormal
+negativa
+Citología negativa
+o prueba de HPV (+)
+*
+Control en 3 años
+Control en 1 año
+Colposcopia (biopsia)
+H-SIL:
+CIN 2 p16 (+) / CIN 3
+>
+L-SIL o menor
+Tratamiento
+B II
+Considerar repetir la citología luego del tratamiento
+C II
+local con estrógenos por 20 días en pacientes
+· Prueba de HPV como triaje de citología ASC-US*
+C III
+posmenopáusicas con citología anormal
+· Citología como triaje de prueba de HPV (+)*
+
+[m03-t12-b025 | IMAGEN 25]
+CONCLUSIONES
+· Las Lesiones Intraepiteliales de Bajo Grado son de bajo potencial oncogénico, con una baja
+probabilidad de desarrollar lesiones preneoplásicas.
+· El Seguimiento de las pacientes es la conducta terapéutica de elección, dado el alto índice de
+recurrencia de las lesiones dentro de los primeros dos años luego del contagio.
+· No es de utilidad la aplicación de pruebas de tipificación viral para la elección de la conducta
+terapéutica.
+· Evaluar el subgrupo de pacientes que pueden ser candidatas a realizar tratamiento, que no
+desarrollen la historia natural viral.
+
+[m03-t12-b026 | NOTA]
+El vitus infecta las celulas basales
+
+[m03-t12-b027 | NOTA]
+En el LSIL pareceria una lesion a nivel de las celulas intermedias. En el HSIL es todo
+
+[m03-t12-b028 | NOTA]
+En esta imagen y la de moco se nota la diferencia de lo que seria una lesion grado 1 de 2. Hacia H1-3 mas periferico, se observa un mosaico mucho mas fino que en la lesion del centro. Lo mismo pasa en la Imagen anterior con moco cervical
+
+[m03-t12-b029 | NOTA]
+No son lesiones que maligmnicen

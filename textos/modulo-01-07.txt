@@ -1,0 +1,466 @@
+# m01-t07 Colposcopia normal
+
+[m01-t07-b001 | IMAGEN 1]
+Qué es la
+colposcopia?
++ Evaluación sistemática de todo el TGI
++ Epitelio superficial/vasos sanguíneos del
+estroma subyacente
++ Permite identificar las lesiones
+cervicales intraepiteliales y dirigir la
+biopsia para obtener la confirmación
+histológica.
++ Rol en la decisión terapeutica
+
+[m01-t07-b002 | IMAGEN 2]
+Indicaciones
++Citología con CAMBIOS MAYORES(SIL AG, ASC-H, AGC, CA
++Citología SIL BG
++Test de VPH positiva 16/18
++Test de VPH positivo y citología >ASCUS
++Test de VPH persistentemente positivo
+Um
++PAP negativo en el screening
++ASCUS + Test de VPH negativo
++Test de VPH no 16 no 18 y PAP negativos, ASCUS, LSIL
+Pacientes con test de VPH negativo en
+el screening
+
+[m01-t07-b003 | IMAGEN 3]
+Indicaciones
+Citología con CAMBIOS MAYORES
+Citología SIL BG
+Test de VPH positiva 16/18
+Test de VPH positivo (sin genotipificación) y citología >ASCUS
+---
+Test de VPH persistentemente positivo
+
+[m01-t07-b004 | IMAGEN 4]
+Quien mas?
+Metrorragia
+Mujeres con
+síntomas
+Sinusorragia
+sugestivos de
+CCU
+Flujo vaginal anómalo
+(acuoso,mucoide, fétido)
+Cuello uterino
+macroscópicamente anormal
+en la prueba de screening
+
+[m01-t07-b005 | NOTA]
+La colposcopia es una tecnica subjetiva y es operador dependinete
+
+[m01-t07-b006 | NOTA]
+El grado de concordancia es mucho mayor cuando hay una lesion de alto grado, que cuando hay una lesion de bajo grado
+
+[m01-t07-b007 | NOTA]
+No ha demostrado diminuir la mortalidad
+
+[m01-t07-b008 | IMAGEN 5]
+Ventajas de la colposcopia
+Realizar el seguimiento
+Determinar la
+de las lesiones
+Detectar lesiones
+localización para la
+Facilitar e individualizar
+intraepiteliales, tanto si
+premalignas del TGI
+realización de una
+los tratamientos
+biospia
+hacemos tratamiento
+como el seguimiento sin
+tratamiento.
+
+[m01-t07-b009 | IMAGEN 6]
+No se recomienda en forma rutinaria
+
+[m01-t07-b010 | IMAGEN 7]
+Fundamentos colposcópicos
+LUZ
+VIII
+
+[m01-t07-b011 | NOTA]
+Se utiliza una fuente de luz blanca pero iluminar el cuello uterino y la parte distal de la vagina
+
+[m01-t07-b012 | NOTA]
+Los cambios de color van a representar esa proporcion de luz reflejada o absorbida
+
+[m01-t07-b013 | NOTA]
+El epitelio escamoso como se ve en la foto de arriba, tiene multiples capas, por lo tanto, no deja pasar la luz. Es una barrera entre la luz y los capilares estromales.
+
+[m01-t07-b014 | NOTA]
+En cambio, la monocapa de celulas endocervicales, perimite que la luz acceda a esta parte de los capilares subyacentes
+
+[m01-t07-b015 | NOTA]
+Entonces:
+
+[m01-t07-b016 | NOTA]
+EXOCERVIX SE VE BLANCO O ROSA CLARO
+
+[m01-t07-b017 | NOTA]
+ENDOCERVIX SE VE MAS ROJIZO
+
+[m01-t07-b018 | IMAGEN 8]
+Acido acético
+Aglutinación
+de proteínas
+nucleares
+Deshidratación
+Alteración de
+citoplasmática
+las
+citoquera Colposcopia normal. Dra Rodriguez Brusco
+ACameraFi
+
+[m01-t07-b019 | NOTA]
+En los epitelios que son metaplasicos, displasicos o neoplasicos, se produce una coagulacion superficial de las proteinas celulares y esto reduce la transparencia. Estos cambios son mucho mas pronunciados en los epitelios anormales porque hay una alta densidad nuclear, esto genera un aumento en la concentracion de proteinas.
+
+[m01-t07-b020 | NOTA]
+Estas modificaciones cervicales producen mas luz reflejada y visualmente, se ve una superficie mucho mas blanca que se denomina acetoblanca
+
+[m01-t07-b021 | NOTA]
+Este efecto es transitorio y se pierde entre 15 seg a 2 min
+
+[m01-t07-b022 | IMAGEN 9]
+Lesión de BG
+Colposcopia normal. Dra Rodriguez Brus
+Ep. Metaplásico
+
+[m01-t07-b023 | IMAGEN 10]
+Solución de Lugol
+----
+-----
+-----
+------
+
+[m01-t07-b024 | NOTA]
+Lugol tiene gran avidez por el glucogeno que se encuentra en el estrato intermedio del epitelio escamoso del cuello uterino y de la vagina y esto provoca una coloracion marron, que es mas o menos intensa en funcion de la cantidad de glucogeno que hay en la celula
+
+[m01-t07-b025 | NOTA]
+Si hay ausnecia de tincion, va a indicar un estado aglucogenico o una superficie queratinizada
+
+[m01-t07-b026 | NOTA]
+El epitelio cilindrico no contiene glucogeno, NO TIÑE
+
+[m01-t07-b027 | NOTA]
+En mujeres postmenopausicas, el epitelio pavimentoso se va a encontrar disminuido a expensas dle estrato intermedio, que es rico en glucogeno. Por eso en los epitelios hipotroficos, el glicogeno capta menos. NO TIÑE
+
+[m01-t07-b028 | NOTA]
+En areas donde hay una neoplasia intraepitelial o un ca invasr, NO TIÑE
+
+[m01-t07-b029 | NOTA]
+Entonces hablamos de imagenes:
+
+[m01-t07-b030 | NOTA]
+LUGOL NEGATIVAS (IODO NEGATIVAS) O SCHILLER POSITIVAS
+
+[m01-t07-b031 | NOTA]
+Es una prueba inespecifica, pero ayuda a delimitar con mayor precision un area de sospecha, al momento dela toma de bx
+
+[m01-t07-b032 | IMAGEN 11]
+Técnica colposcopia
+· Posición
+· Espéculo
+· Filtro verde
+· Toma de muestras
+A nivel
+· Acido acético
+cervical
+· Colposcopia adecuada, UEC, ZT
+· Lugol
+Can
+· Rotaciones del especulo
+· Acido acetico
+A nivel
+· Lugol
+vaginal
+
+[m01-t07-b033 | NOTA]
+Examinar patron vascular con filtro verde, sin liquidos
+
+[m01-t07-b034 | NOTA]
+Determinar si colposocopia es adecuada (se observa bien el cuello uterino) o no:
+
+[m01-t07-b035 | NOTA]
+Identificar UEC
+
+[m01-t07-b036 | NOTA]
+Diferencio ZT
+
+[m01-t07-b037 | NOTA]
+Aplicacion de ac acetico al 3 o 5%
+
+[m01-t07-b038 | NOTA]
+Aplicacion de lugol
+
+[m01-t07-b039 | IMAGEN 12]
+Conceptos fundamentales de la ZT
++ Unión=borde
+UEC original
++ ZT=área
+Zona de Transformación
+Hasta la pubertad, la UEC congénita u
+"original" esta presente
+Post pubertad UEC adulta o "nueva"
++ Inicialmente la ZT esta formada por
+tejido metaplásico
++ Luego ese tejido metaplasico se
+UEC nueva
+transforma en epitelio escamoso.
+Can
+
+[m01-t07-b040 | NOTA]
+Union escamocolumnar: unión del borde del epitelio escamosos y borde del epitelio cilíndrico
+
+[m01-t07-b041 | NOTA]
+ZT: área comprendida entre 2 bordes. Entre la union escamocolumnar completa u original y la unión escamocolumnar adulta o nueva
+
+[m01-t07-b042 | NOTA]
+Lo primero que aparece en la etapa prepuberal es que el epitelio cilíndric. Este se evierte al exocérvix, pero no se van a observar muchos cambios porque el ambiente aun es alcalino. Entonces se observa una union escamocilindrica bien definida y sin metaplasia
+
+[m01-t07-b043 | NOTA]
+En la pubertad, debido a la estimulación de los estrógenos, empieza a haber mas glucógeno en las células epiteliales, que por medio de la acción de los lactobacilos, el ambiente comienza a ser mas acido. Este ambiente acido es el principal responsable de la metaplasia escamosa.
+
+[m01-t07-b044 | NOTA]
+Entonces este cambio define la transformación de un tipo células maduro a otro tipo celular maduro
+
+[m01-t07-b045 | NOTA]
+En esta zona es donde asientan la mayoría de las lesiones cervicales
+
+[m01-t07-b046 | NOTA]
+El mecanismo de la metaplasia escamosa se cree que comienza en las celulas subcilindicas o de reserva y se conoce histológicamente como zona de transformación
+
+[m01-t07-b047 | NOTA]
+La zona de transformacion inicialmente esta formada de tejido metaplasico, y luego con el tiempo, el epitelio metaplasico se transforma en epitelio escamoso
+
+[m01-t07-b048 | NOTA]
+Luego con la menopausia, a menudo la ZT se encuentra dentro del conducto endocervical y no se ve en el examen de rutina
+
+[m01-t07-b049 | NOTA]
+La interfaz que vemos luego de la aplicación de ac acetico es la union escamocilindrica nueva (se mas blanca, a diferencia del epitelio cilíndrico del endocervix que se mas rojo)
+
+[m01-t07-b050 | NOTA]
+Esta clasificacion es fundamental
+
+[m01-t07-b051 | NOTA]
+para el tratamiento
+
+[m01-t07-b052 | IMAGEN 13]
+Tipos de Zonas de Transformación
+Type 1
+Type 2
+Type 3
+CameraFi 2
+
+[m01-t07-b053 | NOTA]
+Tipo 1:
+
+[m01-t07-b054 | NOTA]
+Hay una ZT ectocervical, completamente visible
+
+[m01-t07-b055 | NOTA]
+Escision debe ser menor de 10 mm, para poder sacar la zona de exocervix (superficial)
+
+[m01-t07-b056 | NOTA]
+Tipo 2:
+
+[m01-t07-b057 | NOTA]
+ZT completamente visible, solo que tiene un componente endocervical, por lo tanto para poder verla adecuadamente, debo ayudarme con un hisopo, especulo, etc
+
+[m01-t07-b058 | NOTA]
+Escision mas profunda entre 10 y 15 mm
+
+[m01-t07-b059 | NOTA]
+Tipo 3:
+
+[m01-t07-b060 | NOTA]
+Parcialmente o completamente no visible (metida en endocervix)
+
+[m01-t07-b061 | NOTA]
+Escision mayor de 15 mm
+
+[m01-t07-b062 | IMAGEN 14]
+ZT1
+---
+--
+Type 1
+A CameraFi 2
+Colposcopia normal. Dra
+
+[m01-t07-b063 | IMAGEN 15]
+ZT 2
+Type 2
+O
+
+[m01-t07-b064 | IMAGEN 16]
+ZT 3
+Type 3
+Colposcopia normal. Dra Rodriguez Brusco
+=====
+---
+CameraFi 2
+
+[m01-t07-b065 | IMAGEN 17]
+Hallazgos colposcópicos
+normales
+Epitelio escamoso
+Epitelio columnar
+Epitelio metaplásico
+Deciduosis
+
+[m01-t07-b066 | NOTA]
+EPTELIO ESCAMOSO:
+
+[m01-t07-b067 | NOTA]
+Ectocervix
+
+[m01-t07-b068 | NOTA]
+Liso, rosado
+
+[m01-t07-b069 | NOTA]
+Sin muchos cambios luego de la aplicacion de ac acetico
+
+[m01-t07-b070 | NOTA]
+Luego de la aplicacion de lugol. Se tiñe marron oscuro
+
+[m01-t07-b071 | NOTA]
+Los vasos superficiales se encuentran por debajo, pero debido a las multiples capas se ve mas rosado claro
+
+[m01-t07-b072 | NOTA]
+Puede ser maduro o atrofico (aplanado, fondos de sacos borrado, cuello mas palido, union escamocolumar suele ser endocervical, ZT 3. Puede haber petequias por fragilidad del epitelio, no confundir con puntillado). Puede no teñirse con el lugol
+
+[m01-t07-b073 | IMAGEN 18]
+Epitelio escamoso
+Colposcopia normal. Dra Rodriguez Brusco
+Epitelio maduro
+
+[m01-t07-b074 | IMAGEN 19]
+Epitelio escamoso
+--
+--
+Colposcopia normal. Dra Rodriguez Brusco
+CameraFi 2
++ Epitelio atrófico
+
+[m01-t07-b075 | NOTA]
+EPITELIO COLUMNAR:
+
+[m01-t07-b076 | NOTA]
+Es el que recubre al endocervix
+
+[m01-t07-b077 | NOTA]
+Muchas veces es apenas visible cerca del OCE (como una mancha roja)
+
+[m01-t07-b078 | NOTA]
+Con la colocacion del ac acetico tiene una apariencia aterciopelada
+
+[m01-t07-b079 | NOTA]
+Multiples pliegeus longitudinales
+
+[m01-t07-b080 | IMAGEN 20]
+Epitelio columnar
+Colposcopia normal. Dra Rodriguez Brusco
+
+[m01-t07-b081 | IMAGEN 21]
+(Imagen sin texto reconocido)
+
+[m01-t07-b082 | NOTA]
+EPTELIO METAPLASICO:
+
+[m01-t07-b083 | NOTA]
+Islotes de epitelio glandular, separado de eputelio escamoso como ne columnas
+
+[m01-t07-b084 | NOTA]
+Glandulas abierrtas (puntitos negros)
+
+[m01-t07-b085 | NOTA]
+Cuando termina el proceso de mataplasia, muchas veces no se puede distinguir el epitelio escamosos, del metaplasico. Por lo que los quistes de Naboth o la presencia de glandulas abiertas, pueden ser hallazgos que indiquen que ahi estaba la zona de transformacion presente
+
+[m01-t07-b086 | NOTA]
+Quistes de Naboth se forman porque se obstruyen la salida de las glandulas por el epitelio metaplasico, donde puede haber capilares entre los quistes. A medida que avanza la metaplasia, se pueden ver areas de epitelio columnar que aun permanecen
+
+[m01-t07-b087 | IMAGEN 22]
+Epitelio metaplásico
+
+[m01-t07-b088 | IMAGEN 23]
+Ep. Metaplásico
+
+[m01-t07-b089 | NOTA]
+DECIDUOSIS:
+
+[m01-t07-b090 | NOTA]
+Apariencia del epitelio durante el embrazo, que depende de la edad gestacional
+
+[m01-t07-b091 | NOTA]
+Epitelio columnar evertido
+
+[m01-t07-b092 | NOTA]
+Deciduomas: imagenes nodulares, sobretodo en los ultimos trimestres del embrazo
+
+[m01-t07-b093 | IMAGEN 24]
+Deciduosis
+-----
+-------
+
+[m01-t07-b094 | IMAGEN 25]
+Conclusiones
++ La colposcopia permite identificar las lesiones, dirigir la biopsia y planificar el
+tratamiento.
++ Esta indicada fundamentalmente en pacientes con riesgo aumentado de SIL AG
++ Los cambios de color son el resultado del porcentaje de luz reflejada o absorbida
+que permite la visualización de los vasos del estroma.
++ La UEC es un borde y la ZT es un area, de gran interés porque es donde asientan
+las lesiones premalignas de cuello uterino.
++ El conocimiento de las ZT permite planificar el tratamiento adecuado.
++ Teniendo en cuenta los hallazgos normales será mucho mas simple reconocer los
+que son anormales, para determinar si se realiza una biopsia y donde tomarla
++ Para realizar una correcta colposcopia se debe disponer de TIEMPO.
+
+[m01-t07-b095 | IMAGEN 26]
+Karl Storz
+https://www.karlstorz.com › doc · Traducir esta página :
+Colposcopy
+Secondary Prevention of Cervical Cancer. Colposcopy.
+IARC Screening Group
+https://screening.iarc.fr > atlascolpoes :
+Atlas de colposcopia - principios y práctica
+El atlas aborda los conceptos básicos y guía al aprendiz a través de las complejidades de la
+detección de los cambios, la diferenciación entre afecciones ...
+
+[m01-t07-b096 | NOTA]
+COLPOSCOPIA EXAMEN
+
+[m01-t07-b097 | IMAGEN 27]
+Cual de las siguiente en una indicacion de colposcopia?
+a. Citologia AGC
+b. Test de VPH positivo en el screening y PAP negativo
+c. Citologia ASCUS con test de VPH negativo
+d. Test de VPH negativo en el screening
+
+[m01-t07-b098 | IMAGEN 28]
+La colposcopia:
+a. Es una herramienta fundamental para localizar donde realizar una biopsia
+b. Es altamente sensible y especifica para el diagnóstico de lesiones de bajo grado
+C. Tiene alta concordancia interobservador
+d. Debe realizarse siempre en conjunto con la citologia en el tamizaje primario
+
+[m01-t07-b099 | IMAGEN 29]
+Se considera que el acido acético genera una coloración mas blanca:
+a. Cuando hay aumento de la vascularizacion
+b. En los epitelios con alto contenido de glucógeno
+c. En lugares con aumento del grosor del epitelio
+d. En los sitios de alta densidad nuclear
+
+[m01-t07-b100 | IMAGEN 30]
+La zona de transformación:
+a. Es el borde entre los epitelios escamoso y columnar
+b. Se puede presumir por la presencia de quistes de retención
+C. Es estática y no difiere a lo largo de la vida
+d. Es el area definida entre la UEC original y la UEC congénita
+
+[m01-t07-b101 | NOTA]
+Puede haber un area acetoblanca que confunda

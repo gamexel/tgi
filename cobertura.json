@@ -1,0 +1,74 @@
+{
+  "modules": [
+    {
+      "module": "m01",
+      "title": "Módulo 1",
+      "topics": 7,
+      "cards": 36,
+      "images": 121,
+      "ocr": 117,
+      "notes": 232,
+      "questions": 10,
+      "explicitAnswers": 3
+    },
+    {
+      "module": "m02",
+      "title": "Módulo 2",
+      "topics": 9,
+      "cards": 40,
+      "images": 127,
+      "ocr": 127,
+      "notes": 16,
+      "questions": 0,
+      "explicitAnswers": 0
+    },
+    {
+      "module": "m03",
+      "title": "Módulo 3",
+      "topics": 20,
+      "cards": 99,
+      "images": 509,
+      "ocr": 482,
+      "notes": 78,
+      "questions": 38,
+      "explicitAnswers": 5
+    },
+    {
+      "module": "m04",
+      "title": "Módulo 4",
+      "topics": 18,
+      "cards": 92,
+      "images": 561,
+      "ocr": 515,
+      "notes": 167,
+      "questions": 26,
+      "explicitAnswers": 13
+    },
+    {
+      "module": "m05",
+      "title": "Módulo 5",
+      "topics": 11,
+      "cards": 59,
+      "images": 311,
+      "ocr": 308,
+      "notes": 15,
+      "questions": 23,
+      "explicitAnswers": 6
+    }
+  ],
+  "topics": 65,
+  "images": 1629,
+  "ocr": 1549,
+  "notes": 508,
+  "summary": 326,
+  "verifiedSummaryReferences": 1099,
+  "questions": 97,
+  "explicitAnswers": 27,
+  "sourceGaps": [
+    {
+      "module": "m02",
+      "topic": "Gonorrea",
+      "reason": "La página de OneNote solo contiene el título, sin texto ni imágenes."
+    }
+  ]
+}

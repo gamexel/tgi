@@ -1,0 +1,503 @@
+# 11 Cancer de vulva
+
+[t11-b001 | IMAGEN 1]
+CANCER DE VULVA
+4% de los tumores malignos ginecológicos
+Tasa de incidencia 1.6/100000 mujeres
+Edad media al diagnóstico: 65-70 años
+
+[t11-b002 | IMAGEN 2]
+Factores de riesgo epidemiológicos
+Infección por HPV
+Otras ITS: HSV II,
+HIV
+Tabaquismo
+Cáncer de cuello
+uterino o. lesiones
+Radioterapia
+Enfermedades
+de SIL alto grado
+pelviana
+sistémicas
+Inmunideficiencias
+iatrogénicas
+HSIL vulvar
+d-VIN
+
+[t11-b003 | IMAGEN 3]
+Etiopatogenia
+Existirían dos mecanismos carcinogénicos independientes, que configuran dos
+tipos distintos de cáncer de vulva:
+Infección por HPV y las lesiones intraepiteliales escamosas de alto grado (HSIL)
+1
+Más frecuente: relacionado con procesos inflamatorios crónicos, distrofias vulvares como el liquen
+escleroso y las neoplasias intraepiteliales vulvares diferenciadas ( d-VIN ) originadas en el mismo.
+
+[t11-b004 | IMAGEN 4]
+1
+VARIABLES
+CA VULVA TIPO I
+CA VULVA TIPO II
+Frecuencia
+Mayor frecuencia
+Menor frecuencia
+Edad
+> 65 años
+< 45 años
+HPV
+No Vinculado
+Vinculado
+Tipo Histológico
+Escamoso queratinizado
+Tipo basaloide o warty
+Grado diferenciación
+Bien diferenciado
+Poco diferenciado
+Precursores
+Líquen escleroso
+SIL alto grado (VIN III)
+Cuadro clínico
+Prurito crónico
+Lesiones verrugosas
+Localización
+Lateral (labios mayores)
+Central (Clítoris, vestíbulo)
+Focalidad
+Unifocal
+Multifocal
+Pronóstico
+Peor
+Mejor
+
+[t11-b005 | IMAGEN 5]
+(Imagen sin texto reconocido)
+
+[t11-b006 | NOTA]
+Tipo 1, sobre un LE
+
+[t11-b007 | IMAGEN 6]
+(Imagen sin texto reconocido)
+
+[t11-b008 | NOTA]
+Paciente añosa, con signos de LE
+
+[t11-b009 | IMAGEN 7]
+HISTOLOGIA
+Tipo histológico
+Porcentaje
+(%)
+Ca. epidermoide
+85
+Melanoma
+5
+Sarcoma
+2.2
+Ca. basocelular
+1.4
+Ca. anaplásico
+4.2
+Tumor Glándula de
+(Adenocarcinoma)
+1.2
+Bartholino
+(Ca. pavimentoso)
+0.4
+(Adenoma
+0.6
+quístico)
+Total
+100
+
+[t11-b010 | IMAGEN 8]
+VIAS DE
+DISEMINACION
+LINFATICA
+HEMATOGENA
+CONTINUIDAD
+
+[t11-b011 | NOTA]
+Lesion exofitica, paciente joven, labio contralateral respetado
+
+[t11-b012 | NOTA]
+Paciente HIV positiva
+
+[t11-b013 | NOTA]
+Hematognea: pulmones, higado y huesos
+
+[t11-b014 | NOTA]
+Contiguidad: uretra, vagina y ano
+
+[t11-b015 | IMAGEN 9]
+DIAGNOSTICO
++ La vulva es un órgano externo y de fácil
+acceso para el diagnóstico.
++ Biopsia de todas las lesiones sospechosas
+
+[t11-b016 | IMAGEN 10]
+DIAGNOSTICO
++ Examen ginecológico. Incluye tacto rectal.
+Inspección
+vulvar y ubicación del tumor:
+ver
+características macroscópicas con medición del tamaño
+del tumor y relación con estructuras vecinas: uretra,
+vagina y ano
++ Examen de territorios ganglionares: Si hubiera
+adenopatías palpables: punción con aguja fina (PAAF)
++ Vulvoscopia
++ Biopsia del tumor
+
+[t11-b017 | IMAGEN 11]
+DIAGNOSTICO
+Chequeo de cuello uterino y vagina: por la frecuencia de
+lesiones por HPV asociadas.
++ Laboratorio de rutina con serología para HIV y hepatitis
++ TAC de tórax
++ RNM de abdomen y pelvis
++ PET CT
+
+[t11-b018 | IMAGEN 12]
+ESTADIFICACION
+ESTADIO I: Tumor confinado a la vulva
+ESTADIO Tumor de cualquier tamaño con o sin extension
+IA Lesiones ≤2 cm en tamaño, confinadas a la vulva o
+III:
+a las estructuras perineales adyacentes (1/3
+periné y con invasión estromal ≤1.0 mm*, sin
+inferior uretra, 1/3 inferior vagina, ano) con
+metástasis ganglionares.
+ganglios inguino-femorales positivos.
+IB Lesiones >2 cm en tamaño o con invasión estromal
+IIIA (i) Con 1 ganglio linfático metastático (≥5 mm),
+>1.0 mm*, confinadas a la vulva o periné, con
+(ii)
+1-2 ganglio(s) linfático(s) metastático(s) (<5 mm).
+ganglios negativos.
+IIIB Con 2 o más ganglios linfáticos metastáticos (≥5
+ESTADIO II: Tumor de cualquier tamaño con extension a las
+(i)
+mm),
+estructuras perineales adyacentes (1/3 inferior
+(ii)
+3 o más ganglios linfáticos metastáticos (<5 mm).
+uretra, 1/3 inferior vagina, ano) con ganglios
+IIIC | Con
+ganglios
+positivos
+con diseminación
+negativos.
+extracapsular.
+
+[t11-b019 | IMAGEN 13]
+ESTADIO
+Tumor invade otras regiones (2/3 superiores
+IV:
+uretra, 2/3 superiores vagina), o estructuras
+distantes.
+IVA:
+Tumor invade cualquiera de las siguientes:
+(i)
+Uretra superior y/o mucosa vaginal, mucosa vesical,
+mucosa rectal, o fijado a hueso pélvico.
+(ii)
+Ganglios inguino-femorales fijados o ulcerados.
+IVB:
+Cualquier metástasis a distancia incluyendo ganglios
+linfáticos pélvicos.
+* La profundidad de invasión es definida como la medición del tumor
+desde la unión epitelio-estromal de la papila dermal adyacente más
+superficial hasta el punto más profundo de invasión.
+
+[t11-b020 | IMAGEN 14]
+FACTORES PRONOSTICOS
+Edad avanzada
+Falta de
+tto
+Tamaño
+adyuvante
+tumoral
+Número de ganglios
+positivos
+autas Roffo 2023
+
+[t11-b021 | IMAGEN 15]
+FACTORES PRONOSTICOS: SG
+Estadio
+FIGO
+Profundidad
+de
+infiltración
+estromal
+Volumen de casos
+que se traten en la
+Institucion
+
+[t11-b022 | NOTA]
+Profundidad de invasion estromal: en tumores que invaden menor o igual a 1mm, muy baja probabbilidad de extension ganglionar. Por lo que no hace falta hacer la investigacion ganglionar inguino femoral.
+
+[t11-b023 | NOTA]
+Cuando es mayor a 3 mm posibilidad de infiltracion de 26-34%
+
+[t11-b024 | IMAGEN 16]
+TRATAMIENTO
+Ganglio centinela
+1955- Diehl.
+Cirugía 3 incisiones
+IOAHR
+Incisión de mariposa de
+Taussing y Way
+IOAHR
+
+[t11-b025 | IMAGEN 17]
+TRATAMIENTO
+Según el estadío de la enfermedad, tres categorías evolutivas:
++ Cáncer de vulva temprano (FIGO I-II: T1 y T2 pequeños ≤ 4 cm sin compromiso o
+mínimo compromiso de la uretra, vagina o ano.
+IOAHR
++ Cáncer de vulva localmente avanzado: (FIGO II/ III/ IVA: T2 de mayor tamaño ≥ 4 cm o
+T3 sin indicación quirúrgica por su diseminación o proximidad visceral.
++ Cáncer de vulva metastásico (FIGO IVB) incluye además a los que presentan
+enfermedad mas allá de la pelvis.
+
+[t11-b026 | NOTA]
+Se reemplazó la vulvectomia radical, por la exeresis radical
+
+[t11-b027 | IMAGEN 18]
+TRATAMIENTO - Estadíos iniciales
+IA
+(invasión
+Exéresis radical
+≤ 1 mm)
+Estadíos
+Tempranos (I y II
+Vulvectomía/Exéresis
+----
+seleccionados)
+Lesión lateral (> 2 cm
+radical -
+de línea media)
+linfadenectomía
+IB (invasión
+ipsilateral (GC)
+> 1 mm o Il
+seleccionados)
+Lesión central (anterior
+Vulvectomía radical -
+o posterior)
+linfadenectomía
+bilateral (GC)
+Version 4.2024, 05/01/24 @ 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® a
+
+[t11-b028 | NOTA]
+Margen microscopico de 8 mm. Para conseguir ese margen debemos tener un margen de 1.5 o 2 cm macroscopico (piel sana)
+
+[t11-b029 | IMAGEN 19]
+TRATAMIENTO - Adyuvancia
+PRIMARY TUMOR RISK FACTORS
+ADJUVANT THERAPY
+TO THE PRIMARY SITE
+Negative margins
+Observe
+or
+Adjuvant external
+Negative margins for
+beam radiation therapy
+(EBRT)) based on other
+invasive disease
+risk factorsk
+Re-excisione
+Positive margins
+Positive margin(s)
+for invasive disease
+for invasive disease'
+Adjuvant EBRTİ
+Unresectable without
+removing proximal
+urethra/bladder/anus
+
+[t11-b030 | NOTA]
+Factores de riesgo: tipo tumoral, invasion angiolinfatica, etc para adyuvancia
+
+[t11-b031 | IMAGEN 20]
+TRATAMIENTO - Adyuvancia
+NODAL EVALUATION
+ADJUVANT THERAPY TO THE NODES
+LNs negative
+[sentinel node(s) or
+> Observe
+----
+inguinofemoral nodes]
+Single positive SLN
+≤2 mm metastasisn
+> EBRTİ + concurrent chemotherapyº
+SLN(s) positivel,m
+Complete inguinofemoral
+lymphadenectomy
+EBRTİ (category 1 for radiation if ≥2 LNs
+(preferred)
+positive or extranodal extension)
+concurrent chemotherapyº
+Positive SLN
+>2 mm metastasisn
+or
+EBRTİ + concurrent
+chemotherapyº
+Inguinofemoral
+EBRTİ (category 1 for radiation if ≥2 LNs
+lymphadenectomy
+with positive LN(s)
+positive or extranodal extension)
++ concurrent chemotherapyº
+
+[t11-b032 | IMAGEN 21]
+TRATAMIENTO - Ganglio Centinela
+Criterios de inclusión para la técnica de ganglio centinela
+Histología epidermoide
+IOAHR
+Tamaño tumoral <= 4 cm
+Tumor vulvar unifocal
+Ganglios inguinales no palpables o con punción citológica negativa.
+
+[t11-b033 | IMAGEN 22]
+Técnica de Ganglio Centinela: paso a paso en quirófano
++ ¿ Qué marcadores usamos?
+AZUL PATENTE 3%
+TECNESIO 99
+VERDE DE
+INDOCIANINA
+LINFOFAST®
+Gelatina de colágeno bovino
+FARMACIA FARMADOS
+VERDE
+Gela
+L: D-6
+miento 1570 - CABA - tel: 4371-0522
+Producto liofilizado. Estéril. Apirógeno
+biende
+2.Fam. Adriana Robinsohn M.N. Nº 11 4
+Administración por vía endodérmica.
+36118 - Elaboración: 13/08/2021
+Kit para la preparación de Linfofast - 99mTc. Inyectable.
+Lote: D-6011-04
+Producto para Diagnóstico de uso "in vivo".
+rip/ Azul patente 3 %;
+Fórmula cuali-cuantitativa:
+VERDE DE INDIOCIANINA
+Radiofarma®
+calidad inyectable csp?
+Cloruro de Sodio.
+4.00 m
+Gelatina de colágeno bovino ..
+.7.50 m
+4009/01/0310
+INDUSTRIA ARGENTINA
+Acido Gentísico.
+.0.35 mg
+R.ESTERIL Vence: 13/08/202
+Cloruro estannoso dihidrato.
+.2.04 mg
+BACON
+Acetato de Sodio
+10.00 mg
+Prose
+ntación:
+
+[t11-b034 | IMAGEN 23]
+Técnica de Ganglio Centinela: paso a paso en quirófano
+APLICACIÓN DEL MARCADOR
+1) RADIOCOLOIDE: entre 20 y 24 hs previas a cirugía se inyectará el marcador radioactivo peritumoral en 4
+cuadrantes en forma intradérmica. Se utilizará 0,1 cc de coloide de colageno bovino desnaturalizado marcado
+con 500 uCi de tecnesio (99mTC).
+₹113
+
+[t11-b035 | IMAGEN 24]
+Técnica de Ganglio Centinela: paso a paso en quirófano
+APLICACIÓN DEL MARCADOR
+1) RADIOCOLOIDE: Se realizará linfocentellografía dinámica y estática a los 15 minutos y 2 horas posteriores a la
+administración del nanocoloide asociado a SPECT-TC 2 hs despues de la inyección.
+--------
+BAFFA 251 ESTATIC
+-----
+----
+1
+1152.25
+P
+Fused Coronals
+Fused Transaxials
+
+[t11-b036 | IMAGEN 25]
+Técnica de Ganglio Centinela
+APLICACIÓN DEL MARCADOR
+2) Se inyectan 2 ml de azul patente al 3% peritumoral en 4 cuadrantes en forma intradérmica. Masaje por
+minutos.
+VCe
+
+[t11-b037 | IMAGEN 26]
+Técnica de Ganglio Centinela
+APLICACIÓN DEL MARCADOR
+Roffo
+Instituto de Oncologia Ángel H. Roffo
+Universidad de Buenos Aires
+3) De igual manera se inyectarán 2 ml de ICG a una concentración de 2.5 mg/ml
+4) Trazador híbrido: verde de indocianina-99TC-coloide. 20-24 hs previas a la cirugía se inyectan en 4 cuadrantes
+peritumoral 0,6 ml del trazador híbrido, a una concentración de 2,5 mg/ml de ICG conteniendo 500 uCi de
+radiocoloide.
+VERDE
+L: D-6
+Lote: D-6011-04
+VERDE DE INDIOCIANINA
+BACON
+
+[t11-b038 | IMAGEN 27]
+Técnica de Ganglio Centinela
+DETECCION INTRAOPERATORIA DEL GC
+Incisión de 3 cm sobre la zona señalizada por la linfografía radioisotópica preoperatoria
+Disección en profundidad con la guía acústica del Gamma Probe y ubicación del vaso
+linfático aferente coloreado con azul patente y su correspondiente ganglio.
+
+[t11-b039 | IMAGEN 28]
+TRATAMIENTO - Estadíos avanzados
+Exenteración
+Cirugía?
+Estadio III/IVA
+pelviana
+Quimioradioterapia
+Biopsias
+Control
+MUL
+....
+isto patovet
+vet
+O
+388888
+Pautas Roffo 2023
+Version 4.2024, 05/01/24 @ 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® a
+
+[t11-b040 | IMAGEN 29]
+TRATAMIENTO - Estadíos avanzados
+Radioterapia y/o
+Estadío IV B
+Quimioterapia
+Cuidados paliativos
+Version 4.2024, 05/01/24 @ 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® a
+
+[t11-b041 | IMAGEN 30]
+SEGUIMIENTO
+Examen
+Cada 3 meses por 2 años
+físico
+· Cada 6 meses hasta completar 5 años
+Vulva,
+ingles
+· Anual
+TAC
+PET
+BIOPSIA
+
+[t11-b042 | IMAGEN 31]
+CONCLUSIONES
+El VHSIL/ dVIN entidad precursora del carcinoma escamoso de vulva:
+prevención
+· Biopsia
+· Derivar a centros con mayor experiencia en la patología
+· Multidisciplina

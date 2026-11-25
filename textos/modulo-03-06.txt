@@ -1,0 +1,239 @@
+# m03-t06 PROYECTO LAST
+
+[m03-t06-b001 | IMAGEN 1]
+Terminología recomendada para las lesiones
+intraepiteliales escamosas del tracto anogenital
+asociadas a HPV = Sistema Bethesda
+· L-SIL
+· H-SIL
+Pueden ser subcategorizadas (ej: CIN2)
+
+[m03-t06-b002 | IMAGEN 2]
+DL-CIN1-L-SIL
+DM-CIN2-H-SIL
+DI/CIS-CIN3-H-SIL
+El espectro de cambios histológicos denominados CIN no representa
+una única enfermedad en diferentes estadíos, sino dos entidades
+biológicas distintas:
+· Infección viral productiva (autolimitada) L-SIL
+· Infección viral transformante (verdadero proceso neoplásico
+confinado al epitelio) H-SIL
+
+[m03-t06-b003 | IMAGEN 3]
+Lesiones Intraepiteliales Cervicales
+· Infecciones transitorias
+L-SIL y lesiones <
+· Pobre reproducibilidad diagnóstica
+· Conducta terapeutica establecida = Seguimiento
+· Situación "borderline"
+H-SIL (CIN2)
+. Reproducibilidad diagnostica pobre a moderada
+· Infección por HPV vs verdadero pre-cáncer cerv
+· HPV16 < probabilidad de regresión
+· ¿ Conducta terapeutica?
+· Infección transformante
+H-SIL (CIN3)
+· Verdadero precursor del cáncer cervical
+· Buena reproducibilidad diagnóstica
+· Conducta terapeútica establecida = Escisión
+
+[m03-t06-b004 | IMAGEN 4]
+BIOMARKERS IN HPV-ASSOCIATED LOWER ANOGENITAL SQUAMOUS LESIONS, WG4
+Las lesiones pueden ser además subcategorizadas _IN
+" ... CIN2 (bajo la antigua terminología), que es una lesión
+biológicamente equívoca cayendo entre los cambios
+morfológicos de infección por HPV (lesión de bajo grado) y
+pre-cáncer ... "
+Uso de IHQ (p16) recomendado
+Zona p16+ debe presentar criterios morfológicos de H-SIL
+LAST
+B
+D
+Darragh, TM y col. Arch Pathol Lab Med 2012; 136:1266-97.
+
+[m03-t06-b005 | IMAGEN 5]
+CIN2 - LAST
+· Frente a un diagnóstico
+morfológico (H&E) de CIN2,
+CIN3
+recomienda el uso de la p16
+High-Grade SIL
+· Marcación + fuerte y difusa
++
+Treatment
+"en bloque", apoya la
+CIN2
+p16 IHC
+categorización de pre-cáncer
+· Marcación - o no "en bloque",
+CIN1
+Low-Grade SIL
+Clinical Management
+favorece LIE-BG o patología
+Histologic
+LAST Terminology
+Follow-up
+no asociada a HPV
+B
+Interpretation
+Diagnosis
+Increasing Cancer Risk-
+Darragh, TM y col. Arch Pathol Lab Med 2012; 136:1266-97.
+
+[m03-t06-b006 | IMAGEN 6]
+· En medicina, la armonía se puede lograr en distintas áreas
+· Armonizar terminología, biología, manejo para riesgo similar, sitios
+afectados
+· La estandarización de la terminología citológica se logró con el Sistema
+Bethesda
+· La estandarización de la terminología histológica demanda más tiempo
+debido a que implica una tarea mucho mayor que involucra un mayor
+número de especialidades clínicas y patológicas, más localizaciones y
+más temas de manejo clínico
+
+[m03-t06-b007 | IMAGEN 7]
+Inmunohistoquímica en
+Patología del TGI
+p16INK4A (p16)
+Marcador de integración
+Ki67
+de HPV-AR
+Factor de proliferación
+
+[m03-t06-b008 | IMAGEN 8]
+Inmunohistoquímica
+Epitelios:
+en Patología del TGI
+atrófico,
+metaplasia
+Los simuladores ("mimics"
+inmadura,
+reactivos
+Lesiones
+Incidencia
+pequeñas
+p16
+de corte
+(tangencial)
+CIN2
+
+[m03-t06-b009 | IMAGEN 9]
+p16INK4a (p16)
+· p16 juega un rol clave en la regulación del ciclo celular
+· Las células donde las oncoproteínas del HPV han comenzado
+la transformación celular muestran sobre-expresión de p16
+· Esta sobre-expresión indica infección e integración genómica
+de HPV-AR (capacidad de progresión)
+· Identifica células infectadas y transformadas
+· Por lo tanto, la sobre-expresión de p16 puede ser utilizada
+como un biomarcador de enfermedad
+
+[m03-t06-b010 | IMAGEN 10]
+ARCHIVES
+Acap
+of Pathology & Laboratory Medicine
+The Lower Anogenital Squamous Terminology
+Standardization Project for HPV-Associated Lesions:
+Background and Consensus Recommendations from the College of American
+Pathologists and the American Society for Colposcopy and Cervical Pathology
+Además de en el CIN2 ...
+H-SIL vs simuladores
+hiannias fou
+Falta de acuerdo entre profesionales
+Precauciones contra el uso en L-SIL (CIN1)
+biopsies. If an estimated 10% of those are problematic (i.e.
+Situaciones de alto riesgo con biopsia inicial L-SIL o <
+% estimado de biopsias para IHQ < 20%
+
+[m03-t06-b011 | IMAGEN 11]
+Epitelio atrófico p16
+
+[m03-t06-b012 | IMAGEN 12]
+Metaplasia inmadura p16 +, Ki 67 bajo
+p16
+Ki67
+
+[m03-t06-b013 | IMAGEN 13]
+1 glándula rellena por H-SIL p16 +
+
+[m03-t06-b014 | IMAGEN 14]
+LEC colgajos atricionados H-SIL p16 +
+
+[m03-t06-b015 | IMAGEN 15]
+a
+L-SIL p16+
+Bergeron, C. y col.
+Int J Cancer 2015;
+136: 2741-2751.
+
+[m03-t06-b016 | IMAGEN 16]
+p16
+
+[m03-t06-b017 | IMAGEN 17]
+CUELLO UTERINO
+Lesiones Escamosas del Cuello Uterino
+Epitelios Escamosos Anómalos
+Lesión Intraepitelial Escamosa de Bajo Grado (L-SIL)
+Lesión Intraepitelial Escamosa de Alto Grado (H-SIL)
+Carcinoma de Células Escamosas Superficialmente Invasor
+(SISCCA)
+
+[m03-t06-b018 | IMAGEN 18]
+L-SIL
+· Dentro de estas lesiones se incluye al condiloma (plano y
+acuminado) y al CIN 1 (DL). Representan la expresión de
+una infección productiva por HPV, con riesgo bajo de
+progresión a carcinoma.
+· Histológicamente se caracterizan por presentar
+koilocitosis, bi o multinucleación, disqueratosis, con o sin
+hiperplasia de la capa basal y figuras mitóticas.
+· Es optativo, a criterio del patólogo, especificar entre
+paréntesis si se trata de un condiloma sin displasia o CIN
+1, debido a que esta separación no implica una conducta
+diferente.
+
+[m03-t06-b019 | IMAGEN 19]
+H-SIL
+· Dentro de estas lesiones se incluye al CIN 2 (DM) y al CIN 3 (DI/CIS)
+· Lesión intraepitelial escamosa con riesgo significativo de desarrollar un
+carcinoma invasor si no se trata.
+· Histológicamente se caracterizan por presentar hiperplasia del estrato basal,
+pérdida de la polaridad celular, atipía citológica y figuras de mitosis atípicas.
+· En el CIN 2, estas alteraciones se limitan a los dos tercios inferiores del
+epitelio y el mismo conserva la maduración superficial y koilocitosis.
+· En el CIN 3, las alteraciones comprenden todo el espesor epitelial y la
+koilocitosis es mínima o ausente.
+· Es conveniente especificar entre paréntesis si se trata de un CIN 2 o de un
+CIN 3, debido a que esta separación puede implicar una conducta diferente.
+
+[m03-t06-b020 | IMAGEN 20]
+H-SIL
+· El CIN 2 morfológico es una categoría poco reproducible
+entre patólogos, con un riesgo de progresión intermedio
+entre el CIN 1 y el CIN 3, que puede representar una
+simple infección por HPV o una verdadera lesión
+precursora; esto puede ser indistinguible desde el punto
+de vista morfológico. Se recomienda entonces, aclarar
+entre paréntesis si H-SIL corresponde a un CIN 2 o a un
+CIN 3, para adoptar una conducta apropiada.
+· En este punto, es importante la incorporación de
+biomarcadores en el diagnóstico de la patología del
+tracto anogenital.
+
+[m03-t06-b021 | IMAGEN 21]
+Resumiendo
+· Nomenclatura utilizada en la actualidad para las LIE: BG (L-
+SIL) y AG (H-SIL) (Bethesda, LAST, OMS, Consenso)
+· Proyecto LAST: estandarización de la nomenclatura para las
+LIE del epitelio escamoso asociadas a HPV en distintas
+localizaciones
+· Importancia del uso de biomarcadores (IHQ) para
+diagnóstico de las LIE: p16 y Ki67 (como complemento)
+· Su uso mejora la reproducibilidad y la exactitud diagnóstica
+· Con las implicancias clínicas correspondientes
+
+[m03-t06-b022 | NOTA]
+EN LSIL NO SE HACE, PORQUE CONFUNDE, SU EVENTUAL POSITIVIDAD NO LA CONVIERTE EN UNA LEISION DE ALTO GRADO
+
+[m03-t06-b023 | NOTA]
+CIN 2, MEJOR INDICACION

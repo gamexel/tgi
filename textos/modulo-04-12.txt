@@ -1,0 +1,674 @@
+# 12 AIN y anoscopia
+
+[t12-b001 | IMAGEN 1]
+Nomenclatura
+LAST project
+CIN3
+B
+AIN3 mujer
+· Similitudes
+· HPV
+· Histología
+AIN3 hombre
+D PeIN hombre
+arragh TM et al. Arch Pathol, 2012
+
+[t12-b002 | IMAGEN 2]
+Lesiones intraepiteliales anales
+Lesiones escamosas intraepiteliales
+endo y perianales, visibles o subclínicas
+Condiloma
+(P)AIN 1
+(P)AIN 2
+(P)AIN 3
+LSIL
+HSIL
+
+[t12-b003 | IMAGEN 3]
+Lesiones intraepiteliales anales
+A
+B
+D
+Figure 14. A cervical biopsy with SIL showing partial maturation; some might question the lesion grade (? CIN 2). A and C, H&E morphology at low
+and medium power with atypical parabasal-like cells extending into the middle third of the epithelium (C). B and D, Corresponding p16 IHC stains
+HSIL.
+with diffuse strong staining meeting the definition of p16 strong diffuse block-positive described in the text. Therefore, this case is best interpreted as
+Inmunomarcador p16
+Infección transformante
+
+[t12-b004 | IMAGEN 4]
+Lesiones intraepiteliales anales
+Lesiones escamosas intraepiteliales
+endo y perianales, visibles o subclínicas
+Condiloma
+(P)AIN 1
+(P)AIN 2
+(P)AIN 3
+p16 -
+p16 +
+LSIL
+HSIL
+LAST
+
+[t12-b005 | IMAGEN 5]
+Lesiones intraepiteliales
+anales
+DIAGNÓSTICO
+...
+NEWTON
+
+[t12-b006 | IMAGEN 6]
+Lesiones escamosas intraepiteliales
+
+[t12-b007 | NOTA]
+Clinica:
+
+[t12-b008 | NOTA]
+Prurito y sangrado anal
+
+[t12-b009 | IMAGEN 7]
+Lesiones escamosas intreepiteliales periana
+Bowenoide
+Eritroplásica
+Leucoplásica
+Verrugosa
+1
+
+[t12-b010 | IMAGEN 8]
+Lesiones escamosas intraepiteliales
+subclínicas
+H
+1. ¿ Quién?
+2. ¿ Cuándo?
+3. ¿ Cómo?
+¿Se justifica la búsqueda activa?
+
+[t12-b011 | IMAGEN 9]
+HSIL como precursor del carcinoma escamoso
+IJC
+INTERNATIONAL
+HSIL
+Quicc
+JOURNAL of CANCER
+globul cantar cantini
+precursor CCE anal
+Epidemiology
+â Free Access
+a
+b
+Progression of anal high-grade squamous intraepithelial
+lesions to invasive anal cancer among HIV-infected men
+who have sex with men
+SCCA
+Michael Berry et al. Int J Cancer, 2014
+
+[t12-b012 | NOTA]
+Demostro que paciente con HSIL no tratados, evolucionaban a cancer anal
+
+[t12-b013 | IMAGEN 10]
+Detección temprana de las lesiones subclínicas
+The NEW ENGLAND JOURNAL of MEDICINE
+ORIGINAL ARTICLE
+Treatment of Anal High-Grade Squamous
+ANCHOR
+Intraepithelial Lesions to Prevent Anal Cancer
+El tratamiento
+de las HSIL
+reduce el CCE
+anal
+AIN y anoscopia. Dra La Rosa
+
+[t12-b014 | NOTA]
+Demostro que el tratamiento de las HSIL anales, reducen la incidencia de ca anal
+
+[t12-b015 | IMAGEN 11]
+Estudio ANCHOR (2014 - 2021)
+IMAGINE
+HIV+
+100-
+3.0.
+Reducción CCE anal: 57%
+≥ 35 años
+90-
+- Active monitoring
+2.5.
+-+ Treatment
+80
+HELPING ALL
+P=0.03 by log-rank test
+70
+2.0
+THESE BUTTS
+60-
+1.5.
+50-
+40-
+1.0-
+30-
+0.5.
+20-
+Cumulative Risk of Anal Cancer (%)
+10-
+0.0-
+0
+6
+12
+18
+24
+30
+36
+42
+48
+0-
+0
+6
+12
+18
+24
+30
+36
+42
+48
+Months
+No. at Risk
+Active monitoring
+2219
+1856
+1671
+1459
+1238
+992
+758
+572
+407
+the
+Treatment
+2227
+1871
+1655
+1473
+1224
+989
+753
+557
+409
+ANCHOR
+study.org
+Figure 2. Kaplan-Meier Curve of the Time to Progression to Anal Cancer.
+The inset shows the data on an expanded y axis. The shaded areas represent 95% confidence intervals.
+
+[t12-b016 | NOTA]
+El grupo que tuvo tratamiento y no seguimiento activo tuvo menos ca anal
+
+[t12-b017 | NOTA]
+SIRVE EN OTROS GRUPOS DE RIESGO???
+
+[t12-b018 | IMAGEN 12]
+Estratificación por grupos de riesgo
+Población
+Incidencia
+Hombres HIV+ ≥ 60 años
+107.5
+>60 yrs
+85
+100
+Risk scale
+HSH HIV+
+45-59 yrs
+1
+5
+15
+50 100
+Antecedente HSIL/CA
+48
+HIV
+vulvar
+Hombres heterosexuales
+32
+75
+HIV+
+30-44 yrs
+Mujeres cis HIV + > 30a
+28
+50
+Vulva
+≥10 yst
+O+ 0
+cancer
+(female)
+Trasplante > 10 años
+49, 6
+Vulvar
+24,5
+pre-cancer
+≥45 yrs
+≥45 yrs
+HSH HIV negativos
+19
+HIV +
+Vaginal
+≥10 yst
+30-44 yrs
+pre-cancer
+SOTR
+(male
+25
+30-44 yrs
+Lupus
+5-10 yst
+Mujeres HIV+ < 30 años
+16
+HIV -
+HIV +
+Vaginal
+≥60 yrs
+(female)
+≥30 yrs
+<30 yrs
+cance
+Ulcerative
+<5 yst
+Antecedente HSIL/CA
+9
+Cervical
+Colitis
+(female)
+cancer
+40-59 yrs
+5-10 yst
+<30 yrs
+cervical
+<40 yrs
+(male)
+Anal cancer incidence (per 100,000 person-year)
+0
+HIV -
+<30 yrs
+HIV -
+Cervical
+Crohn's
+<5 yst
+Antecedente CA vaginal
+8
+pre-cancer
+disease
+(male)
+MSM
+Non-MSM
+All
+Gynaecological
+Non-HIV
+(pre)cancers
+10
+immuno-
+Otras causas
+Males
+Females
+suppressed
+inmunosupresión (Lupus,
+EII
+
+[t12-b019 | IMAGEN 13]
+Población a cribar
+POBLACIÓN
+INICIO del CRIBADO
+INCIDENCIA CA ANAL
+Riesgo A (incidencia ≥ 10 veces población general)
+HSH y MT HIV+
+35 años
+>70/100,000 30-44a
+>100/100,000 45+
+Ant. HSIL or CA vulvar
+Dentro del año
+>40/100,000
+HSM HIV+
+45 años
+>40/100,000 45+
+HSH y MT HIV-
+45 años
+>30/100,000 60+
+Mujeres cis HIV+
+45 años
+>25/100,00 45+
+Transplante OS
+10 años post-transplante
+>25/100,000
+Riesgo B (incidencia mayor que la población general, menor a 10 veces)
+HSIL o CA Cervical/Vaginal
+Decisión compartida 45a
+8-9/100,000
+Verrugas perianales
+Decisión compartida 45a
+?
+HPV16 cervical >1 año
+Decisión compartida 45a
+?
+Otras causas inmunosup.
+Decisión compartida 45a
+6/100,000
+Verrugas vulvares
+No pesquisar
+?
+
+[t12-b020 | NOTA]
+Entonces….
+
+[t12-b021 | NOTA]
+Comienzan cribado a los 35:
+
+[t12-b022 | NOTA]
+Hombres que tienen sexo con hombres
+
+[t12-b023 | NOTA]
+Mujeres tran con dx de HIV
+
+[t12-b024 | NOTA]
+Dentro del año del diagnostico:
+
+[t12-b025 | NOTA]
+Mujeres con antecedente de HSIL o ca vulvar
+
+[t12-b026 | NOTA]
+A los 45 años:
+
+[t12-b027 | NOTA]
+Mujeres con dx de HIV
+
+[t12-b028 | NOTA]
+10 años despues del transplante:
+
+[t12-b029 | NOTA]
+Transplantadas
+
+[t12-b030 | IMAGEN 14]
+Opciones de cribado
+· Citología sola
+· Citología + hrHPV para ASCUS+
+· Prueba de hr-HPV sola
+· Prueba de hr-HPV con citología si hrHPV 16 o 18
+HPV DNA - Test
+· Co-test citología + hr-HPV
+
+[t12-b031 | NOTA]
+Test de hpv anala no esta avalado por la FDA, pero las investigaciones lo usan igual
+
+[t12-b032 | IMAGEN 15]
+Citología sola
+NILM
+ASCUS+
+Toma correcta de la muestra
+Citólogos entrenados
+Repetir al
+AAR
+año
+· Negativo
+· ASC-US
+Baja disponibilidad de AAR
+· L-SIL
+· ASC-H
+NILM
+ASCUS/LSIL
+ASC-H/HSIL
+· HSIL
+1
+!
+· SCC
+H-SIL Dr. Iotti A.
+Repetir a
+Repetir al
+los 2 años
+año
+AAR
+Stier EA et al. Int J Cancer. 2024 May 15;154(10
+
+[t12-b033 | NOTA]
+*Anosocopia de alta resolucion
+
+[t12-b034 | IMAGEN 16]
+Anoscopía de alta resolución
+· AAR gold standard identificar las HSIL
+· Indispensable para guiar el tratamiento
+· Larga curva de aprendizaje
+· Entrenamiento
+ians
+N et al. Dis Colon Rectum, 1997
+nan RJ et al.J Low Genit Tract Dis, 2016
+International Anal Neoplasia Society
+
+[t12-b035 | IMAGEN 17]
+Anoscopía de alta resolución
+Procedimiento
+
+[t12-b036 | NOTA]
+Gasa embebida de ac acetico
+
+[t12-b037 | IMAGEN 18]
+(Imagen sin texto reconocido)
+
+[t12-b038 | IMAGEN 19]
+Anoscopía de alta resolución
+UEC
+ZT
+Conducto distal
+Periano
+.88.0:010.
+
+[t12-b039 | IMAGEN 20]
+Anoscopía de alta resolución
+
+[t12-b040 | IMAGEN 21]
+Puntillado grueso
+Glándulas agrupadas
+Metapasia en encaje
+Mosaico
+
+[t12-b041 | NOTA]
+Lesiones altamente sospechosas
+
+[t12-b042 | IMAGEN 22]
+Conducta
+Consideraciones generales
+· Estructuras anatómicas que dificultan el tratamiento
+. No es factible resecar la UEC
+· Indagar sobre la sexualidad de la o el paciente
+· Diversidad de tratamientos
+
+[t12-b043 | IMAGEN 23]
+¿Qué y cómo tratar?
+- Síntomas
+- HSIL
+AIN y anoscopia. Dra La Rosa
+Tópicos
+Ablativos
+- Ác. Tricloroacético 80% - 90%
+- Electrocirugía
+- Imiquimod 3,75% - 5%
+- Coagulación infrarroja
+- 5 FU 5%
+- Láser
+- Podofilotoxina
+- Criocirugía
+- Podofilina 25% en vaselina sólida
+- Cirugía resectiva
+Definir estrategia junto al paciente
+
+[t12-b044 | IMAGEN 24]
+Tratamientos ablativos
+Ácido TCA 80%-90%
+Condilomas, AIN 1 y HSIL peri y endoanales
+Bien tolerado
+Embarazo
+Aplicaciones semanales / bimensuales
+HSIL 60-79% respuesta
+Mejor respuesta: menores de 50a - hasta 2 lesiones
+ngh JC - J Acquir Immune Defic Syndr . 2009; 52(4): 474-9
+egill et al. Semin Colon Rectal Surg 2017
+Guías Europeas 2019 -IUSTI
+
+[t12-b045 | IMAGEN 25]
+Tratamiento
+A
+B
+Imiquimod 5%
+Disminuye la carga viral
+Condilomas, AIN 1 y HSIL
+C
+D
+Perianal (endoanal)
+Multifocales/extendidos
+Caffarena, La Rosa. 2020
+reuter et al. J Invest Dermatol 2008
+Grillo-Ardila, Cochrane Database Syst Rev, 2014
+
+[t12-b046 | IMAGEN 26]
+Tratamiento
+Imiquimod 5%
+3 veces por semana (16 semanas)
+Irritación local
+Costo
+Condilomas 67% curación
+HSIL 35% curación
+21% respuesta parcial
+kegkes et al. Int J STD AIDS 2019
+ox PA et al. AIDS 2010.
+
+[t12-b047 | IMAGEN 27]
+Tratamiento
+Podofilotoxina 0,5%
+Podophyllum peltatum
+Condilomas perianales
+Nunca en mucosas
+Irritación local
+2 veces /día por 3 días y 4 descanso
+Hasta 4-5 ciclos
+Imiquimod 5% vs Podofilotoxina 0,5%
+Curación 75% vs 72%
+
+[t12-b048 | IMAGEN 28]
+Tratamiento
+Podofilina 25% en vaselina sólida
+EMODY 25%
+AIN y anoscop
+14 pacientes: 75% de respuesta (completa o parcial)
+
+[t12-b049 | IMAGEN 29]
+Tratamiento
+Imágenes de la Dra. Svidler
+5-Fluorouracilo 5%
+SIL peri y endoanales (difusos)
+Esquema aún no establecido
+Irritación de piel y mucosa
+5FU 1gr intraanal 2 noches/semana (16 s)
+Curación de HSIL 35,2%
+HSIL a LSIL 23,5%
+0,4gr 1 a 2/día 5 ON- 9 OFF
+
+[t12-b050 | IMAGEN 30]
+Tratamientos abaltivos
+Electrofulguración guiada por AAR
+Lesiones únicas o múltiples
+Peri y endoanales
+Guiadas por AAR
+AIN y anosco
+
+[t12-b051 | IMAGEN 31]
+Tratamiento
+UCSF, San Francisco
+246 pacientes con H-SIL (79% inmunocomprometidos)
+AAR y tratamiento ablativo dirigido
+20% tratamiento en etapas
+Seguimiento 2 meses a 10 años
+Joel Palefsky
+Progresión a cáncer = 1.2%
+
+[t12-b052 | IMAGEN 32]
+Tratamiento
+Ablación láser guiada por AAR
+16023) 11/11/2020 12:43 Homerton University Trust
+Sin diferencias con la electrofulguración
+AIN y anoscopia. Dra La
+
+[t12-b053 | IMAGEN 33]
+Tratamiento
+Coagulación infrarroja
+Lesiones mayores de 1cm
+Peri o endoanal
+Imagen Dra. Svidler
+68 paciente HIV+
+HSIL 72% de curación por lesión
+3 sesiones en promedio
+
+[t12-b054 | IMAGEN 34]
+Tratamiento
+Estudio prospectivo, randomizado
+Fulguración
+n=46
+148 HSH con HIV. 47 años
+5-FU
+L-SIL (43%) y H-SIL (57%)
+n=48
+Peri y endoanales
+Imiquimod 5%
+n= 54
+AAR
+Fulguración
+Imiquimod
+5-FU
+Rta completa 1 mes
+39%
+24%
+17%
+Recidiva a 6 meses
+14%
+19%
+38%
+Recidiva 12 meses
+43%
+47%
+50%
+Recidiva 18 meses
+68%
+71%
+58%
+Richel et al. Lancet Oncol 2013; 14: 346-53
+
+[t12-b055 | IMAGEN 35]
+Con respecto al proyecto LAST, indique la correcta
+a. Divide a las lesiones anales provocadas por HPV en tres: AIN1, AIN2 y AIN3
+b. Incluye a todos los AIN2 dentro de las HSIL
+1.
+C.
+Es la nomenclatura que clasifica a las lesiones anales en LSIL y HSIL
+1.
+a. Clasifica a las lesiones relacionadas al HPV del TGI, genital masculino y ano en LSIL y HSIL
+Respuesta incorrecta.
+La respuesta correcta es:
+Clasifica a las lesiones relacionadas al HPV del TGI, genital masculino y ano en LSIL y HSIL
+
+[t12-b056 | IMAGEN 36]
+De las siguientes, ¿cuál es la población femenina que tiene mayor riesgo de cáncer de ano?
+·Aquellas con infección por HIV
+b.
+Aquellas con antecedente de cáncer cervical
+1.
+c. Aquellas con antecedentes de cancer vulvar
+d.
+Aquellas con antecedentes de cáncer vaginal
+Respuesta correcta
+La respuesta correcta es:
+Aquellas con antecedentes de cáncer vulvar
+
+[t12-b057 | IMAGEN 37]
+Pregunta 3
+Correcta
+Se puntúa 1,00 sobre 1,00
+Con respecto al tratamiento de las lesiones escamosas anales (SIL):
+a.
+Deben ser tratadas todas, independientemente del grado de displasia
+b.
+Se tratan las LSIL sintomáticas y todas las HSIL
+1.
+C.
+Sólo se tratan las HSIL
+d.
+Puede hacerse seguimiento activo

@@ -1,0 +1,920 @@
+# m05-t02 Manejo ca de cuello temprano
+
+[m05-t02-b001 | IMAGEN 1]
+INTRODUCCIÓN
+Natalia Zeff
+> EL CÁNCER DE CUELLO DE ÚTERO (CCU) REPRESENTA EL 4TO CÁNCER MÁS FRECUENTE EN
+MUJERES EN EL MUNDO
+2020: 604.000 NUEVOS CASOS
+APROXIMADAMENTE 50% SE DIAGNOSTICAN EN ESTADIOS INICIALES (TUMORES <4CM
+LIMITADOS AL CUELLO UTERINO)
+APROXIMADAMENTE 40% ESTADIOS INICIALES SON MENORES DE 45 AÑOS, CON DESEOS DE
+FERTILIDAD
+
+[m05-t02-b002 | IMAGEN 2]
+ESTADIFICACIÓN
+Natalia Zeff
+FIGO CANCER REPORT 2018
+WILEY
+OBSTETRICS
+Cancer of the cervix uteri
+Neerja Bhatla1. | Daisuke Aoki2 | Daya Nand Sharma3 | Rengaswamy Sankaranarayanan4
+* Los avances en los métodos de imágenes y el aumento de las técnicas de cirugía
+mínimamente invasiva cambiaron el manejo del cáncer de cuello uterino
+Esto llevó a que la FIGO considere revisar su estadificación
+¿ Hasta 2018 la estadificación FIGO se basaba principalmente en el examen clínico
+FIGO 2018: incorpora hallazgos IMAGENOLÓGICOS y ANATOMOPATOLÓGICOS
+
+[m05-t02-b003 | IMAGEN 3]
+IMÁGENES
+Natalia Zeff
+· Examén físico + confirmación histológica
+· La evaluación imagenológica puede sumarse al examen clínico
+· Cualquier método es válido - Importante aclarar el método utilizado para evaluación posterior
+· Objetivo: evitar la suma de tratamientos (cirugía - RT)
+· Para mts ganglionares > 10mm, el PET-CT es el método de elección (más efectivo en comparación
+con TC y RMN). FN 4-15%
+· RMN es el método de elección para evaluación anatómica de tumores > 10mm
+· Conducta en función de las imágenes o, cuando es posible, dx citológico o histológico
+
+[m05-t02-b004 | IMAGEN 4]
+ESGO/ESTRO/ESP Guidelines for the
+INTERNATIONAL JOURNAL OF
+GYNECOLOGICAL CANCER
+management of patients with cervical cancer
+- Update 2023*
+-
+BM)
+David Cibula, 1,2 Maria Rosaria Raspollini,3 François Planchamp
+.4 Carlos Centeno,5
+Cyrus Chargari
+İD
+.6 Ana Felix, 7,8 Daniela Fischerová
+İD
+1,2 Daniela Jahnn-Kuch, Florence Joly,10
+CO
+Christhardt Kohler, 11,12 Sigurd Lax, 13,14 Domenica Lorusso, 15,16 Umesh Mahantshetty,17
+Patrice Mathevet, 18 Raj Naik, 19 Remi A Nout, 20,21 Ana Oaknin
+İD
+22,23 Fedro Peccatori,24
+OPEN ACCESS
+Jan Persson, 25,26 Denis Querleu
+15,27 Sandra Rubio Bernabé
+ID
+28 Maximilian P Schmid, 29
+Artem Stepanyan ®D
+30 Valentyn Svintsitskyi,31 Karl Tamussino,32 Ignacio Zapardiel ®
+33
+Jacob Lindegaard34
+
+[m05-t02-b005 | IMAGEN 5]
+ESTADÍO IA1 sin IVL
+Natalia Zeff
+· El riesgo de compromiso ganglionar es < 1%.
+. Tratamiento en función de preservación de fertilidad (conización o
+histerectomía simple)
+. En casos IA1 con IVL es necesaria la evaluación ganglionar (GC ó
+linfadenectomía pelviana)
+
+[m05-t02-b006 | IMAGEN 6]
+ESTADÍO IA2 - IB2
+Natalia Zeff
+· EL TRATAMIENTO ESTÁNDAR: HISTERECTOMÍA RADICAL (B: radical modificada
+- C1: RADICAL) + LINFADENECTOMÍA PELVIANA
+EVITAR SUMA DE TRATAMIENTOS !!!
+
+[m05-t02-b007 | IMAGEN 7]
+CLASIFICACIÓN QUERLEU/MORROW - PI\
+Natalia Zeff
+Querleu/Morrow
+Querleu/Morrow
+EORTC (Piver)
+EORTC (Piver]
+Tipo
+Limites anatómicos
+Tipo
+Limites anatómicos
+Tipo A
+Resección medial
+al
+Tipo I
+(No
+histerectomía
+uréter sin movilización
+radical)
+Resección mínima
+de éste de su lecho. No
+Histerectomia
+del lig. cardinal
+resección de úterosacro
+ni pilar vesical
+simple extrafascial
+Cervix
+Space of Retzius
+Tipo B1
+Movilización lateral del
+Tipo II
+Disección del uréter en
+uréter y resección a
+el punto de entrada en
+Extrafascial
+Urinary bladder
+Resección a nivel
+nivel de su lecho.
+Histerectomia
+vejiga.
+Exéresis
+de
+hysterectomy
+Vesicouterine ligament
+del túnel del uréter
+Resección parcial de
+radical modificada
+Paravesical space
+Radical hysterectomy
+pilar vesical y útero-
+vagina superior, tejido
+paracervical y mitad
+type III
+sacro
+medial de parametrio y
+Cardinal ligament
+Radical hysterectomy
+úterosacro
+type II
+Tipo C
+Movilización completa
+Sección del lig.
+del uréter y sección del
+Tipo III
+Exéresis de 1/3 superior
+de vagina, parametrio y
+cardinal hasta el
+lig, cardinal, pilar vesical
+Histerectomía
+útero-sacro
+sistema vascular de
+y úterosacro, con 20 mm
+totalidad. Ligadura de
+ilíaca interna
+de vagina (con el tejido
+radical
+vasos uterinos en
+paracólpico
+Pararectal space
+origen
+correspondiente)
+C1
+Preservación nerviosa
+Rectum
+C2
+No preservación
+nerviosa
+Uterosacral
+Presacral space
+ligament
+Tipo D
+Cirugías de exenteración
+Tipo IV
+Tipo III pero
+con
+Extensión de la
+pelviana
+exéresis de 14 partes
+resección lateral
+Histerectomía
+superiores de vagina
+radical extendida
+D1
+Exéresis total del tejido
+Tipo V
+Exéresis de uréter
+paracervical
+terminal y/o resección
+Exenteración
+parcial de vejiga o recto
+parcial
+
+[m05-t02-b008 | IMAGEN 8]
+CIRUGIA ESTÁNDAR (HT radical o radical modificada)
+· Idealmente realizada por un ginecólogo oncólogo
+1.
+LAPAROTOMIA
+2.
+EVALUACIÓN RETROPERITONEO
+3. LINFADENECTOMIA PELVIANA Ó GC (tumores menores 2cm)
+4. ANTE GANGLIOS POSITIVOS -> SUSPENDER CIRUGIA -> QT-RT
+5. PRESERVACIÓN OVÁRICA?
+
+[m05-t02-b009 | IMAGEN 9]
+2018
+Natalia Zeff
+EVIDENCIA CON LA QUE CONTÁBAMOS
+V Más de 1000 casos publicados
+v Método posible y seguro en centros de Ginecología Oncológica
+V Similares resultados en piezas anatomopatológicas (= radicalidad)
+V No afecta resultados oncológicos
+V Resultados de ensayos randomizados favorables para el ca endometrio
+> Importante curva de entrenamiento
+
+[m05-t02-b010 | IMAGEN 10]
+TÉCNICA QUIRÚRGICA
+Natalia Zeff
+Colocación de trocares y movilizador uterino
+Linfadenectomía pelviana (Ganglio centinela)
+0
+Apertura de fosas paravesicales y pararrectales
+0
+Descenso de la vejiga
+0
+Sección de arterias uterinas en su origen
+0
+Tunelización de uréteres
+0
+Sección de parametrios laterales y posteriores
+Vejiga
+0
+Apertura de vagina
+Union uretero/vesical izquierda
+Margen vaginal
+0
+Remoción de pieza quirúrgica
+Cierre de cúpula vaginal
+Manejo de cáncer de cuell
+
+[m05-t02-b011 | IMAGEN 11]
+MARZO
+2018
+Phase III Randomized Trial of Laparoscopic or Robotic
+Radical Hysterectomy vs. Abdominal Radical Hysterectomy
+in Patients with Early-Stage Cervical Cancer:
+LACC Trial
+Pedro T. Ramirez, Michael Frumovitz, Rene Pareja, Aldo Lopez, Marcelo Vieira, Reitan Ribeiro,
+Alessandro Buda, Xiaojian Yan, Kristy P Robledo, Val Gebski, Robert L Coleman, Andreas Obermair
+000 Annual Meeting on Women's Cancer
+NEW ORLEANS
+March 24-27.2018
+Bringing Together the Best in Women's Cancer Care
+
+[m05-t02-b012 | IMAGEN 12]
+OCTUBRE
+Natalia Zeff
+2018
+The NEW ENGLAND JOURNAL of MEDICINE
+ORIGINAL ARTICLE
+Minimally Invasive versus Abdominal
+Radical Hysterectomy for Cervical Cancer
+Pedro T. Ramirez, M.D., Michael Frumovitz, M.D., Rene Pareja, M.D.,
+Aldo Lopez, M.D., Marcelo Vieira, M.D., Reitan Ribeiro, M.D., Alessandro Buda, M.D.,
+Xiaojian Yan, M.D., Yao Shuzhong, M.D., Naven Chetty, M.D., David Isla, M.D.,
+Mariano Tamura, M.D., Tao Zhu, M.D., Kristy P. Robledo, Ph.D., Val Gebski, M.Stat.,
+Rebecca Asher, M.Sc., Vanessa Behan, B.S.N., James L. Nicklin, M.D.,
+Robert L. Coleman, M.D., and Andreas Obermair, M.D.
+
+[m05-t02-b013 | IMAGEN 13]
+Diseño del estudio
+Natalia Zeff
+· Ensayo randomizado controlado multicéntrico
+· Fase 3
+· Seguimiento a 4.5 años
+· Objetivo primario: la histerectomía radical laparoscópica (tradicional o robótica) no
+es inferior a la histerectomía radical laparotómica en cuanto a período libre de
+enfermedad
+· Objetivo secundario: evaluar tasas de recurrencias y sobrevida global
+
+[m05-t02-b014 | IMAGEN 14]
+Criterios de inclusión
+Natalia Zeff
+· Pacientes: Ca escamosos, adenocarcinomas y/o adenoescamosos de cuello
+uterino. Estadíos IA1 (con IVL), IA2 o IB1 [FIGO 2009]
+· Centros: - Al menos 10 casos [edad, bmi, estadio, tiempo operatorio,
+complicaciones, requerimientos de transfusiones]
+- 2 videos sin editar de histerectomía radical (Ipc o laparotómica) al
+comité evaluador
+* Comité evaluador independiente
+
+[m05-t02-b015 | IMAGEN 15]
+Study Schema
+Open: June 2008
+Accrual: 631
+Closed: June 2017*
+Total Abdominal
+Radical Hysterectomy
+N= 312
+Stage IA1 LVSI,
+IA2, IB1
+Squamous,
+Adenocarcinoma, or
+Adenosquamous
+Cervical Cancer
+Total Laparoscopic/Robotic
+Radical Hysterectomy
+N= 319
+*Recommendation of study termination by DSMC
+
+[m05-t02-b016 | IMAGEN 16]
+Natalia Zeff
+Resultados
+Table 1. Baseline Characteristics of the Patients.#
+Minimally
+Open Surgery
+Invasive Surgery
+Characteristic
+(N=312)
+(N=319)
+· 33 centros
+Age - yr
+46.0+10.6
+46.1+11.0
+Body-mass indexŤ
+26.2+5.3
+27.2+5.6
+Histologic subtype - no. (%)
+· Junio 2008 - Junio 2017
+Squamous-cell carcinoma
+210 (67.3)
+214 (67.1)
+Adenocarcinoma
+80 (25.6)
+87 (27.3)
+· 631 pacientes (319 Ipc - 312 laparotomía) [Obj: n
+Adenosquamous carcinoma
+6 (1.9)
+9 (2.8)
+Not reported
+16 (5.1)
+9 (2.8)
+740 pacientes]
+Stage of disease - no. (%)
+IA1: lymphovascular invasion
+5 (1.6)
+5 (1.6)
+IA2
+20 (6.4)
+21 (6.6)
+· Sin diferencias en cuanto a tipo histológico, tamaño
+IB1
+287 (92.0)
+293 (91.8)
+ECOG performance-status score
+- no. (%) ¢
+tumoral, grado histológico, IVL, compromiso
+0
+289 (92.6)
+292 (91.5)
+1
+23 (7.4)
+27 (8.5)
+parametrial y/o ganglionar, RT adyuvante
+Median length of hospital stay (range)
+5 (0-69)§
+3 (0-72)
+- days
+Treatment received - no. (%)
+Open surgery
+274 (87.8)
+2 (0.6)
+Minimally invasive surgery
+8 (2.6)
+289 (90.6)
+Patient withdrew before surgery
+19 (6.1)
+12 (3.8)
+Surgery was aborted
+11 (3.5)
+16 (5.0)
+
+[m05-t02-b017 | IMAGEN 17]
+Suspensión del reclutamiento!
+Natalia Zeff
+· Primer alerta Junio 2017
+· Confirmación Noviembre 2017
+· Se comunicó a los investigadores que la vía mínimamente invasiva se
+asocia a mayor tasa de muerte
+
+[m05-t02-b018 | IMAGEN 18]
+Resultados
+Natalia Zeff
+· Mediana seguimiento 2.5 años (rango 0-6.3 años)
+· Se alcanzó 59.7% a 4.5 años (84% potencia al objetivo primario)
+· Vía laparoscópica 27 recurrencias vs 7 vía abierta
+· La mayoría a nivel cúpula vaginal o pelvis
+· Todas las recurrencias no pelvianas se dieron en vía laparoscópica
+· 22 muertes: 19 LPC vs 3 ABIERTA
+
+[m05-t02-b019 | IMAGEN 19]
+OCTUBRE
+Natalia Zeff
+2018
+The NEW ENGLAND JOURNAL of MEDICINE
+ORIGINAL ARTICLE
+Survival after Minimally Invasive Radical
+Hysterectomy for Early-Stage Cervical Cancer
+Alexander Melamed, M.D., M.P.H., Daniel J. Margul, M.D., Ph.D.,
+Ling Chen, M.D, M.P.H., Nancy L. Keating, M.D., M.P.H.,
+Marcela G. del Carmen, M.D., M.P.H., Junhua Yang, M.S.,
+Brandon-Luke L. Seagle, M.D., Amy Alexander, M.D., Emma L. Barber, M.D.,
+Laurel W. Rice, M.D., Jason D. Wright, M.D., Masha Kocherginsky, Ph.D.,
+Shohreh Shahabi, M.D., E.M.H.A., and J. Alejandro Rauh-Hain, M.D., M.P.H.
+In conclusion, among women with stage IA2 or IB1 cervical cancer who underwent radical
+hysterectomy, minimally invasive surgery was associated with shorter survival than open
+surgery. The results of a prospective, randomized assessment of minimally invasive radical
+hysterectomy for cervical cancer that are reported in this issue of the Journal are consistent
+with our findings.54 The reasons for this differential effect on survival are not clear from our
+work.
+
+[m05-t02-b020 | IMAGEN 20]
+TRATAMIENTO ADYUVANTE
+Natalia Zeff
+FACTORES DE RIESGO INTERMEDIO (CRITERIOS DE SEDLIS) -> RADIOTERAPIA ADYUVANTE
+· IVL + compromiso 1/3 ext estroma cervical (indep tamaño tumoral)
+· IVL + compromiso 1/3 medio estroma cervical + tamaño tumoral > 2cm
+· IVL + compromiso 1/3 interno estroma cervical + tamaño tumoral > 5cm
+· Compromiso 1/3 medio o externo + tamaño tumoral > 4cm SIN IVL
+FACTORES DE RIESGO ALTO (CRITERIOS DE PETERS) -> QUIMIORADIOTERAPIA ADYUVANTE
+· Márgenes quirúrgicos comprometidos
+· Ganglios positivos
+· Compromiso parametrial
+
+[m05-t02-b021 | IMAGEN 21]
+Natalia Zeff
+DESESCALAMIENTO DE TRATAMIENTO EN CCU
+TEMPRANO
+DISMINUIR LA RADICALIDAD DE LA CIRUGÍA -- > MENOR MORBILIDAD
+SIN AFECTAR LA SOBREVIDA DE LOS PACIENTES
+
+[m05-t02-b022 | IMAGEN 22]
+¿QUÉ ES DESESCALAR EL TRATAMIENTO?
+Natalia Zeff
+1. HISTERECTOMÍA RADICAL -> TRAQUELECTOMÍA RADICAL
+2. HISTERECTOMÍA/TRAQUELECTOMÍA RADICAL -> HISTERECTOMÍA/TRAQUELECTOMÍA SIMPLE
+3. LINFADENECTOMÍA PELVIANA -> GANGLIO CENTINELA
+
+[m05-t02-b023 | IMAGEN 23]
+¿CUÁNDO SE PUEDE DESESCALAR EL TRATAN
+Natalia Zeff
+SELECCIÓN DE PACIENTES
+1. HISTERECTOMÍA RADICAL -> TRAQUELECTOMÍA RADICAL
+VEdad < 40-45 años, con deseos de fertilidad
+V Histología: ca escamoso o adenocarcinoma. SE EXCLUYEN histologías raras (neuroendocrino,
+adenocarcinoma tipo gástrico)
+V Estadíos IA1 c/IVL, IA2, IB1 [TAMAÑO TUMORAL hasta 2cm]
+V Sin evidencia de compromiso ganglionar
+V RMN que descarte compromiso endocervical "alto"
+
+[m05-t02-b024 | IMAGEN 24]
+· Es fundamental el pedido de RMN preoperatoria (RMN pelvis c/contraste ev c/difusión):
+evalúa TAMAÑO y DISTANCIA DEL TUMOR AL OCI.
+· La superioridad en cuanto al ex físico de la RMN se da principalmente en la evaluación
+de la distancia al OCI. (VPP 95% para distancias de 5mm o menos)
+
+[m05-t02-b025 | IMAGEN 25]
+· 186 pacientes < 40 años histerectomía radical - 89 pac (48%) calificaban
+para traquelectomía según criterios
+Suggested clinical eligibility criteria for LRVT
+1. Confirmed invasive cervical cancer; squamous, adenocarcinoma, or
+adenosquamous
+2. FIGO stage IAI with lymphovascular space involvement, FIGO IA2 to
+12 pacientes (13%) habrían abortado el
+IB1
+3. Desire to preserve fertility
+tratamiento:
+4. No clinical evidence of impaired fertility
+7 Mts ganglionares - 1 mts anexial, 1
+5. Lesion size <2 cm
+6. Chest X-ray with no evidence of metastasis. At attendings discretion,
+extensión oci, 1 compromiso istmo útero
+preoperative MRI of pelvis + abdomen, or appropriate imaging protocol
+7. Patient is a candidate for a vaginal hysterectomy
+y ganglio, 1 parametrio 1 extensión a
+8. Limited endocervical involvement at colposcopy (if possible to assess)
+9. Estimated cervical length ≥2 cm clinically
+vagina
+10. 4-6 weeks post conization with adequate resolution of acute
+inflammation,
+11. Quetelet BMI <35 kg/m2
+LRVT, laparoscopic radical vaginal trachelectomy.
+
+[m05-t02-b026 | IMAGEN 26]
+¿CÓMO SE PUEDE DESESCALAR EL TRATAMIENTO?
+Natalia Zeff
+Procedimientos preservadores de fertilidad
+· Traquelectomía radical (TR): abordaje vaginal, abdominal, Ipc
+1. Evaluación ganglionar (linfadenectomía pelviana ó GC)
+2. TR: similar a Cx Wertheim-Meigs - separación de peritoneo vesicouterino, espacio paravesical y
+pararrectal, ligadura de vasos uterinos en su origen. Corte de la vagina 1-2cm por debajo del
+cuello y corte del cuello 0.5-1cm debjo del OCI. Cerclaje - Sutura remanente de útero con vagina
+
+[m05-t02-b027 | IMAGEN 27]
+Natalia Zeff
+
+[m05-t02-b028 | IMAGEN 28]
+TRAQUELECTOMÍA RADICAL
+1. Evaluación ganglionar: 15-20% ganglios comprometidos en CCU estadíos tempranos. GC:
+Uno o dos tiempos
+2. Biopsia intraoperatoria: MÁRGENES (al menos 5mm)
+
+[m05-t02-b029 | IMAGEN 29]
+TRAQUELECTOMÍA RADICAL - Complicaciones
+. La TR es un procedimiento seguro, con tasas de complicaciones similares a la
+histerectomía radical [disfunciones sexuales, via urinaria y trast colorrectal]
+· Una complicación frecuente (-> 10-15%) es la estenosis cervical. Esta tasa
+disminuye con el uso de un catéter en el canal
+
+[m05-t02-b030 | IMAGEN 30]
+TRAQUELECTOMÍA RADICAL
+Natalia Zeff
+Seguridad oncológica
+. Los resultados oncológicos son similares a los obtenidos con la
+histerectomía radical siempre y cuando se cumplan los criterios de
+selección de pacientes
+. Traquelectomía radical: tasa de recurrencia 2.3-4.5%, tasa de mortalidad
+0.7-3%
+
+[m05-t02-b031 | IMAGEN 31]
+TRAQUELECTOMÍA RADICAL
+Resultados obstétricos
+· Tasa de aborto 1er trimestre similar a población general: 20%
+· Parto prematuro 2do trimestre 10% vs 3%
+· 70% luego del 3er trimestre
+· 85% > 32semanas
+· La mayoría > 37semanas
+
+[m05-t02-b032 | IMAGEN 32]
+¿CUANDO SE PUEDE DESESCALAR EL TRATAMI
+Natalia Zeff
+SELECCIÓN DE PACIENTES
+2. HISTERECTOMÍA/TRAQUELECTOMÍA RADICAL -> HISTERECTOMÍA/TRAQUELECTOMÍA SIMPLE
+= 60% pacientes que realizan TR no presentan enfermedad residual en la pieza
+· COMPROMISO PARAMETRIAL < 1% en pacientes con factores anatomopatológicos favorables
+V Tamaño tumoral < 2cm
+V Invasión estromal < 10mm
+VIVL ausente
+v Ganglios negativos
+
+[m05-t02-b033 | IMAGEN 33]
+Table 2
+Natalia Zeff
+Surgical procedure in published studies of conservative surgical treatment for early-stage cervical cancer
+Follow-up
+time,
+Sentinel
+median
+No. of
+lymph
+(mange)
+planned
+node
+Author (year)
+surgeries
+biopsy
+Radical hysterectomy
+Less radical procedures
+Positive lymph nodes Adjuvant radiotherapy Adjuvant chemotherapy
+monthe
+Relapses Deaths
+1
+0
+0
+0
+Rob (2008)
+40
+Yes
+6
+Cone biopsy + PLND =
+6
+0
+0
+47 (12-102)
+10
+Simple trach + PLND =
+Gynecol Oncol. Author manuscript; available in PMC 2015
+24
+47(12-92)
+0
+0 0
+9Hun (2009)
+60
+Yes
+3
+TH +PLND = 57
+5
+0
+no
+0
+66 (18-168)
+1
+Manco (2011)
+37
+No
+N/A
+Cone biopsy + PLND =
+0
+36
+0
+No
+4
+Cone biopsy + PLND =
+0
+2
+16(8-101)
+0
+0
+Fhgotti (2011)
+17
+13
+0
+Palaia (201 2)
+14
+No
+0
+Simple trach + PLND =
+0
+0
+38(18-96)
+0
+14
+0
+0
+Raju (2012)
+15
+No
+0
+Simple trach + PLND =
+0
+0
+0
+96 (12-120)
+15
+0
+56 (13-132)
+0
+-
+62
+Na
+0
+0
+Biliais (2012)
+0
+Come biopsy + PLND =
+35ª
+TH + PLND= 275
+Yes
+0
+Simple trach + PLND =
+0
+0
+0
+27(1-65)
+0
+0
+Hande (20 13)
+16
+16€
+2
+2
+1
+Total
+261
+13
+247
+13
+ELND, pelvic lymphadenectomy; TH, total hysterectomy; trach, tracheledomny.
+Sio PLND in 4 patients.
+No PLNDin 1 patient
+Six patients had sentinel lymph node mapping alone.
+· Con una correcta selección de pacientes, la tasa de recurrencias y muerte es similar entre
+procecimientos radicales y simples
+
+[m05-t02-b034 | IMAGEN 34]
+PROTOCOLOS RECIENTES
+Natalia Zeff
+. ConCerv (Schemeler y col): estudio multicéntrico evaluo factibilidad y seguridad de
+tratamientos no radicales (ht simple con cono previo ó conización + linfadenectomía pelviana)
+[Tam <2cm, ivl neg, prof invasión < 10mm] . 100 pacientes - Compromiso ganglionar 5% con
+baja tasa de recurrencia (3.5% en 2ª) en pacientes correctamente seleccionados
+· SHAPE (Plante y col.): ensayo randomizado ht radical + linfadenectomía pelviana vs ht simple +
+linfadenectomía pelviana [Tam <2cm, , prof invasión < 10mm en cono ó < 50% estroma cervical
+por RMN, sin evidencia preoperatoria de compromiso ganglionar] n:700 - Endpoint primario:
+Recurrencia pelviana a 3ª. Seguimiento 4.5ª: incidencia de recurrencia pelviana 2.5% aprox para
+Manejo de cáncer de cuello tempra
+ambos grupos, con mayores complicaciones urinarias en grupo de cx radical
+
+[m05-t02-b035 | IMAGEN 35]
+3. LINFADENECTOMIA PELVIANA -> GC
+National
+NCCN Guidelines Version 3.2024
+NCCN Guidelines Index
+NCCN
+Comprehensive
+Cancer
+Network"
+Cervical Cancer
+Table of Contents
+Discussion
+PRINCIPLES OF EVALUATION AND SURGICAL STAGINGª,d
+Sentinel Lymph Node Mapping for Cervical Cancer:
+. SLN mapping as part of the surgical management of select stage I cervical cancer is considered in gynecologie oncology practices
+worldwide. While this technique has been used in tumors up to 4 cm in size, the best detection rates and mapping results are in tumors
+less than 2 cm. 11-15 This simple technique utilizes a direct cervical injection with dye" or radiocolloid technetium-99 (99Tc) into the cervix,
+usually at 2 or 4 points as shown in Figure 1 (below). The SLNs are identified at the time of surgery with direct visualization of colored dye;
+a fluorescent camera is used if indocyanine green (ICG)16 was used, and a gamma probe is used if 99Tc was used. SLNs following a cervical
+injection are commonly located medial to the external iliac vessels, ventral to the hypogastric vessels, or in the superior part of the obturator
+space (Figure 2). SLNs usually undergo ultrastaging by pathologists, which allows for higher detection of micrometastasis that may alter
+postoperative management. 4.17
+Figure 1: Options of SLN Cervical Injection Sites"
+Figure 2: SLNs (blue, arrow) After Cervical Injection Are Commonly
+Located Medial to the External Iliac, Ventral to the Hypogastric, or in
+the Superior Part of the Obturator Space"
+# Recommendations by stage are based on the revised 2018 FIGO staging (Bhatla N, Berek JS, Fredes MC, et al. Revised FIGO Staging for carcinoma of the cervix
+uteri. Int J Gynecol Obstet 2019;145:129-135 and Corrigendum to "Revised FIGO Staging for carcinoma of the cervix uteri" [Int J Gynecol Obstet 2019;145:129-135]
+Int J Gynecol Obstet 2019;147-279-280). However, trial data cited within this section utilized the 2009 FIGO staging system.
+6 In the phase Ill randomized FILM trial, ICG was shown to be superior to isosulfan blue dye. (Frumovitz M, Plante M, Lee PS, et al., Near-infrared fluorescence
+for detection of sentinel lymph nodes in women with cervical and uterine cancers (FILM): a randomised, phase 3, multicentre, non-inferiority trial, Lancet Oncol
+" Figures 1 and 2 are reproduced with permission from Memorial Sloan Kettering Cancer Center. @ 2013 Memorial Sloan Kettering Cancer Center.
+2018:19:1394-1403)
+Continued
+Note: All recommendations are category 2A unless otherwise indicated,
+Clinical Trials: NGCN believes that the best management of any patient with cancer is in a clinical trial Participation in clinical trials is especially encouraged.
+References
+CERV-C
+3 OF 7
+
+[m05-t02-b036 | IMAGEN 36]
+Natalia Zeff
+HALLAZGOS EN PIEZA DE HT SIMPLE
+* Toda paciente que vaya a realizar una HT indicación benigna debe tener tamizaje para
+CCU previo al procedimiento
+* NO existe suficiente evidencia para definir el manejo óptimo de estas pacientes
+1.
+Evaluación clínica e imagenológica
+2.
+Manejo en función de hallazgos clínicos - imagenológicos e histológicos
+
+[m05-t02-b037 | IMAGEN 37]
+HALLAZGOS EN PIEZA DE HT SIMPLE
+· IA1 sin IVL:observación
+· IA1 con IVL - IA2
+· Márgenes positivos, evidencia de enfermedad residual grosera y/o compromiso
+ganglionar -> QT-RT
+· Márgenes negativos, sin evidencia de enfermedad residual ni compromiso ganglionar
+> RT (+/-) QT. Evaluar parametrectomía - colpectomía superior y linfadenectomía en
+centros experimentados
+
+[m05-t02-b038 | IMAGEN 38]
+EMBARAZO Y CCU: estadios tempranos
+· El CCU es considerado el cáncer ginecológico más frecuentemente diagnosticado durante el
+embarazo (incidencia 1-4/100.000 embarazos)
+· RMN sin contraste es el método de imágenes de elcción
+· Abordaje por equipo multidisciplinario - Comité de Ética eN CIERTOS CASOS
+Edad gestacional
+Estadio de la enfermedad
+Deseo de continuar el embarazo
+
+[m05-t02-b039 | IMAGEN 39]
+. SIN DESEO DE PRESERVAR EL EMBARAZO 1ER Y 2DO TRIMESTRE
+Natalia Zeff
+HT radical con feto in útero
+· CON DESEO DE PRESERVAR EL EMBARAZO
+· Previo a viabilidad fetal
+· Evaluación ganglionar: si ganglios positivos, finalización del embarazo
+· En ganglios negativos ... tumores < 2cm: finaliación con feto maduro y posterior tratamiento. En
+tumores > 2cm: evaluar qmt neoadyuvante, finalización con feto maduro y psoterior
+tratamiento
+· Viabilidad fetal -> finalización con feto maduro y posterior tratamiento
+
+[m05-t02-b040 | IMAGEN 40]
+SEGUIMIENTO
+· La tasa de recaída depende del estadio inicial
+ESTADÍO
+RECURRENCIA PELVIANA
+MTS A DISTANCIA (%)
+(%)
+IB
+10
+16
+IIA
+17
+26
+IIB
+23
+31
+III
+42
+39
+IVA
+74
+75
+
+[m05-t02-b041 | IMAGEN 41]
+RECURRENCIAS
+Natalia Zeff
+· El sitio más frecuente es la pelvis.
+· A distancia: adenopatías lumboaórticas, pulmón, hueso, peritoneo
+· Aproximadamente 75% recaídas son sintomáticas [ginecorragia, dolor
+pelviano - lumbar, trastornos urinarios/digestivos, linfedema]
+· Importancia examen físico dado que la mayoría de las recurrencias son
+pelvianas
+
+[m05-t02-b042 | IMAGEN 42]
+CADA CUÁNTO REALIZAMOS PAP EN
+SEGUIMIENTO DE CA CUELLO ÚTERO TRATADO?
+PACIENTES CON
+PACIENTES QUE RECIBIERON
+TRATAMIENTO
+RADIOTERAPIA
+QUIRÚRGICO PRIMARIO
+(PRIMARIO ó ADYUVANCIA)
+SIN RADIOTERAPIA
+
+[m05-t02-b043 | IMAGEN 43]
+Cervicovaginal Cytology in the Detection of
+Natalia Zeff
+Recurrence After Cervical Cancer Treatment
+B. J. Rimel, MD, Aaron Ferda, MD, Jamie Erwin, MD, Summer B. Dewodney, MD,
+Leigh Seamon, DO, MPH, Feng Gao, P&D, Christopher DeSimone, MD, Kristen K. Cotney,
+Warner Huh, MD, and L. Stewart Massad, MD
+VOL 118, NO. 3, SEPTEMBER 2011
+OBSTETRICS & GYNECOLOGY
+· En pacientes tratados con radioterapia: 6-34% Pap anormales (la mayoría
+ASC-US)
+· Estudio retrospectivo - 4167 citologías en 929 pacientes
+· 626 (15%) de 312 pacientes tuvieron PAP alterados - 147 Recurrieron (solo
+12 detectados por Pap (8%)
+· 296 (47%) ASC-US
+· 179 (29%) L-SIL
+5/475 ASC-US y L-SIL: CIN3 (1%)
+>En pacientes tratados con rt previa, mayor tasa de PAP anormales (14.8 % vs
+8.7%) -> Se recomienda post 5años de finalizado el tratamiento radiante.
+>En pacientes con tto qx primario sin RT, Pap anual
+
+[m05-t02-b044 | IMAGEN 44]
+ES NECESARIO PEDIR ALGÚN ESTUDIO DE
+IMAGENES DE RUTINA?
+
+[m05-t02-b045 | IMAGEN 45]
+CANCER DE CUELLO UTERINO - Educación der
+paciente
+· Interrogar sobre síntomas de potencial recurrencia
+· Mejorar hábitos generales (alimentación, actividad física, cesación tbq)
+· Sexualidad (interrogar específicamente sobre sequedad vaginal y dar
+opciones de tratamiento: lubricantes, dilatadores vaginales. Síntomas
+climatericos: TRH)
+· Complicaciones del tratamiento a corto y largo plazo
+
+[m05-t02-b046 | IMAGEN 46]
+CONCLUSIONES
+Natalia Zeff
+EL OBJETIVO DEL MANEJO DE CCU EN ESTADIO TEMPRANOS ES EVITAR LA SUMA DE
+TRATAMIENTOS
+LA CIRUGIA ES LA PRIMERA ELECCIÓN
+* EVALUAR OPCIONES DE DESESCALAMIENTO DE TRATAMIENTO EN PACIENTES SELECCIONADOS, NO
+SOLO PENSANDO EN PRESERVACIÓN DE FERTILIDAD SINO EN RADICALIDAD DE CIRUGIA PARA ASÍ
+DISMINUIR MORBILIDAD QUIRÚRGICA
+ENSEÑANZA DEL ESTUDIO LACC - IMPORTANCIA DE LA CALIDAD DE EVIDENCIA
+
+[m05-t02-b047 | IMAGEN 47]
+LO CONSULTA UNA PACIENTE PARA UNA SEGUNDA OPINIÓN. SE TRATA DE
+UNA PACIENTE DE 50 AÑOS CON UN TUMOR EN CUELLO UTERINO, 5CM
+(BIOPSIA CERVICAL: CARCINOMA ESCAMOSO INVASOR) QUE ADJUNTA UNA
+RMN QUE INFORMA COMO DATOS RELEVANTES (TUMOR CERVICAL DE 6CM,
+PARAMETRIOS LIBRES, RETROPERITONEO SP)
+a.
+Realizaría primero una conización para ver si tiene invasión vasculo
+linfática y tomar conducta en función de la misma
+b.
+Indico tratamiento quimioradiante concurrente dado que es muy
+probable tenga criterios de radioterapia adyuvante al ser operada
+c. Indico histerectomía radical y biopsia de ganglio centinela
+d. Indico histerectomía radical y linfadenectomía pelviana
+
+[m05-t02-b048 | IMAGEN 48]
+Respuesta incorrecta.
+La respuesta correcta es:
+Indico tratamiento quimioradiante concurrente dado que es muy
+probable tenga criterios de radioterapia adyuvante al ser operada
+
+[m05-t02-b049 | IMAGEN 49]
+En cuál/es de los siguientes casos de estadíos de cáncer de cuello uterino se
+podría evitar realizar evaluación ganglionar:
+a. Estadío IA2 sin invasión vasculolinfática
+b. Estadío IA1 con invasión vasculolinfática
+c. Estadío IA1 sin invasión vasculolinfática
+d. ninguna es correcta
+
+[m05-t02-b050 | IMAGEN 50]
+En qué casos indicaría (quimio-)radioterapia primaria?
+a.
+Paciente con cancer de cuello uterino IB1
+b.
+Paciente con cáncer de cuello uterino IB1 que durante la laparotomía se
+constata ganglio lumboaórtico positivo en congelación
+C.
+Paciente con cáncer de cuello uterino diagnosticada por conización que
+x
+informa tumor 3cm con invasión vasculolinfática
+d. Ninguna es correcta
+Respuesta incorrecta.
+La respuesta correcta es:
+Paciente con cáncer de cuello uterino IB1 que durante la laparotomía se
+constata ganglio lumboaórtico positivo en congelación

@@ -1,0 +1,258 @@
+# m03-t14 Manejo lesiones glandulares
+
+[m03-t14-b001 | IMAGEN 1]
+Aspectos generales
+· Edad media al diagnóstico: 36,4 años.
+· Incidencia creciente: 6,6/ 100.000 (CIN III 41,4/100.00)
+· Aumento de incidencia x 6 desde 1970.
+· Aumento de detección(?) vinculada a los cambios en el sistema Bethesda, uso
+de la citología líquida, test de HPV.
+· Aumento real(?), vinculado al aumento de la incidencia de HPV 18 y el uso de
+anticonceptivos orales.
+· Relación con HPV
+· HPV 16: 40% de los AIS
+· HPV 18: 38-50% de los AIS (8% de los HSIL)
+
+[m03-t14-b002 | IMAGEN 2]
+Desafío diagnóstico
+· No hay patrón colposcópico característico.
+· 60% de los diagnósticos de AIS pueden pasar por alto a citología y las
+biopsias dirigidas.
+· Posibilidad de "Skip lesions" (focos que no son contiguos). 10-15% de
+los casos.
+· Frecuentemente, el diagnóstico es un hallazgo incidental de un
+procedimiento escisional por una lesión escamosa intraepitelial, sin
+sospecha preoperatoria. 55% de las pacientes con AIS tienen una
+lesión escamosa asociada.
+
+[m03-t14-b003 | IMAGEN 3]
+Aspectos por desarrollar
+Modos de presentación
+Aspectos citológicos/ evaluación inicial/ aspectos colposcópicos
+Manejo/ tipo de procedimiento escisional
+Manejo de lesiones glandulare
+Manejo de los márgenes
+Quienes pueden preservar la fertilidad
+
+[m03-t14-b004 | IMAGEN 4]
+Modos de presentación
+- Habitualmente asintomática.
+- Excepcionalmente, puede haber un sangrado genital de origen
+cervical.
+- Citología anormal, habitualmente, AGC.
+- Evaluación por test de HPV +.
+- Hallazgo incidental en procedimiento escisional por lesión escamosa.
+
+[m03-t14-b005 | NOTA]
+CITOLOGIA
+
+[m03-t14-b006 | IMAGEN 5]
+The Bethesda System Terminology
+CÉLULAS GLANDULARES
+* Atípicas (AGC)
+- endocervicales (NOS o especificar en comentarios)
+- endometriales (NOS o especificar en comentarios)
+- glandulares (NOS o especificar en comentarios)
+Atípicas sugestivas de neoplasia
+*
+- endocervicales
+- glandulares
+* Adenocarcinoma in situ endocervical
+* Adenocarcinoma:
+- endocervical
+- endometrial
+- extrauterino
+- no especificado (NOS)
+
+[m03-t14-b007 | IMAGEN 6]
+El acrónimo AGC reemplazó al de AGUS en
+2001 para evitar la confusión con ASC-US.
+Definición:
+· Células que muestran atipia nuclear que excede a
+las de los cambios reactivos o reparadores, pero
+sin las características citológicas unívocas del
+adenoCa.
+
+[m03-t14-b008 | IMAGEN 7]
+CAMBIOS CITOLÓGICOS
+· Menores
+· Mayores
+· ASC-US
+· ASC-H
+· L-SIL
+· H-SIL
+· AGC
+
+[m03-t14-b009 | IMAGEN 8]
+AGC
+Evaluación inicial
+· Colposcopia y estudio del conducto
+endocervical.
+· Muestreo endometrial en mayores de 35 años.
+· Factores de riesgo para cáncer endometrial
+· Anovuladoras
+· Sobrepeso
+· Sangrado uterino anormal
+Es esperable un diagnóstico de AIS en 3-4% de los casos y adeno Ca
+invasor en 2%.
+
+[m03-t14-b010 | IMAGEN 9]
+Nueva guía 2022
+Algoritmo Nº 3
+Prevención primaria y secundaria
+del cáncer cervicouterino:
+"Manejo del tamizaje anormal y de las
+-No repetir citología
+AGC:
+lesiones histológicas del cuello uterino".
+-No realizar prueba de HPV
+con cualquier resultado de la prueba de HPV
+-ECE: no realizar en embarazadas
+* Comenzar por la
+Colposcopia (Biopsia) y ECE
+valoración
+endometrial : en
+AGC endometrial
+Negativo
+Positivo
+Negativo pero con citología
+inicial AGC a favor de neoplasia
+o en pacientes
+o de AIS y biopsia de
+postmenopáusicas
+* Biopsia de endometrio:
+endometrio negativa
+con células endometriales
+sólo en ≥ 35 años o < 35 años con FRE
+(≥ 35 años o < 35 años con FRE)
+benignas
+Negativo
+Positivo
+Procedimiento
+diagnóstico
+Co-test anual y colposcopia
+Manejo acorde
+CIN 2+ 0
+escisional
+(x 2) o citología y
+al diagnóstico
+Adenocarcinoma in situ
+(biopsia ampliada)
+(AIS)
+con ECE remanente
+colposcopia cada 6 meses
+por 2 años
+Tratamiento
+Negativo
+Cualquier anormalidad
+Factores de Riesgo Endometrial (FRE):
+1
+-Sangrado uterino anormal
+A II
+-Obesidad
+-Anovulación crónica
+B II
+Co-test a los 3 años
+Colposcopia
+o citología anual
+-AGC a favor de origen endometrial
+
+[m03-t14-b011 | IMAGEN 10]
+Manejo posterior
+2019 ASCCP Risk-Based Management Consensus
+Guidelines for Abnormal Cervical Cancer Screening
+Tests and Cancer Precursors
+AGC probable neoplasia
+Initial Cytology is
+AGC - NOS or AEC-NOS*
+Initial Cytology is
+AGC (favor neoplasia),
+· AIS: 3-4%, CIN 2+: 9%, Cáncer: 2-
+or AIS
+3%
+No CIN2+, AIS, or Cancer
+CIN2+ but no
+Glandular Neoplasia
+No AIS or Cancer
+KPNC
+by Colposcopy/Biopsy
+· AGC/ HPV +: CIN 3+ 26%
+Cotest
+Manage per 2019
+at 1 and 2 years
+ASCCP Guidelines
+Diagnostic
+· AGC/ HPV neg: CIN 3 + 1,1%
+Excisional
+Procedure"
+· AGC probable neopl/ HPV +: CIN 3+
+Both Negative
+Any Abnormality
+55%
+* Atypical endocervical cells
+"Should provide an intact specimen with
+Cotest 3 years later
+Colposcopy
+interpretable margins. Concurrent endocervical sampling
+above excision bed preferred
+
+[m03-t14-b012 | IMAGEN 11]
+Negativo pero con citología
+inicial AGC a favor de neoplasia
+o de AIS y biopsia de
+endometrio negativa
+(≥ 35 años o < 35 años con FRE)
+Procedimiento
+diagnóstico
+escisional
+(biopsia ampliada)
+con ECE remanente
+
+[m03-t14-b013 | IMAGEN 12]
+Presencia de células
+endometriales en mujeres
+post-menopáusicas
+asintomáticas
+Requiere evaluación del endometrio
+
+[m03-t14-b014 | IMAGEN 13]
+Anatomía Patológica-
+Lesiones glandulares OMS
+2020- 5º Edición
+· Adenocarcinoma in
+situ (AIS) HPV
+· Adenocarcinoma in situ
+asociado:
+HPV independiente
+· Tipo endocervicoide
+· Tipo gástrico (raros)
+· Tipo intestinal
+· Adenocarcinoma in situ
+· Tipo endometroide
+NOS
+· SMILE
+Invasión: sistema de Silva: patrón de crecimiento destructivo o
+no destructivo.
+
+[m03-t14-b015 | IMAGEN 14]
+AIS
+EN
+MP
+
+[m03-t14-b016 | IMAGEN 15]
+Colposcopia
+
+[m03-t14-b017 | NOTA]
+PAPILAS ACETOBLANCAS Y VASO GRUESO
+
+[m03-t14-b018 | IMAGEN 16]
+(Imagen sin texto reconocido)
+
+[m03-t14-b019 | NOTA]
+ECTOPIA CON AREAS CONFLUENTES Y SANGRANTES
+
+[m03-t14-b020 | IMAGEN 17]
+(Imagen sin texto reconocido)
+
+[m03-t14-b021 | NOTA]
+MAYOR PRODUCCION DE MOCO

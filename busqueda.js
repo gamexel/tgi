@@ -1,0 +1,12 @@
+(function(root){
+  'use strict';
+  const aliases = [ ['hpv','vph'], ['hiv','vih'], ['biopsia','biopsiar','bx'], ['tratamiento','tratar','tto'], ['cancer','carcinoma'], ['suelo','piso'], ['lsil','lesil'], ['aar','anoscopia'], ['dvin','vind','diferenciado'], ['seguimiento','control'], ['ihq','inmunohistoquimica'], ['atca','tca','tricloroacetico'] ];
+  const stop = new Set(['de','del','la','las','el','los','en','un','una','y','o','con','para','por','que','es','al','como','cual','son','se']);
+  function normalize(text){return String(text||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/h[\s-]+sil/g,'hsil').replace(/l[\s-]+sil/g,'lsil').replace(/(\d),(\d)/g,'$1.$2').replace(/[^a-z0-9.]+/g,' ').trim().replace(/\s+/g,' ');}
+  function terms(query){return normalize(query).split(' ').filter(t=>t&&!stop.has(t)).map(t=>aliases.find(a=>a.includes(t))||[t]);}
+  function prepare(doc){doc._title=normalize(doc.title);doc._body=normalize(doc.text);doc._path=normalize(doc.path);doc._context=normalize(doc.context);doc._all=[doc._title,doc._body,doc._path,doc._context].join(' ');return doc;}
+  function search(docs,query){const ts=terms(query); if(!ts.length)return [];const phrase=normalize(query);let out=[];for(const doc of docs){let score=0;let matched=true;for(const group of ts){let best=0;for(const term of group){let n=0;if(doc._body.includes(term))n+=8;if(doc._title.includes(term))n+=17;if(doc._path.includes(term))n+=3;if(doc._context.includes(term))n+=2;best=Math.max(best,n);}if(!best){matched=false;break;}score+=best;}if(matched){if(ts.every(g=>g.some(term=>doc._path.includes(term))))score+=40;if(doc._body.includes(phrase))score+=10;if(doc._title.includes(phrase))score+=16;out.push({doc,score});}}return out.sort((a,b)=>Number(b.doc.kind==='summary')-Number(a.doc.kind==='summary')||b.score-a.score||a.doc.order-b.doc.order).map(r=>r.doc);}
+  function snippet(doc,query,max=310){const text=doc.text||doc.context||'';if(text.length<=max)return text;const groups=terms(query);let pos=-1;const norm=normalize(text);for(const group of groups)for(const t of group){let p=norm.indexOf(t);if(p>=0&&(pos<0||p<pos))pos=p;}let start=Math.max(0,pos-65);if(start>0){const space=text.indexOf(' ',start);if(space<start+25)start=space+1;}return (start?'… ':'')+text.slice(start,start+max).trim()+(start+max<text.length?' …':'');}
+  root.TGISearch={normalize,terms,prepare,search,snippet};
+  if(typeof module!=='undefined'&&module.exports)module.exports=root.TGISearch;
+})(typeof window!=='undefined'?window:globalThis);

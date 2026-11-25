@@ -1,0 +1,242 @@
+# m03-t19 RADIOFRECUENCIA
+
+[m03-t19-b001 | IMAGEN 1]
+Generalidades
+· La radiofrecuencia es un proceso de corte y/o coagulación de tejido que utiliza alta frecuencia de corriente
+alterna en un rango de 500000 ciclos/ seg -> 500 Kilohercios/ 5 Megahercios
+Magnitud
+0
+Tiempo
+Tiempo
+Magnitud
+Corriente Alterna
+Corriente Continua
+
+[m03-t19-b002 | IMAGEN 2]
+Alterna (A). Tipo de corriente eléctrica, en la que la dirección del flujo de electrones va y viene a intervalos regulares
+o en ciclos.
+El flujo de electrones es bidireccional, oscila entre los polos positivo y negativo
+V
+Corriente continua
+t
+-
+V
+t
+Corriente alterna
+Continua (CC) es la corriente eléctrica que fluye de forma constante en una dirección, como la que fluye en una
+linterna o en cualquier otro aparato con baterías es corriente continua. El flujo de electrones es unidireccional, sigue
+una señal continua y se mantiene fijo en el polo positivo.
+
+[m03-t19-b003 | IMAGEN 3]
+Corriente Alterna de Alta
+Frecuencia BAJO Voltaje
+CORTE
+Corriente Alterna de Alta
+COAGULACIÓN
+Frecuencia ALTO Voltaje
+
+[m03-t19-b004 | IMAGEN 4]
+ELECTRODO
+ACTIVO (ASA)
+PASIVO (PLANCHA)
+La aplicación de corriente a través de los mismos genera un mínimo
+daño térmico en los tejidos con vaporización de los mismos
+CUT
+BIPO
+(utilización de corte y coagulación en simultáneo- BLEND)
+A
+FI
+A
+Efecto de CORTE obtenido por ciclos de onda que provocan estallido
+celular sin fulguración
+
+[m03-t19-b005 | IMAGEN 5]
+Energía de Alta frecuencia y Alta temperatura transferida por el electrodo
+Aumento de densidad de ondas de radiofrecuencia en la superficie mucosa
+Vaporización rápida de agua intracelular
+Ruptura de membrana celular
+Corte
+
+[m03-t19-b006 | IMAGEN 6]
+Voltaje
+· Se utiliza un voltaje constante para obtener una aceptable muestra para ser enviadas a ANATOMÍA
+PATOLÓGICA con buen control del sangrado
+· Importancia del voltaje elegido: valores superiores alteran la calidad de la muestra (imposibilidad
+de evaluar márgenes): 20-40W
+
+[m03-t19-b007 | IMAGEN 7]
+Ventajas de la radiofrecuencia
+Desventajas
+· Bajo tenor de sangrado
+· Bajo índice de estenosis cervical
+· Aprendizaje (30 casos)
+* En aquellas lesiones extensas, la
+· Uso de anestesia local
+resección no es tan completa como el
+· Estudio bajo control colposcópico
+cono cilíndrico
+· Material para su estudio AP
+Contraindicaciones
+ABSOLUTA: pacientes portadores de marcapasos
+RELATIVA: embarazadas. Lesiones perianales (se pueden generar
+combustión con gases intestinales)
+
+[m03-t19-b008 | IMAGEN 8]
+Tipos de anestesia
+GENERAL O RAQUÍDEA
+Conización cervical
+LOCAL
+Procedimientos ambulatorios
+Lidocaína con epinefrina
+
+[m03-t19-b009 | IMAGEN 9]
+Tipos de asas
+Conización cervical: diámetro variable de 25-
+35mm
+. Asa de Elizalde
+· Asa de Focaccia
+Resección amplia
+· 2,5cm x 1cm de profundidad
+ASAS LEES
+CORMEDICA
+· 2 cm x 0,8 cm de profundidad
+· 1 cm × 0.8 cm de profundidad
+· 1 cm x 1cm de profundidad (Asa de Cartier)
+Asas rectangulares 1 x 0,5cm
+Electrodo esférico de 5mm
+Microaguja
+anis
+
+[m03-t19-b010 | IMAGEN 10]
+Nomenclatura IFCPC 20111
+Aceptada en el Congreso Mundial de Río, 5 de Julio, 2011
+Presidente del Comité de Nomenclatura: Jacob Bornstein MD
+Terminología colposcópica del cuello uterino - apéndice de IFCPC 20111
+Tipos de tratamiento de
+Tipo de escisión 1,2,3
+escisión
+Escisión ZT tipo
+Medidas de la muestra
+Largo - distancia del margen
+I
+de escisión
+distal/externo al margen
+Escisión T tipo II
+proximal/interno
+Grosor - distancia del margen
+estromal a la superficie de la muestra
+extirpada
+Circunferencia (Opcional)- el
+perímetro de la muestra extirpada.
+Escisión ZT tipo III
+1 Bornstein J, Bentley J, Bosze P, Girardi F, Haefner H, Menton M, Perrotta M,
+Prendiville W, Russell P, Sideri M, Strander B, Torne A, Walker P. 2011 IFCPC
+colposcopic nomenclature. In preparation for publication
+
+[m03-t19-b011 | IMAGEN 11]
+Tipos de resección
+-> Resección AMPLIA con LEEP: exéresis de la lesión amplia por completo, incluída la Zona de
+Transformación.
+Margen de seguridad no menor a 5mm
+Potencia de corte utilizada: 20-40 vatios
+· Resección central
+· Resección de labios anterior y posterior
+· Resección central más resección anterior o posterior o triple resección (Método A-B-C)
+· Resección central de la Zona de Transformación más resección central profunda con asa de 1x1cm
+
+[m03-t19-b012 | IMAGEN 12]
+1. Resección CENTRAL con márgen de seguridad de 5mm
+· Lesiones centrales cuyo diámetro lateral no excede los 2cm y la profundidad no supere los 0.8cm
+Cervix
+Electrosurgical Loop
+Speculum
+
+[m03-t19-b013 | IMAGEN 13]
+2. Resección de labio anterior y posterior
+· Para lesiones que abarcan ambos labios con mayor extensión (no se puede realizar resección en un solo
+bloque)
+· Se realiza la escisión en 2 tiempos: POSTERIOR Y ANTERIOR
+3. Resección central + labio anterior y/o posterior- TRIPLE RESECCIÓN
+· Utilizado en lesiones extensas > 2cm con escasa penetración del conducto endocervical
+· Se desaconseja su uso ya que lesiones tan extensas están contraindicadas para realizar una resección
+amplia
+
+[m03-t19-b014 | IMAGEN 14]
+3- Resección central + exéresis de Zona de Transformación con asa de 1x1 cm
+Para lesiones que penetran en endocérvix y llegan hasta 1cm de profundidad.
+Si existe una lesión remanente en profundidad, se utiliza un asa cuadrada o rectangular.
+Proyección transversal
+Proyección coronal
+Lesión
+A
+B
+C
+D
+Fuente: Barbara L. Hoffman, John O. Schorge, Karen D. Bradshaw, Lisa M. Halvorson, Joseph I. Schaffer, Marlene M. Corton:
+Williams Ginecología, 3e. Derechos @ McGraw-Hill Education. Derechos Reservados.
+
+[m03-t19-b015 | IMAGEN 15]
+Preparación de la pieza
+Anatomía Patológica
+· Marca en H12 (alfiler, punto de sutura)
+Medidas
+· Inclusión en formol al 10%
+Evaluación de márgenes
+
+[m03-t19-b016 | IMAGEN 16]
+Tratamiento destructivo local con radiofrecuencia
+Electrodo esférico de 5mm
+Potencia: 50V
+Margen de segridad 5mm
+CUELLO
+UTERINO
+VULVA
+VAGINA
+
+[m03-t19-b017 | IMAGEN 17]
+Elección de fecha qx
+(según FUM) - ACO
+Pre
+Ayuno?
+Abstinencia sexual
+Post
+NO Duchas vaginales
+30 días
+Cuidados del paciente
+1er control: 30 días
+NO Baños de inmersión
+PAUTAS DE ALARMA: SANGRADO- SECRECIÓN MALOLIENTE- FIEBRE
+Radiofrecuencia.Dra Perazzo
+
+[m03-t19-b018 | IMAGEN 18]
+(Imagen sin texto reconocido)
+
+[m03-t19-b019 | NOTA]
+EXAMEN!!
+
+[m03-t19-b020 | IMAGEN 19]
+1. CUAL DE LAS SIGUIENTES AFIRMACIONES CON RESPECTO A LA RADIOFRECUENCIA ES CORRECTA?
+a. UTILIZA CORRIENTE ALTERNA CON FLUJO DE CORRIENTE UNIDIRECCIONAL
+b. UTILIZA CORRIENTE CONTINUA CON FLUJO DE CORRIENTE QUE CIRCULA EN UNA SOLA DIRECCIÓN
+C. UTILIZA CORRIENTE ALTERNA EN LA QUE EL FLUJO DE ELECTRONES ES BIDIRECCIONAL
+d. UTILIZA CORRIENTE CONTINUA EN LA QUE EL FLUJO DE ELECTRONES ES BIDIRECCIONAL
+
+[m03-t19-b021 | IMAGEN 20]
+CON RESPECTO AL EFECTO FARÁDICO. MARQUE LA OPCIÓN CORRECTA
+a. ES UN EFECTO ADVERSO FRECUENTE CUANDO SE UTILIZA RADIOFRECUENCIA
+b. ES UN EFECTO QUE PUEDE ORIGINARSE CON ENERGÍA ALTERNA CON VALORES MENORES A 150000 HZ
+C. PUEDE GENERAR ALTERACIONES EN PIEL
+d.
+ES UN EFECTO (ESTIMULACIÓN NEUROMUSCULAR) QUE PUEDE ORIGINARSE CON ENERGÍA ALTERNA CON
+FRECUENCIAS MENORES A 100000 HZ
+
+[m03-t19-b022 | IMAGEN 21]
+CUÁL ES LA IMPORTANCIA DE UTILIZAR UN VOLTAJE ADECUADO?
+a.
+EVITAR EL EFECTO FARÁDICO
+b.
+CONSERVAR LA CALIDAD DE LA MUESTRA PARA SU POSTERIOR LECTURA POR PATÓLOGOS
+C.
+EVITAR DAÑOS TÉRMICOS EN LA PIEL DEL PACIENTE
+d.
+EVITAR COMBUSTIÓN DE GASES INTESTINALES

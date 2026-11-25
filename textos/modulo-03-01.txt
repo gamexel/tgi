@@ -1,0 +1,366 @@
+# m03-t01 Virus HPV: Biología, patogenia y epidemiología
+
+[m03-t01-b001 | IMAGEN 1]
+Virus papiloma humano (HPV)
+· Familia Papilomaviridae
+· Tropismo epitelial: infecta piel y mucosas
+Virus HPV: Biología, patogenia y epidemiología.
+Dr Jorge Basiletti
+100 nm
+Cápside proteica,
+Genoma: ADN circular
+sin envoltura
+(8.000 pb)
+(Adaptado de Burd EM. Clin Microbiol Rev 2003; 16:1-17. )
+
+[m03-t01-b002 | IMAGEN 2]
+No todos los tipos de HPV
+son igualmente oncogénicos
+Tracto anogenital: 40 tipos virales
+HPVs de Bajo riesgo: 6, 11, 40, 42, 43, 44, 54, 61,
+70, 72, 81
+HPVs de Alto riesgo: 16, 18, 31, 33, 35, 39, 45, 51,
+52, 56, 58 y 59
+HPVs de Posible/Probable : 26, 53, 66, 68, 73, 82
+(Muñoz et al, Vaccine 2006; Bouvard V et al. Lancet Oncol 2009)
+Los VPH-AR tiene mayor tendencia a persistir
+
+[m03-t01-b003 | IMAGEN 3]
+Ciclo de vida del HPV en el epitelio
+Epitelio
+Las partículas del
+virus se ensamblan y
+Capa
+el virus se libera.
+escamosa
+INFECCION
+madura
+PRODUCTIVA
+Capa
+El virus utiliza
+escamosa
+células del
+hospedador para
+replicar el
+Células
+ADN viral y
+parabasales
+expresar las
+proteínas
+codificadas
+Células basales
+EI HPV infecta la
+capa basal
+Membrana basal
+Epitelio
+Epitelio
+Normal
+Infectado
+
+[m03-t01-b004 | IMAGEN 4]
+Ciclo de la infección por HPV en el epitelio.
+Potencial oncogénico viral
+Descamación
+A
+B
+Córneo
+Infección
+Granuloso
+Ensamblaje de la cápside
+Estratos
+Espinoso
+Replicación vegetativa
+Carcinoma
+del virus
+(Diferenciación celular anormal)
+Basal
+DNA viral episomal
+Formación de la verruga
+o condiloma
+Integración viral
+Celulas epiteliales germinales
+Iniciadores: Carcinógenos
+Transformación benigna
+Otros factores
+de queratinocitos germinales
+
+[m03-t01-b005 | IMAGEN 5]
+Tropismo epitelial
+- Piel
+Verrugas
+Epidermodisplasia verruciforme (EV)
+Cáncer cutáneo no melanoma (CCNM)
+- Mucosa
+Condilomas anogenitales
+Lesiones preneoplásicas
+Cáncer anogenital
+
+[m03-t01-b006 | IMAGEN 6]
+Historia natural de la infección por HPV
+y el desarrollo del cáncer cervical
+Infección transitoria
+Infección persistente
+Infección
+Progresión
+Invasión
+Cérvix normal
+Cérvix
+Lesión
+infectado
+Precancerosa
+Cáncer
+Eliminación
+Regresión (HSIL ó CIN 2/3)
+
+[m03-t01-b007 | IMAGEN 7]
+Tropismo epitelial:
+La unión escamo-columnar
+blanco preferido del HPV
+Una subpoblación de células
+epiteliales de la unión EC
+Callanian
+Trompas de Falopio
+estaría involucrada en la
+carcinogenesis inducida por
+HPV (Herfs y col; PNAS, 2012)
+nvaru
+Ovario
+Womb
+Matriz
+Endocervix
+Útero
+Vagina
+Vagina
+Cuello uterino
+Tha tranefarmation zana
+La zona de transformación
+Ectocervix
+Unión escamo-columnar
+Epitelio escamoso
+Epitelio columnar
+Unión escamo-columnar
+
+[m03-t01-b008 | IMAGEN 8]
+Importancia de los cofactores en el
+desarrollo de enfermedad asociada a HPV
+- Alta paridad: El riesgo relativo (RR) de cáncer de cuello uterino invasivo I con el número
+de embarazos a término y la disminución de la edad del primer embarazo a término.
+Mantenimiento de la zona de transformación
+1 Exposición al HPV
+en el exocervix durante muchos años
+- Tabaquismo: Fumadores actuales riesgo
+M
+de cáncer de cuello uterino comparado con
+los que nunca fumaron -> Asociado a la cantidad de cigarrillos fumados por día (+ de 15) y no al
+tiempo de fumador.
+Reducción de la respuesta inmunológica, efectos relacionados con el metabolismo de las
+hormonas femeninas y daño genético directo causado por carcinogenos relacionados con el
+tabaco
+- Anticonceptivos hormonales: Riesgo de cáncer de cuello uterino invasivo con la 1
+duración del uso de anticonceptivos orales -> A los 10 años duplica riesgo
+Estrógenos o progestágenos
+Mejoran la expresión de genes del
+HPV en el cuello uterino
+
+[m03-t01-b009 | IMAGEN 9]
+Importancia de los cofactores en el
+desarrollo de enfermedad asociada a HPV
+- Otros agentes infecciosos de transmisión sexual (ITS):
+- HSV 2: 11 Riesgo de cáncer cervical escamoso y adenocarcinoma en mujeres HPV + y Ac
+anti HSV2
+- CT: 1 Riesgo de cáncer cervical escamoso en mujeres HPV + y Ac anti CT
+Respuesta inflamatoria
+Generación de radicales libres e
+inestabilidad genética
+- HIV: 1 Riesgo de cáncer cervical sobre todo con recuentos bajos de CD4 -> Asociacion a
+inmunosupresión
+- Factores nutricionales: Evidencia disponible aún no es convincente -> cierto apoyo a
+la hipótesis de que los nutrientes antioxidantes pueden desempeñar un papel protector
+
+[m03-t01-b010 | IMAGEN 10]
+Importancia de los cofactores en el
+desarrollo de enfermedad asociada a HPV
+Microbioma cervicovaginal: Diversos estudios demuestran que las características
+el microbioma cervicovaginal están asociadas con la progresión de la infección por HPV
+- Lactobacillus iners: Efecto protector
+1 Capacidad del sistema
+Motilidad celular bacteriana
+(flagelos)
+inmunológico innato para eliminar
+una infección activa por HP
+Virus HPV: Biología, pa
+Dr Jorge Basiletti
+- Gardnerella: 1 Riesgo para el desarrollo y progresión de la infección por HPV
+Capacidad inmunosupresor en
+la región cervicovaginal
+Estado polimicrobiano
+(Biofilms)
+Persistencia y progresión viral
+
+[m03-t01-b011 | IMAGEN 11]
+Potencial Oncogénico de los HPV
+100% cáncer de cérvix
+Presencia de HPV
+(> 70% HPV tipos 16 y 18)
+HPV: FACTOR NECESARIO
+PARA EL CANCER DE CERVIX
+
+[m03-t01-b012 | IMAGEN 12]
+ESTADO FÍSICO DEL DNA VIRAL:
+Su efecto en la carcinogénesis
+Coxtrol Q
+E6
+E7
+8000/0
+7000
+1000
+Poli-A (tardios)
+E8
+L1
+VPH
+Cromosoma celular
+6000
+2000
+E1
+Integración
+E2
+E2
+5000
+3000
+Poli-A (tempranos)
+4000
+L2
+Genoma viral
+integrado
+E4
+E5
+Genoma viral episomal
+Desestabilización
+Ruptura de E2
+del genoma
+celular
+Descontrol de
+la expresión
+E6 E7
+
+[m03-t01-b013 | IMAGEN 13]
+En resumen:
+Como consecuencia de las
+interacciones de E6 y E7 de los
+HPVs de alto riesgo oncogénicos
+con las proteinas celulares
+Las células proliferan más
+y mueren menos
+
+[m03-t01-b014 | IMAGEN 14]
+Prevalencia de infección cervical por HPV, de lesiones
+precancerosas y cáncer vs. edad.
+Persistencia viral
+y progresión
+Cervix
+Cervix infectado -
+Lesión
+normal
+con VPH
+precancerosa
+Cáncer
+25% -
+Clarificación
+Regresión
+Invasión
+Amplia distribución: >70% de los
+individuos tendrán contacto con el VPH
+durante su vida sexual
+Infección por VPH
+Lesiones precancerosas
+Cáncer
+15
+30
+45
+Edad
+(Schiffman M. et al. New England J. Medicine, 2005)
+
+[m03-t01-b015 | IMAGEN 15]
+CONCLUSIONES
+· Todo cáncer de cérvix es precedido por una infección persistente con tipos
+de VPH de alto riesgo oncogénico. Mujeres con HSIL están en riesgo de
+desarrollar cáncer cervical
+" El comportamiento biológico de los VPHs de alto y bajo riesgo es
+DIFERENTE: VPH de alto riesgo => > tendencia a PERSISTIR
+· VPH -> amplia distribución: >70% de mujeres tendrán contacto durante su
+vida sexual
+· Infección TRANSITORIA (80-90%): autolimitada, SIN secuelas
+oncopatogénicas
+· Infección PERSISTENTE (10-20%): condición previa para lesiones
+preneoplásicas
+
+[m03-t01-b016 | IMAGEN 16]
+CONCLUSIONES
+· Si bien la posibilidad de control/eliminación de la infección o el
+establecimiento de la persistencia viral y transformación maligna están
+asociados en gran medida a los factores virales, también deben tenerse en
+cuenta los cofactores vinculados al hospedador como : La respuesta inmune,
+el tabaquismo, el uso prolongado de anticonceptivos orales, la presencia de
+otras ITS y mas recientemente la influencia del microbioma cervicovaginal
+" Los HPV poseen oncogenes virales (E6 y E7) -> capacidad transformante
+· En las lesiones preneoplásicas severas y los cánceres, el ADN viral se
+encuentra integrado al genoma de la célula, con la consiguiente ruptura del
+gen E2.
+" Las oncoproteínas virales E6 y E7 de los HPVs de alto riesgo interfieren con
+proteínas celulares supresoras tumorales: E6 con p53 y E7 con pRB,
+generando inestabilidad genética sostenida que induciría la conversión
+maligna.
+· Las proteínas E6 y E7 son multifuncionales; pueden unirse a diversas
+proteínas celulares (además de p53 y pRB), afectando a los procesos de
+reparación del ADN celular.
+
+[m03-t01-b017 | NOTA]
+El 90% de las infecciones son transitorias. El sistema inmune se encarga de eliminar la infeccion.
+
+[m03-t01-b018 | NOTA]
+Solo un 2-5 % llegan aa ser un ca invasor
+
+[m03-t01-b019 | NOTA]
+PORQUE ES UNA MONOCAPA DE CELULAS
+
+[m03-t01-b020 | NOTA]
+EXAMEN!!!
+
+[m03-t01-b021 | IMAGEN 17]
+Los virus Papiloma Humano (HPV) se clasifican en:
+a. serotipos
+b. ninguna de las anteriores
+C. proteotipos
+d. genotipos
+
+[m03-t01-b022 | IMAGEN 18]
+El porcentaje de detección de infecciones genitales por HPV en la población general es sumamente elevado;
+la mayoría de estos casos desarrollarán:
+a. Infecciones transitorias.
+b. Infecciones persistentes.
+c. Carcinoma invasor.
+d. Ninguna de las opciones anteriores.
+
+[m03-t01-b023 | IMAGEN 19]
+-Está demostrado que el riesgo de progresión maligna de las lesiones anogenitales inducidas por HPV es
+significativamente mayor en:
+a. Las infecciones transitorias con virus de alto riesgo.
+b. Las infecciones persistentes con virus de bajo riesgo.
+c. Cualquier tipo de infección con virus de alto riesgo.
+d. Las infecciones persistentes con virus de alto riesgo.
+
+[m03-t01-b024 | IMAGEN 20]
+Está demostrado que el riesgo de progresión maligna de las lesiones está asociado, además de a la infección
+viral, a:
+a. La proteína p53 celular.
+b. El estado episomal del genoma viral.
+c. La expresión del gen E5.
+d. Los cofactores del hospedador como tabaquismo, uso de anticonceptivos orales, microbioma
+cervicovaginal entre otros.
+
+[m03-t01-b025 | IMAGEN 21]
+Los genes de HPV responsables de su capacidad transformante son:
+a. L1 y L2.
+b. Todos los genes por igual.
+c. E6 y E7.
+d. Carece de genes transformantes

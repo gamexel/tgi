@@ -1,0 +1,406 @@
+# m02-t09 Dx en consulta
+
+[m02-t09-b001 | IMAGEN 1]
+Introducción
+· Las infecciones recurrentes se han incrementado debido al sobrediagnóstico
+y sobretratamiento.
+· La patogénesis de las recurrencias se relaciona con una caída en el
+predominio de lactobacilos y el crecimiento de patógenos oportunistas.
+· Existen paradigmas que hay que romper, comenzando desde los
+profesionales de salud hacia la comunidad
+O
+"Toda secreción vaginal es patológica "
+O
+"Todo mal olor genital es infeccion vaginal "
+
+[m02-t09-b002 | IMAGEN 2]
+FLUJO VAGINAL
+1. Células epiteliales (barrera física): contenido glucógeno (sustrato lactobacilo
+producción de mucina.
+2. Lactobacilos:
+a. produccion acido lactico: respuesta antiinflamatoria (antagonista R IL-1RA que inhibe la
+producción de IL-6, IL-8, TNF alfa, MIP3 alfa.
+i.
+Isómero D(-): Responsable del ph ≤ 4.5 -> previene el crecimiento de otras bacterias
+ii.
+Isómero L(+)
+b. producción de bacteriocinas
+c. producción de H202: aumentan la permeabilidad de las bacterias patógenas
+3. Trasudado arterial
+B
+4. Moco cervical
+
+[m02-t09-b003 | IMAGEN 3]
+SÍNDROME DE FLUJO VAGINAL
+INFECCIOSAS
+NO INFECCIOSAS
+VAGINOSIS BACTERIANA
+ATROFIA VULOVAGINAL
+VULVOVAGINITIS POR CANDIDA
+CUERPO EXTRAÑO
+TRICOMONAS
+IRRITANTES O ALERGENOS
+VAGINITIS AERÓBICA
+ENFERMEDADES AUTOINMUNES
+CITOLISIS POR LACTOBACILOS
+VAGINITIS DESCAMATIVA
+INFECCIÓN POR CLAMIDIA O
+GONOCOCO
+
+[m02-t09-b004 | IMAGEN 4]
+DIAGNÓSTICO
+Vaginitis sintomática
+Exploración compatible
+1. Anamnesis
+2. Vulvoscopia
+3. Especuloscopia
+Pruebas
+complementarias
+4. Test de ph
+5. Test de aminas (hidróxido de potasio
+pH
+Microscopía
+Test aminas
+al 10%)
+7
+Episodios de
+6. Examen microscópico del montaje
+repetición con evidencia previa
+L
+en fresco
+7. Tinción de GRAM
+Cultivo
+8. Cultivos
+ALGORITMO DIAGNÓSTICO DE LAS
+9. Test enzimáticos
+INFECCIONES VAGINALES. Sobel
+10. Test moleculares
+1998.
+
+[m02-t09-b005 | IMAGEN 5]
+International Society for the Study
+of Vulvovaginal Disease
+Recommendations for the Diagnosis
+and Treatment of Vaginitis
+Editors:
+Pedro Vieira-Baptista, Colleen K. Stockdale, Jack Sobel
+DIAGNOSTIC TOOLS
+2
+(alphabetical order)
+Ana Rita Silva
+Carlos Sousa
+ISSVD
+®
+Pedro Vieira-Baptista
+1970
+WWW.ISSVD.ORG
+Global Thinking for
+Women's Wellness™
+March 2023
+
+[m02-t09-b006 | IMAGEN 6]
+Test de ph
+3 NutraBlast®
+FEMININE PH
+TEST STRIPS
+- NORMAL
+ABNORMAL
+· El ph vaginal varía entre 3.8 y 4.5
+3.0
+3.5 4.0 4.5
+5.0 5.5
+· Con un ph normal NO se puede asumir la ausencia de
+AINTIMATE
+TESTING ONLY
+THIS PRODUCT IS NOT INTENDED TO TEST LIENOS LIKE
+SALIVA GA ANY OTHER. IT IS SPECIE
+PECIFICALLY BESTEHENKATRINE.
+INTIMATE PH LEVEL" PLEASE TORNAR MENEMED FOR TESTING
+L'.PLEASE FOLLOW THE INSTRUCTIONS.
+V HIGH QUALITY
+V EASY TO USE
+RESULTS IN SECONDS V PROFESSIONAL GRADE
+una vaginitis.
+· La evaluación del pH vaginal no es útil en presencia de
+sangre, exposición reciente al semen o a medicación
+vaginal.
+· En mujeres posmenopáusicas que no usan tratamiento
+hormonal para la menopausia, el pH generalmente
+aumenta, lo que lo convierte en un buen predictor de
+hipoestrogenismo, pero posee un valor limitado para
+el diagnóstico de vaginitis.
+
+[m02-t09-b007 | IMAGEN 7]
+Test de ph
+· Para la medición se puede colocar directamente una tira de pH
+con un rango e intervalos adecuados, unos segundos, en
+contacto con la pared vaginal o con el flujo recogido en la hoja
+del espéculo (sin humedecer), evitando las secreciones
+cervicales.
+· Alternativamente, la descarga puede ser recogida con una
+espátula o hisopo sin humedecer y puesto en contacto con la tira
+de pH.
+· Otra posible estrategia puede ser aplicar la muestra en el
+portaobjetos de microscopia y comprobar el pH en el
+portaobjetos, antes de la aplicación de solución salina.
+· La lectura debe realizarse dentro de los 5 minutos siguientes a la
+recopilación
+
+[m02-t09-b008 | IMAGEN 8]
+Interpretación del pH
+PH normal <4.5
+pH elevado >4.5
+CANDIDIASIS
+VAGINOSIS BACTERIANA
+VAGINOSIS CITOLÍTICA
+VAGINITIS AERÓBICA
+LACTOBACILOSIS
+VAGINITIS INFLAMATORIA DESCAMATIVA
+TRICOMONIASIS
+VAGINITIS ATRÓFICA
+CERVICITIS POR CHLAMYDIA TRACHOMATIS O
+NEISSERIA GONORRHOEAE
+CANDIDIASIS (-)
+Test de pH aislado Sensibilidad 79,0% [IC 95% 72,08-
+84,95%]), Especificidad 56,4% [IC 95% 52,22-60,43] , VPP
+34,2% [31,53-36,97], respectivamente)
+
+[m02-t09-b009 | IMAGEN 9]
+Test de aminas
+· Se recolecta una muestra de flujo vaginal con hisopo, con gotero
+se coloca una gota de hidróxido de potasio (KOH) al 10%.
+· Se considera positivo cuando se produce un olor a pescado
+· La alcalinización de la descarga conduce a la liberación de aminas
+volátiles, que se perciben como un olor a podrido o a pescado.
+· La prueba POSITIVA es altamente sugestiva de VB y/o
+tricomoniasis
+· Especificidad >90%, baja sensibilidad (alrededor del 40%)
+Albor
+Hidróxido de
+potasio
+10%
+
+[m02-t09-b010 | IMAGEN 10]
+Interpretación del Test de aminas negativo
+pH elevado >4.5
+VAGINOSIS BACTERIANA
+VAGINITIS AERÓBICA ( ¿? )
+VAGINITIS INFLAMATORIA DESCAMATIVA ( ¿? )
+TRICOMONIASIS
+VAGINITIS ATRÓFICA
+CERVICITIS POR CHLAMYDIA TRACHOMATIS O
+NEISSERIA GONORRHOEAE
+CANDIDIASIS (-)
+
+[m02-t09-b011 | IMAGEN 11]
+Microscopía de montaje en fresco
+· Fuerte recomendación de su uso en el consultorio por la ISSVD (WMM)
+· Se debe considerar una habilidad básica para tocoginecólogos y
+programas de residencias
+· No se recomienda su uso en pacientes ASINTOMÁTICOS
+· Estándar de oro para VA y vaginosis citolítica
+· Excelente desempeño para VB, más variable para candidiasis y
+tricomoniasis
+· Se recomienda uso de microscopio con fase de contraste con el
+objetivo 40x.
+· La evaluación del portaobjetos debe ser con el aumento 400x
+· La secreción se puede recolectar con cepillo endocervical, espátula de
+plástico o hisopo de dacron.
+
+[m02-t09-b012 | IMAGEN 12]
+A- Normal
+B- Bacterial vaginosis
+C- Candidiasis
+D- Trichomoniasis
+E
+E- Cytolytic vaginosis
+F- Leptothrix
+G- Desquamative inflammatory vaginitis
+H
+(severe aerobic vaginitis)
+H- Vaginal atrophy
+Figure 2.2 Wet mount microscopy (400x, phase constrast).
+
+[m02-t09-b013 | IMAGEN 13]
+TABLE 2.1 Wet mount microscopy characteristics of different conditions.
+AV - aerobic vaginitis, BV - bacterial vaginosis, DIV - desquamative inflammatory vaginitis,
+NAAT - nucleic acid amplification tests
+Lactobacilli
+Background
+microbiota
+Inflammation
+Epithelial cells
+Other/
+comments
+Usually nor-
+Presence of
+mal, but may
+According
+blastospores
+Candidiasis
+coexist with
+Usually lactoba-
+Absent or mild/
+to expected
+any type of
+cilli dominance
+moderate
+for hormonal
+Sometimes
+background
+status
+mycelium pres-
+microbiota
+ent (suggestive of
+C. albicans)
+Granular
+A significant
+Bacterial
+Absent or
+microbiota
+Curved motile rods
+Absent
+portion covered
+"Partial BV" is
+vaginosis
+scarce
+may be present
+by bacteria
+possible
+(Mobiluncus spp.)
+(clue cells)
+Presence of
+Usually present
+motile proto-
+Usually
+Granular
+(moderate/
+Parabasal and
+zoans (absence
+Trichomoniasis
+absent or
+microbiota (BV)
+severe)
+does not exclude
+often present
+"Toxic" (swollen)
+basal cells
+scarce
+the hypothesis)
+leukocytes often
+often present
+Erythrocytes
+present
+sometimes
+present
+
+[m02-t09-b014 | IMAGEN 14]
+Variable de-
+Cytolytic
+grees of cellular
+Evaluate
+Abundant
+Only lactobacilli
+Absent
+lysis (bare nuclei
+preferably in the
+vaginosis
+and cytoplasm
+2nd phase of the
+debris)
+cycle
+Evaluation
+preferably in the
+Presence of
+2nd phase of the
+elongated
+cycle
+lactobacilli
+Can coexist with
+Lactobacillosis
+(8-15x the
+any other type
+/ leptothtrix
+normal size)
+Variable
+Variable
+Variable
+of microbiota
+May coexist
+Lactobacillosis
+with normal
+used sometimes
+lactobacilli
+to describe
+increased
+lactobacilli,
+without cytolysis
+Aerobic
+Dominance
+Moderate/severe
+vaginitis/
+Trichomoniasis
+desquamative
+Absent or
+of cocci
+inflammation
+Parabasal and
+(sometimes in
+basal cells
+should be
+inflammatory
+scarce
+"Toxic"
+chains) or small
+leukocytes often
+often present
+excluded in
+vaginitis
+rods
+present
+severe forms
+
+[m02-t09-b015 | IMAGEN 15]
+DIAGNÓSTICO
+MICROBIOTA
+VAGINOSIS
+TRICHOMONIASIS
+CANDIDIASIS
+HABITUAL
+BACTERIANA
+PH VAGINAL
+3,8-4,2
+> 4,5
+> 4,5
+<4,5 (usualmente)
+FLUJO
+Blanquecino o
+Homogéneo o
+Amarillo verdoso,
+Blanquecino como
+transparente (con
+blanquecino o
+espumoso,
+^leche cortada^
+flóculos)
+abundante
+abundante
+PBA. AMINAS
+Negativa
+Positiva (olor a
+Puede ser + (a
+Negativa
+pescado)
+veces fecaloide)
+MO/RTA
+Lactobacilos, Cél
+Clue Cells/
+Visualización del
+Levaduras, Hifas y
+INFLAMATORIA
+epiteliales
+NEGATIVA
+parásito/ POSITIVA
+pseudohifas/+ 0-
+intactas)/
+NEGATIVA

@@ -1,0 +1,210 @@
+# m03-t07 Clasificacion colposcopica IFCPC Rio 2011
+
+[m03-t07-b001 | NOTA]
+EVALUACION GENERAL
+
+[m03-t07-b002 | IMAGEN 1]
+...
+Adecuada/inadecuada
+i
+Clasificacion colposcopica IFCPC Rio 2011
+Milagros Rodriguez Brusco
+
+[m03-t07-b003 | NOTA]
+Adecuada= realizable (QUE SE CUMPLAN LAS CONDICIONES GENERALES PARA LLEVAR A CABO UNA COLPOSOCOPIA)
+
+[m03-t07-b004 | NOTA]
+En estos ejemplos es inadecuada por exceso de sangrado, presencia de ulcera e infeccion
+
+[m03-t07-b005 | NOTA]
+*Una Z TIPO 3 NO IMPLICA QUE NO SE PUEDA REALIZAR UNA COLPOSCOPIA (O QUE SEA INDACUADA, FOTO DE ABAJO)
+
+[m03-t07-b006 | IMAGEN 2]
+Evaluación general
+Visibilidad
+de la UEC
+
+[m03-t07-b007 | NOTA]
+Foto de arriba la UEC es totalmente visible
+
+[m03-t07-b008 | NOTA]
+Foto abajo no se visualiza
+
+[m03-t07-b009 | NOTA]
+Tambien puede ser parcialmene visible
+
+[m03-t07-b010 | IMAGEN 3]
+Zona de transformación
+...
+
+[m03-t07-b011 | NOTA]
+Los tipos de ZT se evaluan luego de la aplicacion de acido acetico. La ZT esta compuesta por vasos, glandulas abiertas y cerradas, que se ven mejor luego de la aplicacion de ac acetico.
+
+[m03-t07-b012 | NOTA]
+La UEC es el borde entre el epitelio escamoso y el epitelio glandular y es un prerequisito para clasificar la ZT
+
+[m03-t07-b013 | NOTA]
+HALLAZGOS COLPOSCOPICOS NORMALES
+
+[m03-t07-b014 | IMAGEN 4]
+EPITELIO ESCAMOSO ORIGINAL
+· MADURO
+· ATROFICO
+
+[m03-t07-b015 | IMAGEN 5]
+Clasificacion colposcopica IFCPC Rio 2011. Dra
+Milagros Rodriguez Brusco
+EPITELIO COLUMNAR
+· ECTOPIA
+
+[m03-t07-b016 | IMAGEN 6]
+EPITELIO ESCAMOSO METAPLASICO
+· Quistes de Naboth
+· Aperturas glandulares y/o criptas glandulare
+
+[m03-t07-b017 | IMAGEN 7]
+(Imagen sin texto reconocido)
+
+[m03-t07-b018 | IMAGEN 8]
+· DECIDUOSIS EN EL EMBARAZO
+
+[m03-t07-b019 | NOTA]
+HALLAZGOS COLPOCOPICOS ANORMALES
+
+[m03-t07-b020 | IMAGEN 9]
+Principios generales
+· UBICACIÓN, dentro o fuera de la ZT (OR 8.6) o según las agujas del
+reloj
+· TAMAÑO de la lesión (OR 3.6), numero de cuadrantes, en
+porcentajes
+
+[m03-t07-b021 | IMAGEN 10]
+GRADO 1 (G1)
+EPITELIO
+ACETOBLANCO
+DELGADO
+· BORDE IRREGULAR
+· MOSAICO FINO
+· PUNTILLADO FINO
+CameraFi 2
+
+[m03-t07-b022 | IMAGEN 11]
+(Imagen sin texto reconocido)
+
+[m03-t07-b023 | IMAGEN 12]
+GRADO 2 (G2)
+· EPITELIO ACETOBLANCO
+DENSO, de APARICION
+RAPIDA
+· ORIFIOS GLANDULARES
+CON BORDES
+ENGROSADOS
+ACameraF
+O
+· MOSAICO GRUESO
+· PUNTILLADO GRUESO
+· SIGNO DEL BORDE
+INTERNO
+· SIGNO DE LA CRESTA O
+SOBREELVADO
+
+[m03-t07-b024 | IMAGEN 13]
+NO ESPECIFICOS
+· LEUCOPLASIA
+· EROSIÓN
+· SOLUCIÓN de LUGOL
+
+[m03-t07-b025 | IMAGEN 14]
+SOSPECHA DE INVASIÓN
+· VASOS ATIPICOS
+· VASOS
+DELGADOS,
+SUPERFICIE
+IRREGULAR,
+LESION
+EXOFÍTICA,
+NECROSIS,
+ULCERACIÒN,
+TUMORACIÓN
+NODULAR
+
+[m03-t07-b026 | IMAGEN 15]
+HALLAZGOS VARIOS
+· ZONA DE TRANSFORMACIÓN
+CONGENITA
+· CONDILOMA
+· POLIPO
+· ESTENOSIS
+· ANOMALIAS CONGENITAS
+· ANOMALIAS POST
+TRATAMIENTO
+· ENDOMETRIOSIS
+
+[m03-t07-b027 | IMAGEN 16]
+APENDICE IFCPC 2011
+· TIPOS DE ESCISION 1, 2 , 3
+· LARGO: distancia del margen
+distal/externo al margen proximal
+/interno
+· GROSOR: Distancia del margen
+estromal a la superficie de la
+muestra extirpada
+Length
+· CIRCUNSFERENCIA(opcional):
+Thickness
+perímetro de la muestra
+Circumference
+extirpada.
+
+[m03-t07-b028 | NOTA]
+PARA VAGINA…
+
+[m03-t07-b029 | IMAGEN 17]
+Evaluación general
+Adecuada/inadecuada a causa de (por ej .: inflamación, sangrado,
+cicatriz)
+Zona de transformación
+Hallazgos
+Epitelio escamoso:
+colposcópicos
+Maduro
+.
+normales
+Atrófico
+·
+Hallazgos
+Principios
+Tercio superior/dos tercios inferiores,
+colposcópicos
+generales
+Anterior/posterior/lateral (derecho o
+anormales
+izquierdo)
+Grado 1
+Epitelio acetoblanco delgado
+(Menor)
+Puntillado fino
+Mosaico fino
+Grado 2
+Epitelio acetoblanco denso,
+(Mayor)
+Puntillado grueso
+Mosaico grueso
+Sospecha de
+Vasos atípicos
+invasión
+Signos adicionales: Vasos delgados,
+superficie irregular, lesión exofítica,
+necrosis, ulceración (necrótica),
+tumoración nodular
+No específico
+Epitelio columnar (adenosis)
+Teñido de la lesión con solución de Lugol
+(Test de Schiller):
+Positivo/negativo,
+Leucoplasia
+Hallazgos varios
+Erosión (traumática), condiloma, pólipo,
+quiste, endometriosis, inflamación,
+estenosis vaginal,
+Zona de transformación congénita,

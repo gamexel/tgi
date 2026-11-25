@@ -1,0 +1,445 @@
+# m05-t03 CA DE CUELLO AVANZADO
+
+[m05-t03-b001 | IMAGEN 1]
+Carcinoma de cuello uterino - Datos
+· Es el cuarto tipo de cáncer más frecuente en las mujeres de todo el mundo, con una
+incidencia aproximada de 660 000 nuevos casos y 350 000 muertes en 2022.
+· Las tasas más elevadas de incidencia y mortalidad se dan en los países de ingreso
+bajo y mediano.
+· El cáncer de cuello uterino tiene su origen en una infección persistente por el VPH.
+
+[m05-t03-b002 | IMAGEN 2]
+Carcinoma de cuello uterino - Datos
+· La vacunación profiláctica contra el VPH y el cribado y tratamiento de las lesiones
+precancerosas son estrategias eficaces para su prevención.
+· El cáncer de cuello uterino puede curarse si se diagnostica en un estadio temprano y
+se trata con prontitud.
+· Países de todo el mundo están trabajando para acelerar la eliminación del cáncer de
+cuello uterino en las próximas décadas, LA ESTRATEGIA DE LA OMS.
+
+[m05-t03-b003 | IMAGEN 3]
+La Estrategia Mundial de la OMS define la eliminación como la reducción a una tasa
+de incidencia umbral de 4/ 100.000 mujeres-año.
+3 metas para el año 2030
+- inmunización del 90% de las niñas con una vacuna contra el VPH antes de
+cumplir los 15 años;
+- cribado del 70% de las mujeres mediante una prueba de alta precisión antes
+de los 35 años y de nuevo antes de los 45 años; y
+- tratamiento del 90% de las mujeres con lesiones precancerosas o cáncer
+cervicouterino.
+
+[m05-t03-b004 | IMAGEN 4]
+Carcinoma de cuello uterino - Argentina
+· Incidencia: 4696
+· Mortalidad: 2222 mujeres. Tasa 9,4/100.000 mujeres
+Absolute numbers, Incidence, Females, in 2022
+Cervix uteri
+Latin America and the Caribbean
+Others
+15 953 (25.3%)
+Brazi
+18 715 (29.7%)
+Venezuela
+3 965 (6.3%)
+Colombia
+4 570 (7.2%)
+Mexico
+10 348 (16,4%)
+Argentina
+4 696 (7,4%)
+Peru
+4 809 (7.6%)
+Total : 63 056
+Cancer TODAY | IARC - https://gco.iarc.who.int/today
+International Agency
+for Research on Cancer
+Data version : Globocan 2022 (version 1.1)
+World Health
+All Rights Reserved 2024
+Organization
+
+[m05-t03-b005 | IMAGEN 5]
+Carcinoma de cuello uterino avanzado- Diagnóstico
+Síntoma más frecuente: ginecorragia (espontánea/ sinusorragia)
+Flujo genital
+o Acuoso sanguinolento
+Purulento
+o Sanioso
+o Fétido
+Dispareunia
+Dolor Pelviano
+
+[m05-t03-b006 | IMAGEN 6]
+Carcinoma de cuello uterino avanzado- Diagnóstico
+· Síntomas urinarios
+· Venosos y linfáticos
+o Polaquiuria
+Cianosis
+o Hematuria
+Edema de MMII, vulva
+o Piuria
+o Dolor neurálgico por compresión
+Fístulas vesicovaginales
+nerviosa
+o Uronefrosis
+= Síntomas rectales
+· Síntomas generales
+Proctorragia
+Anemia
+o Tenesmo
+o Anorexia
+Fístula rectovaginal
+Caquexia
+· EVALUACION CLINICA:
+· Examen físico
+· Biopsia
+
+[m05-t03-b007 | IMAGEN 7]
+Carcinoma de cuello uterino avanzado- Diagnóstico
+· ESTUDIOS COMPLEMENTARIOS:
+40,54 mm
+· RNM pelvis
+38,39 mm
+· PET - TC
+· Cistoscopía
+15.0 SUV
+· Rectoscopía
+· Tomografía
+· Urograma excretor
+6 d
+
+[m05-t03-b008 | IMAGEN 8]
+Carcinoma de cuello uterino - Estadificación
+Stage
+Description
+The carcinoma is strictly confined to the cervix (extension to the uterine corpus should be disregarded)
+-
+IA
+Invasive carcinoma that can be diagnosed only by microscopy, with maximum depth of invasion <5 mmª
+IA1
+Measured stromal invasion <3 mm in depth
+IA2
+Measured stromal invasion ≥3 mm and <5 mm in depth
+IB
+Invasive carcinoma with measured deepest invasion ≥5 mm (greater than Stage IA), lesion limited to the cervix uterib
+IB1
+Invasive carcinoma ≥5 mm depth of stromal invasion, and <2 cm in greatest dimension
+IB2
+Invasive carcinoma ≥2 cm and <4 cm in greatest dimension
+IB3
+Invasive carcinoma ≥4 cm in greatest dimension
+The carcinoma invades beyond the uterus, but has not extended onto the lower third of the vagina or to the pelvic wall
+=
+IIA
+Involvement limited to the upper two-thirds of the vagina without parametrial involvement
+IIA1
+Invasive carcinoma <4 cm in greatest dimension
+IIA2
+Invasive carcinoma ≥4 cm in greatest dimension
+IIB
+With parametrial involvement but not up to the pelvic wall
+III
+The carcinoma involves the lower third of the vagina and/or extends to the pelvic wall and/or causes hydronephrosis or nonfunction-
+ing kidney and/or involves pelvic and/or para-aortic lymph nodesc
+IIIA
+The carcinoma involves the lower third of the vagina, with no extension to the pelvic wall
+IIIB
+Extension to the pelvic wall and/or hydronephrosis or nonfunctioning kidney (unless known to be due to another cause)
+IIIC
+Involvement of pelvic and/or para-aortic lymph nodes, irrespective of tumor size and extent (with r and p notations)c
+IIIC1
+Pelvic lymph node metastasis only
+IIIC2
+Para-aortic lymph node metastasis
+IV
+The carcinoma has extended beyond the true pelvis or has involved (biopsy proven) the mucosa of the bladder or rectum. (A bullous
+edema, as such, does not permit a case to be allotted to Stage IV)
+IVA
+Spread to adjacent pelvic organs
+IVB
+Spread to distant organs
+
+[m05-t03-b009 | IMAGEN 9]
+IB3
+Carcinoma invasor > = a 4 cm de dimensión máxima
+Carcinoma que invade más allá del útero, pero no se extiende a
+=
+1/3 inferior de vagina ni pared pelviana
+IIA
+Invasión hasta 2/3 superiores de vagina, sin compromiso
+parametrial
+IIA1
+Carcinoma invasor < a 4 cm de dimensión máxima
+IIA2
+Carcinoma invasor >= a 4 cm de dimensión máxima
+IIB
+Invasión parametrial, sin comprometer pared pelviana
+III
+Carcinoma que invade 1/3 inferior de vagina y/o se extiende
+hasta pared pelviana y /o causa hidronefrosis o riñón no
+funcionante y/o metástasis en ganglios pelvianos y/o
+lumboaórticos
+IIIA
+Carcinoma que invade 1/3 inferior de vagina, sin compromiso
+de pared pelviana
+IIIB
+Compromiso tumoral hasta pared pelviana y/o hidronefrosis o
+riñón no funcionante
+IIIC
+Metástasis en ganglios pelvianos y/o lumboaórticos, sin
+importar tamaño tumoral (si hallazgo patológico colocar "p", si
+es imagenológico "r". Ej: IlIC1p
+IIIC1
+Metástasis en ganglios pelvianos
+IIIC2
+Metástasis en ganglios lumboaórticos
+IV
+Carcinoma que se extiende más allá de la pelvis verdadera o
+invasión (con biopsia positiva) de mucosa vesical o rectal
+IVA
+Diseminación a órganos adyacentes
+IVB
+Diseminación a distancia
+U
+
+[m05-t03-b010 | IMAGEN 10]
+Carcinoma de cuello uterino - Tratamiento
+Estadios localmente avanzados IB3, IIA2, IIB, IIIA y IIIB
+€
+Radioterapia externa + Braquiterapia Alta tasa +
+quimioterapia concurrente. Es
+el tratamiento
+primario estándar.
+JUS
+-IIB
+Radioterapia externa + Braquiterapia exclusiva. En
+IIA-
+pacientes con imposibilidad de realizar quimioterapia
+concurrente.
+
+[m05-t03-b011 | IMAGEN 11]
+Carcinoma de cuello uterino
+Estadíos avanzados
+- Compromiso ganglionar ilíaco primitivo o lumboaórtico bajo: extensión del campo de irradiación al área
+lumboaórtica, con quimioterapia concurrente, en forma simultánea a la pelviana.
+- El compromiso ganglionar lumboaortico extenso y/o ganglionar extraabdominal se tratara con quimioterapia
+adyuvante (carboplatino-paclitaxel-bevacizumab).
+- En E IB3 y IIA2 cuando no están dadas las condiciones para garantizar un adecuado tratamiento quimiorradiante o
+radiante exclusivo. Quimioterapia neoadyuvante seguida de cirugía radical (operación de Wertheim Meigs).
+
+[m05-t03-b012 | IMAGEN 12]
+Carcinoma de cuello uterino avanzado- Estadio IV A
+- Radioterapia + quimioterapia concurrente.
+- Radioterapia exclusiva pelviana completa.
+- Exenteración pelviana en el caso de no presentar compromiso parametrial ni
+ganglionar o peritoneal, confirmado histológicamente.
+· Cirugías derivativas: pacientes con obstrucción o fístulas urinaria y/o intestinal se evaluará la posibilidad de cirugías
+derivativas.
+
+[m05-t03-b013 | NOTA]
+PARA ESTADIFICAR UN ESTADIO IVA SE DEBE TENER CISTOSCOPIA Y RECTOSCOPIA CON TOMA DE BX PARA ESTADIFICARLO ASI.
+
+[m05-t03-b014 | IMAGEN 13]
+Carcinoma de cuello uterino avanzado- Estadio IV A
+EXENTERACION PELVIANA
+- La exenteración pelviana (EP) fue descrita en 1948 por
+Brunschwig
+- Consiste en una resección radical "en-bloc" de múltiples
+órganos, asociada a una reconstrucción quirúrgica.
+
+[m05-t03-b015 | IMAGEN 14]
+Carcinoma de cuello uterino avanzado
+· Brunschwig A.
+· Anterior: vejiga, útero y vagina
+· Posterior: recto, útero y vagina
+· Total: vejiga, recto, útero y vagina
+
+[m05-t03-b016 | IMAGEN 15]
+Carcinoma de cuello uterino avanzado
+TABLE 2
+Differences among Type I (Supralevator), Type II (Infralevator),
+and Type III (with Vulvectomy) Pelvic Exenterations
+· Tipo I: Supraelevador
+Degree of resection
+Pelvic structure
+Type I
+Type II
+Type III
+· Tipo II: Infraelevador
+Viscera
+Above levator
+Below levator
+Below levator
+Levator muscles
+None
+Limited
+Complete
+Urogenital diaphragm
+None
+Limited
+Complete
+Vulvoperineal tissues
+None
+None
+Complete
+· Tipo III: Infraelevador + vulvectomía
+(tumores > 5cm y/o que infiltran 1/3
+inf
+de vagina o vulva).
+. Höckel et al: LEER (Laterally Extended
+Endopelvic Resection): músculo obturador
+interno, ileococcígeo, vasos ilíacos internos,
+plexo nervioso lumbosacro.
+OMayo
+III
+FIG. 1. Extent and level of resection of pelvic tissues of the three
+different types of pelvic exenterations: (I) supralevator, (II) infralevator.
+and (III) infralevator with vulvectomy (by permission of Mayo Foundation).
+Magrina JF. Stanh
+ope CR, Weaver AL. Pelvic exenterations: supralevator, infralevator, and with vulvectomy. Gynecol Oncol 1997;64:
+
+[m05-t03-b017 | IMAGEN 16]
+Carcinoma de cuello uterino avanzado
+CONDICIONES GENERALES DE LA PACIENTE:
+· Paciente con buen estado general tanto físico como psicológico.
+· Tumor confinado a la pelvis (estudio de metástasis a distancia).
+· Tumoración libre, sin fijación a estructuras musculoesqueléticas.
+
+[m05-t03-b018 | IMAGEN 17]
+Carcinoma de cuello uterino avanzado
+CONDICIONES GENERALES DE LA PACIENTE:
+· Pese a una cuidadosa evaluación prequirúrgica, un 30% de los pacientes serán
+sometidos a una laparotomía exploradora, desestimando la posibilidad de una
+exenteración pélvica.
+. Miller et al. (MD Anderson Cancer Center) reportaron que 111 de 394 pacientes
+(28,2%) a las que se realizó una exploración quirúrgica, se les canceló la cirugía.
+· Los motivos fueron: enfermedad peritoneal en 49 pacientes (44%); metástasis
+ganglionar en 45 (40%); fijación parametrial en 15 (13%); y afectación hepática o
+intestinal en 5 (4,5%).
+
+[m05-t03-b019 | IMAGEN 18]
+Carcinoma de cuello uterino avanzado
+EXENTERACION PELVIANA
+CONTRAINDICACIONES:
+· Evidencia de enfermedad extrapélvica.
+· Ganglios positivos.
+· Invasión parametrial hasta pared pelviana.
+· Hidronefrosis.
+· Dolor neurítico pelviano o de miembros inferiores (ciatalgia).
+TRIADA
+PROBLEMÁTICA/TERRIBLE
+· Linfedema de miembros inferiores.
+
+[m05-t03-b020 | IMAGEN 19]
+FACTORES DE MAL PRONÓSTICO
+- El deterioro de la función renal.
+- Recidiva menor de un año post tratamiento.
+- Volumen de la recurrencia mayor a 3cm.
+- Tumor no central.
+
+[m05-t03-b021 | IMAGEN 20]
+FACTORES DE MAL PRONÓSTICO
+- Presencia de 3 o más ganglios linfáticos positivos (SV 3 años del
+31% vs 62%)
+- Invasión del miometrio o de los anexos.
+- Invasión de la vejiga o del recto·
+- Hidronefrosis (SV 3 años del 13% vs 68%)
+
+[m05-t03-b022 | IMAGEN 21]
+FACTORES DE MAL PRONÓSTICO
+- Edad de la paciente mayor de 35 años.
+- La edad no es una contraindicación para la exenteración.
+- Matthews et al. comparo 63 pacientes ≥ 65 años con 363 pacientes
+más jóvenes a las que se realizó una exenteración pélvica.
+- La mortalidad operatoria fue de 11% y 8,5%, y la supervivencia a los 5
+años fue de 46% y 45%, respectivamente.
+
+[m05-t03-b023 | IMAGEN 22]
+EXENTERACION PELVIANA
+Complicaciones postoperatorias tempranas: 56% de los pacientes (sistema urinario).
+La supervivencia a 5 anos se estimo en 36%.
+La mayoría de los pacientes n = 9, (36%) fallecieron debido a su enfermedad primaria, 5 (20%)
+fallecieron debido a complicaciones postoperatorias, y 2 (8%) porque se negaron a la alimentación
+oral, se asocio depresión.
+La técnica quirúrgica meticulosa, el cuidado perioperatorio, el asesoramiento y el apoyo
+nutricional desempeñan un papel importante para realizar la EP.
+
+[m05-t03-b024 | IMAGEN 23]
+· Descartar la presencia de enfermedad metastásica:
+Mts ganglionares LAO (81%), supraclaviculares (7%),
+pulmonares (21%)
+· La combinación de la RMN y PET-TC otorga una evaluación
+precisa de:
+- Tamaño de la recurrencia
+- Invasión de los órganos vecinos vejiga, recto
+- Presencia de mts ganglionares y/o parenquimatosas a
+distancia
+H. Sardain, V. Lavoue, M. Redpath, N. Bertheuil, F. Foucher, et al .. Curative pelvic exenteration
+
+[m05-t03-b025 | IMAGEN 24]
+FACTORES PRONOSTICOS
+. Tamaño de la recurrencia: > a 5 cm: Mayor probabilidad de
+recurrencia aun con márgenes libres.
+. Tiempo libre de enfermedad : < 2 años, 2 a 5 años y > 5 años SV
+16.8%, 28% y 83.2%
+· Tipo histológico (Carcinoma escamoso peor pronóstico)
+· Mts ganglionar al inicio de la enfermedad (discutible como
+pronóstico post cx)
+
+[m05-t03-b026 | IMAGEN 25]
+FACTORES DE MAL PRONOSTICO POSTCIRUGIA
+· Metástasis de ganglios del mesorecto
+· Invasión vasculolinfática
+· Márgenes quirúrgicos con carcinoma infiltrante
+(SV a 2 años 55% con márgenes libres , 0 a 10.2% con márgenes
+infiltrados)
+
+[m05-t03-b027 | IMAGEN 26]
+MORBIMORTALIDAD
+· Mortalidad perioperatoria 0-12%
+· Benn et al: la SV se reduce significativamente en pacientes con
+complicaciones perioperatorias
+· La cirugía reconstructiva del piso pelviano disminuye la
+incidencia de Complicaciones como obstrucción intestinal,
+abscesos y fístulas de 16 a 4.5%
+· La Cx Exenterativa Tipo III asegura márgenes y tiene menos
+complicaciones por la cx reconstructiva
+
+[m05-t03-b028 | IMAGEN 27]
+CONCLUSION
+· Es la única alternativa de curación para ciertos cánceres ginecológicos
+localmente avanzados en pacientes bien seleccionadas.
+· Goldberg et col. reportaron una sv a los 5 años de 47% (30-60%)
+· Con intención curativa (no paliativa).
+
+[m05-t03-b029 | IMAGEN 28]
+· Solo como única opción terapéutica disponible.
+· Equipo Multidisciplinario.
+. Las mejoras en la técnica quirúrgica y de los cuidados pre y
+postoperatorios
+han
+reducido
+considerablemente
+la
+morbimortalidad en estas pacientes.
+
+[m05-t03-b030 | IMAGEN 29]
+Carcinoma de cuello uterino - Estadio IV B
+Presentación
+2% de los
+poco frecuente
+casos
+Recaída
+SG 7 meses
+promedio a los
+12 meses
+· TRATAMIENTO: RADIOTERAPIA/QUIMIOTERAPIA/INMUNOTERAPIA
+
+[m05-t03-b031 | IMAGEN 30]
+CONCLUSIONES
+Detección temprana: promoción de programas de tamizaje y vacunación
+Desafíos en Argentina: accesibilidad a los tratamientos
+· Manejo multidisciplinario: radioterapeuta, oncólogo, cuidados paliativos
+
+[m05-t03-b032 | NOTA]
+ESTADIFICACION CLINICO-QUIRURGICA!!!!

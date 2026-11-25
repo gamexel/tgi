@@ -1,0 +1,366 @@
+# m05-t07 PATOLOGIA DEL TGI EN INMUATOLOGIA DEL TGI EN INMUNOSUPRIMIDOS
+
+[m05-t07-b001 | IMAGEN 1]
+Introducción
+· La infección por VPH ITS más frecuente en todo el mundo, sin embargo la gran mayoría
+de los individuos INMUNOCOMPETENTES resuelve la infección de forma espontánea,
+sólo en una minoría persiste y evoluciona en lesiones intraepiteliales de alto grado.
+· La INMUNOCOMPETENCIA es un factor fundamental en la evolución natural de la
+enfermedad, principalmente por acción de la inmunidad celular.
+· La incidencia de todas las infecciones relacionadas con el VPH y la tasa de progresión
+son mucho mayores en pacientes INMUNODEPRIMIDOS en comparación con la
+población general.
+
+[m05-t07-b002 | IMAGEN 2]
+Poblaciones inmunosuprimidas
+1. Mujeres que viven con VIH
+2. Mujeres con trasplante de órgano en tratamiento inmunosupresor
+3. Mujeres con trasplante de células hematopoyéticas
+4. Mujeres con enfermedades autoinmunes
+
+[m05-t07-b003 | IMAGEN 3]
+Mujeres que viven con VIH- LIE Y CCU
+. La mujer que vive con VIH tiene mayores neoplasia (El CCU es una neoplasia marcadora de SIDA)
+· Mayor prevalencia de ITS.
+· Mayor prevalencia de infecciones por distintos tipos de VPH oncogénicos
+· Mayor prevalencia de lesiones de alto y cáncer en el tracto anogenital
+· Mayor prevalencia de lesiones por VPH, mayor tasa de progresión, tiempo más rápido en la progresión y
+mayor tasa de recidivas, enfermedad multicéntrica sincrónica o metacrónica.
+· La incidencia de LIE en mujeres que viven con VIH es del 20% ( comparada a un 3%-5%)
+· Es por eso que el control ginecológico anual de estas mujeres debe basarse en la detección de patología
+oncológica
+· La persistencia del VPH está asociada fundamentalmente a un recuento de linfocitos CD4 menor de 200
+células/uL.
+· Para investigar el grado de inmunodeficiencia es importante la exploración física, el recuento de CD4 y
+la determinación de la carga viral.
+
+[m05-t07-b004 | IMAGEN 4]
+Mujeres que viven con VIH-Patogenia viral (1)
+· El VIH ingresa al organismo por microtraumatismos, parenteral o transplacentaria.
+· Retrovirus (ARN de cadena simple, una cápside y una envoltura).
+· La envoltura viral tiene espículas, en las que se encuentra la glicoproteína gp20, que permite el
+contacto del virus con células que expresan receptor CD4 y co receptores CXCR4 o CCR5 en
+membrana plasmatica (celulas dendriticas intraepiteliales, los macrofagos y los linfocitos T CD4+)
+· Durante la replicación celular en ARN viral se transcribe a ADN mediante la transcriptasa inversa y
+luego se inserta en el genoma en forma de provirus. A partir de allí, el ADN proviral es transcrito en
+moléculas de ARN genómico involucrado en la síntesis de proteínas virales.
+· Las células dendríticas infectadas migran a los ganglios regionales donde pueden transmitir a los LT
+CD4+, desde allí producir viremia y llegar al bazo, SNC, epitelio genitourinario, ganglios linfáticos y
+tejido linfoide asociado al intestino (GALT).
+
+[m05-t07-b005 | IMAGEN 5]
+Mujeres que viven con VIH-Patogenia viral (2)
+· En una etapa aguda hay una viremia alta y muchos LT CD4+ infectados en sangre, y se
+manifiestan un síndrome gripal o mononucleosiforme. El pico de viremia genera
+respuesta humoral y los linfocitos T CD8+ atacan a las células CD4+ infectadas
+· En la fase crónica hay un aumento lento pero constante de viremia, y una disminución
+paulatina de LT CD4+, el paciente puede estar asintomático en esta etapa de latencia
+por varios años
+· Finalmente los linfocitos TCD4+ caen por debajo de 200/ul y se pierde el control
+inmunológico de la infección. La viremia aumenta y aparecen las infecciones
+oportunistas
+
+[m05-t07-b006 | IMAGEN 6]
+Mujeres que viven con VIH-Repuesta
+inmunológica (1)
+· La principal respuesta contra el VPH es la inmunidad celular
+· La inmunodepresión producida por el VIH facilita la infección por VPH, a su vez el VIH altera la
+evolución natural del VPH a través de mayor persistencia y recidiva del VPH, lo que facilita la
+progresión a lesiones de alto grado y al cáncer.
+· Las mujeres con VIH tienen una elevada prevalencia de infección por VPH, en particular por
+múltiples genotipos de alto riesgo, y algunos genotipos de alto riesgo que son infrecuentes en
+mujeres inmunocompetentes (ej 35,51, 52,53,56,58)
+· Un recuento menor a 200 CD4+ se relaciona con mayor probabilidad de desarrollar una LIE, y
+desarrollan cáncer 10 años antes que la población general.
+
+[m05-t07-b007 | IMAGEN 7]
+Mujeres que viven con VIH-Repuesta
+inmunológica (2)
+· Hay evidencia de que existe una interacción entre la infección por VPH y las regiones
+tat, rev y vpr del VIH, por ende el VIH podría cumplir un papel directo en la patogenia
+de la lesión.
+· Asimismo la infección por VIH compromete el epitelio mucoso, lo que facilita el ingreso
+viral del VPH
+· Los mecanismos por los cuales interactúan los dos virus (HPV y VIH) son el número de
+células de Langerhans, la disminución de los macrófagos, la disminución de los CD8 en
+agregados linfoides y la presencia de la proteína reguladora del VIH (TAT 1).
+
+[m05-t07-b008 | IMAGEN 8]
+Mecanismos de interacción entre VPH-HIV(1)
+· Número de células de Langerhans. Se han comparado biopsias de cuello uterino de las mujeres
+VIH positivas con SIL vs. VIH negativas con SIL, agrupadas por edad, tabaquismo, grado de LIE. Las
+mujeres positivas para VIH tienen significativamente menor número de células de Langerhans, y
+el número de células se asoció con recuento de células CD4.
+· Disminución de macrófagos. Se han comparado biopsias de cuello uterino que revela-ron una
+disminución en los macrófagos en las mujeres positivas para VIH.
+· Recuento de CD8. Se ha observado una disminución del recuento de CD8 en agregados linfoides
+en las biopsias de mujeres VIH positivas con LIE AG, lo que sugiere alteraciones de la inmunidad
+en el CCU
+
+[m05-t07-b009 | IMAGEN 9]
+Mecanismos de interacción entre VPH-HIV(2)
+· Proteína reguladora del VIH. También se ha observado in vitro que el TAT-1
+Interactúa con las oncoproteínas E6 y E7 potenciando su acción
+O
+O interfiere en la formación, migracion y activacion normal de las células T a nivel del
+epitelio cervical
+O
+Permite que cepas de VPH menos virulentas puedan causar transformación maligna
+O
+Esta interacción VPH-HIV más el mayor inmunocompromiso con recuento menor a
+200 CD4+ predispone a la persistencia del VPH facilitando la integración genómica y
+transformación celular, con el consiguiente riesgo de neoplasia intraepitelial del tracto
+anogenital
+
+[m05-t07-b010 | IMAGEN 10]
+Mujeres que viven con VIH-Manejo clínico (1)
+· Prevención primaria: La vacuna tetravalente contra el VPH es segura e inmunogénica en
+estas mujeres, entre 13 a 45 años. Esto se homologa a la vacuna nonavalente. Debe
+tenerse en cuenta que las mujeres con VIH con CV mayor de 10.000 copias/mL y/o
+recuento de CD4 menor de 200 células/uL tienen tasas más bajas de seroconversión. Las
+pacientes VIH positivas y/o trasplantados, deben recibir esquema de 3 dosis
+independientemente de la edad.
+· Prevención secundaria: En el año 2017, en la SAPGlyC se realizó un consenso para
+tamizaje y manejo de las LIE en mujeres que viven con VIH. Este se actualizó en 2022 en las
+guías elaboradas por dicha sociedad y SOGIBA y fueron avaladas por FASGO. Por todo lo
+expuesto, cuando se plantea el tamizaje, las mujeres con VIH requieren un Tamizaje para
+CCU diferente.
+· Inicio del tamizaje: Individuos inmunosuprimidos y VIH (+) deben iniciar el tamizaje al año
+del inicio de las relaciones sexuales.
+
+[m05-t07-b011 | IMAGEN 11]
+Mujeres que viven con VIH-Manejo clínico (2)
+· En las mujeres que viven con VIH, hasta los 29 años debe realizarse citología
+anual y, luego de los 30 años, lo recomendado es el tamizaje con prueba de
+VPH.
+· En el caso de las mujeres VIH positivo, deberán repetirla cada 3 años siempre
+que tengan recuento de CD4 mayor de 400 y carga viral negativa.
+· En el caso de no contar con pruebas moleculares se continuará con citología
+anual solamente. Debe destacarse que solamente deben emplearse pruebas
+de HPV clínicamente validadas y para la pesquisa exclusiva de los tipos virales
+de alto riesgo.
+
+[m05-t07-b012 | IMAGEN 12]
+Mujeres que viven con VIH: Manejo clínico (3)
+Tamizaje solo con citología
+Si la citología resulta negativa el primer año, se controla cada 6 meses, si continua negativa se realiza de forma anual
+En el caso de ser la citología positiva:
+O
+ASC-US/L-SIL
+colposcopia normal: control a los 6 meses (considerar nivel CD4+)
+colposcopia G1 o G2: biopsia y manejo según resultados
+ASC-H/H-SIL
+colposcopia normal: evaluar conducto cervical. Si es negativo realizar biopsia ampliada. De ser positivo
+manejo según resultados
+·
+colposcopia G1 o G2: biopsia y manejo según resultados
+·
+Tamizaje primario con prueba de HPV Con o sin genotipificación (HPV 16/18)
+Negativa: control en 3 años (CD4 mayor a 400, CV negativa)
+Positivo: realizar ciologia
+O
+Negativa: Nuevo test en 12 meses
+..
+Positiva: colposcopia y manejo acorde resultados
+Tamizaje con citología y colposcopia
+O
+No existen recomendaciones internacionales que incorporan a la colposcopia como herramienta de tamizaje.
+Reconocer que en la Argentina la colposcopia está ampliamente difundida (bajo costo y su alta sensibilidad), pero debiera
+O
+ser realizada por especialistas acreditados en PTGI.
+O
+Se sugiere que en los casos en que se disponga de este método, incorporarlo al tamizaje junto con la citología.
+
+[m05-t07-b013 | IMAGEN 13]
+Mujeres que viven con VIH: Manejo clínico (4)
+· LIE de bajo grado. El control o tratamiento de estas queda supeditado a criterio del
+médico tratante.
+· CIN 2. En estas mujeres CIN 2 p16 negativo no tiene la misma significancia que en las
+pacientes VIH negativas. Con lo cual la recomendación es realizar tratamiento. De todas maneras, en
+pacientes con buen recuento de CD4 y baja carga viral, adherentes a TARV y a seguimiento médico
+se puede optar por control en aquellas con p16 negativa.
+CIN 3. Siempre tratamiento.
+
+[m05-t07-b014 | IMAGEN 14]
+Mujeres que viven con VIH: Manejo clínico (5)
+· La persistencia de LIE AG y la progresión a cáncer invasor se relaciona con los
+cambios genéticos inducidos por el VPH, por lo que el riesgo de cáncer anal no
+disminuye con la TARV. Se recomienda en estas mujeres realizar estudio del
+conducto anal:
+0
+Citología anal
+O
+Anoscopia de alta resolución
+O
+Eventual biopsia
+· Pacientes con tamizaje cervical anormal y/o lesiones vulvares. Evaluación
+colposcópica de todo el TGI de rutina.
+· No hay métodos de tamizaje disponibles en cáncer de vulva, por lo cual toda
+lesión que durante la inspección o palpación sea sospechosa para VIN o cáncer
+debe ser biopsiada.
+
+[m05-t07-b015 | IMAGEN 15]
+Mujeres con trasplante de órgano en
+tratamiento inmunosupresor
+· Los receptores de trasplantes de órganos sólidos tienen un mayor riesgo de padecer varios cánceres asociados a
+patógenos, incluidos los causados por la infección por el virus del papiloma humano (VPH), el virus de Epstein Barr
+y los virus de la hepatitis B y C.
+· Estos cánceres relacionados con el virus surgen en el contexto de la inmunosupresión mantenida por drogas que
+evitan el rechazo de los órganos trasplantados. El nivel de inmunosupresión varía según factores como el tipo de
+órgano, el nivel de compatibilidad de HLA entre el donante y el receptor, y el régimen farmacológico
+· U.S. Transplant Cancer Match (TCM) Study encontró que los receptores de trasplantes de órganos sólidos tienen
+un riesgo aproximadamente 2 veces mayor de cualquier tipo de cáncer en comparación con la población general.
+
+[m05-t07-b016 | IMAGEN 16]
+Am J Transplant. 2013 Dec; 13(12): 3202-3209.
+Published online 2013 Oct 1. doi: 10.1111/ajt.12472
+HPV-Related Cancers after Solid Organ Transplantation in the US
+M. M. Madeleine, 1,2 J. L. Finch,3 C. F. Lynch,4 M. T. Goodman,5 and E. A. Engels6
+· La mayoría de los cánceres in situ relacionados con el VPH ocurrieron a edades más tempranas que los cánceres
+invasores
+Los cánceres relacionados con el VPH más frecuentes en el estudio fueron los cánceres de vulva.
+.
+· El aumento de la incidencia de este cáncer se asoció con una edad más temprana en el momento del trasplante, un
+mayor tiempo transcurrido desde el trasplante y el uso de los fármacos más antiguos, ciclosporina y azatioprina.
+· El segundo cáncer más frecuente fue el anal, que compartió la mayoría de los factores de riesgo con el cáncer de vulva.
+El cáncer anal ocurrió con más frecuencia en mujeres que en hombres, lo que refleja la proporción de sexos de cáncer
+anal en la población general
+· Ciclosporina y azatioprina se relacionaron con una mayor incidencia de cánceres de vulva in situ, pene in situ y ano
+invasivo. Por el contrario, observamos una disminución de la incidencia con tacrolimus o micofenolato en estos mismos
+sitios.
+Se observó un patrón inverso para el cáncer de orofaringe y estos fármacos de mantenimiento, de modo que la
+·
+disminución de la incidencia se asoció con ciclosporina y azatioprina y el aumento de la incidencia con tacrolimus
+Casi todos los receptores de trasplantes (más del 90%) recibieron regímenes de mantenimiento que incluían
+·
+corticosteroides.El uso de corticosteroides se asoció con un fuerte aumento de la incidencia de cáncer anal in situ (RR
+5.3), pero no para el cáncer anal invasivo (RR 1.2) u otros cánceres.
+· Por el contrario, el sirolimus, un fármaco más nuevo, se utilizó como medicamento de mantenimiento para menos del
+10% de los receptores de trasplantes, con una disminución de la incidencia de cáncer anal invasivo (RR 0,2).
+
+[m05-t07-b017 | IMAGEN 17]
+ORIGINAL RESEARCH ARTICLES: CERVIX AND HPV
+Guidelines for Cervical Cancer Screening in
+Immunosuppressed Women Without HIV Infection
+Anna-Barbara Moscicki, MD,1 Lisa Flowers, MD,2 Megan J. Huchko, MD, MPH,3 Margaret E. Long, MD,4
+Kathy L. MacLaughlin, MD,5 Jeanne Murphy, PhD,6 Lisa Beth Spiryda, MD, MPH,7 and Michael A. Gold, MD8
+· El objetivo de este informe fue resumir el conocimiento actual de CC, lesiones escamosas intraepiteliales e
+infección por el virus del papiloma humano (VPH) en mujeres inmunocomprometidas no VIH para determinar las
+mejores prácticas para la vigilancia de la CC en esta población y proporcionar recomendaciones para chequeo
+· Se evaluaron aquellos con trasplante de órgano sólido, hematopoyético, y una serie de enfermedades
+autoinmunes
+· Un panel de profesionales de la salud involucrados en la investigación y la atención de CC
+· Las búsquedas bibliográficas se realizaron utilizando palabras clave como CC, displasia cervical/lesión escamosa
+intraepitelial, VPH y tipo de inmunosupresión dando como resultado un grupo inicial de 346 artículos
+
+[m05-t07-b018 | IMAGEN 18]
+Trasplante de órgano sólido- Screening
+For solid organ transplant patients:
+· Cytology is recommended if younger than 30 years
+· Co-testing is preferred, but cytology is acceptable if 30 years
+or older
+· If using cytology alone, perform annual cervical cytology. If
+results of 3 consecutive cytology results are normal, perform
+cytology every 3 years
+· If using co-testing, perform baseline co-test with cytology and
+HPV. If result of cytology is normal and HPV is negative,
+co-testing can be performed every 3 years
+. If transplant before the age of 21 years, begin screening within
+1 year of sexual debut
+· Continue screening throughout lifetime (older than 65 years).
+Discontinue screening based on shared discussion regarding
+quality and duration of life rather than age
+
+[m05-t07-b019 | IMAGEN 19]
+Mujeres con trasplante de células
+hematopoyéticas
+Allogeneic hematopoietic stem cell transplant
+-Cytology is recommended if younger than 30 y
+-Co-testing is preferred, but cytology is acceptable if 30 y or older
+-If using cytology alone, perform annual cervical cytology. If results of
+3 consecutive cytology results are normal, perform cytology every 3 y
+-If using co-testing, perform baseline co-test with cytology and HPV. If result
+every 3 y
+of cytology is normal and HPV is negative, co-testing can be performed
+-If transplant before the age of 21 y, begin screening within 1 y of sexual debut
+-Continue screening throughout lifetime (older than 65 y). Discontinue
+screening based on shared discussion regarding quality and duration of life
+rather than age
+-For HSCT patients who develop a new diagnosis of genital GVHD or chronic
+GVHD, resume annual cervical cytology until 3 consecutive normal results at
+which time perform cytology every 3 y, or perform an initial baseline co-test
+and, if cytology is normal and HPV is negative, perform co-testing every 3 y
+
+[m05-t07-b020 | IMAGEN 20]
+Mujeres con enfermedades autoinmunes
+Inflammatory bowel disease on immunosuppressant
+-Cytology is recommended if younger than 30 y
+treatments
+-Co-testing is preferred, but cytology is acceptable if 30 y or older
+-If using cytology alone, perform annual cervical cytology. If results of
+3 consecutive cytology results are normal, perform cytology every 3 y
+-If using co-testing, perform baseline co-test with cytology and HPV. If result of
+cytology is normal and HPV is negative, co-testing can be performed every 3 y
+-If on immunosuppressant therapy before the age of 21 y, begin screening within
+1 y of sexual debut
+-Continue screening throughout lifetime (older than 65 y). Discontinue screening
+based on shared discussion regarding quality and duration of life rather than age
+Inflammatory bowel disease not on immunosuppressant
+-Follow general population screening guidelines
+treatments
+Systemic lupus erythematosus and rheumatoid arthritis
+-Cytology is recommended if younger than 30 y
+on immunosuppressant treatments
+-Co-testing is preferred, but cytology is acceptable if 30 y or older
+-If using cytology alone, perform annual cervical cytology. If results of
+3 consecutive cytology results are normal, perform cytology every 3 y
+-If using co-testing, perform baseline co-test with cytology and HPV. If result of
+cytology is normal and HPV is negative, co-testing can be performed every 3 y
+-If on immunosuppressant therapy before the age of 21 y, begin screening within
+1 y of sexual debut
+-Continue screening throughout lifetime (older than 65 y). Discontinue screening
+based on shared discussion regarding quality and duration of life rather than age
+Rheumatoid arthritis not on immunosuppressive
+-Follow general population screening guidelines
+treatments
+Type 1 diabetes mellitus
+-Follow general population screening guidelines
+
+[m05-t07-b021 | IMAGEN 21]
+INMUNOSUPRESIÓN FACTOR DE RIESGO PARA
+HSIL (VPH RELACIONADO)
+MAYOR
+PROBABILIDAD DE
+NECESIDAD DE
+LESIONES
+MULTICÉNTRICAS Y
+DESCARTAR
+MULTIFOCALES
+INVASIÓN
+MAYOR
+PREVALENCIA DE
+INMUNOSUPRESIÓN
+LA INFECCIÓN
+NECESIDAD DE
+MAYOR
+TRATAMIENTO
+PROBABILIDAD
+LO MÁS
+DE
+CONSERVADOR
+RECURRENCIAS
+POSIBLE
+
+[m05-t07-b022 | IMAGEN 22]
+Manejo clinico mujeres inmunosuprimidas NO
+VIH
+· 3 DOSIS DE VACUNACIÓN ANTI VPH
+· TODAS LAS CITOLOGÍAS ANORMALES DEBEN SER REFERIDAS A COLPOSCOPÍA Y BIOPSIADAS
+· OPCIONES TERAPÉUTICAS DEPENDEN DE TAMAÑO, UBICACIÓN Y GRADO DE LA LESIÓN
+· TRATAMIENTOS CONDILOMAS
+· CIN 1/AIN 1 baja probabilidad de progresión, sin embargo varios autores prefieren
+TRATAMIENTO, otros SEGUIMIENTO ESTRICTO
+· LIMITADA EVIDENCIA EN CAMBIOS EN INMUNOSUPRESOR
+. TRATAMIENTO HSIL DE TODO EL TGI
+· SCREENING CON CITOLOGIA ANAL A PACIENTES CON HISTORIA DE SEXO ANAL RECEPTIVO
+O ANTECEDENTE DE HSIL (cervical/vaginal/vulvar)

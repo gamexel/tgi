@@ -1,0 +1,43 @@
+# m02-t05 Sin título
+
+[m02-t05-b001 | IMAGEN 1]
+Serologías IgM-G para HVS
+Sólo tienen valor ante una seroconversión para establecer estado inmunológico de parejas para descartar
+infección por Herpes
+Indicaciones
+- HIV+
+- Mayor riesgo de ITS por nuevas parejas sexuales
+- Compañero sexual con herpes genital
+- Diagnóstico de herpes genital sin confirmación de laboratorio
+- Síntomas o lesiones genitales atípicas o recurrentes con resultado de PCR negativo o cultivo
+negativo
+
+[m02-t05-b002 | IMAGEN 2]
+Diagnóstico de certeza
+Detección del virus en la lesión
+· Cultivo celular: baja Sensibilidad para las recurrencias. Disminuye a medida que la lesión se cura
+· ADN por PCR. De elección. Más rápido, especifica el tipo viral. Buena S y E.
+· Citodiagnóstico de TZANC: NO se recomienda. Carece de S y E. Muestra el efecto citopático viral a
+partir de una muestra por raspado de la lesión.
+
+[m02-t05-b003 | IMAGEN 3]
+Ciclo de corta duración
+TERAPIA EPISÓDICA
+Dirigidos a disminuir síntomas y replicación viral
+Pacientes con recurrencias infrecuentes y de baja intensidad
+TERAPIA SUPRESORA
+Frecuencia > 6 episodios al años
+Los agentes antivirales no pueden erradicar la infección (NO
+HERPES RECURRENTE
+cambia la frecuencia de episodios una vez finalizado el tto)
+
+[m02-t05-b004 | IMAGEN 4]
+Tratamiento SUPRESIVO en Herpes recurrente
+Aciclovir
+400mg VO 2 veces al día
+Valaciclovir
+500mg VO 1 vez al día
+Valaciclovir
+1 g VO 1 vez al día
+Famciclovir
+250mg VO 2 veces al día

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>TGI · Apuntes para consultar</title>
+  <meta name="description" content="Apuntes de tracto genital inferior: búsqueda local, resúmenes e imágenes del curso.">
+  <link rel="stylesheet" href="estilos.css">
+  <script src="datos/modulo-01.js" defer></script>
+  <script src="datos/modulo-02.js" defer></script>
+  <script src="datos/modulo-03.js" defer></script>
+  <script src="datos/modulo-04.js" defer></script>
+  <script src="datos/modulo-05.js" defer></script>
+  <script src="busqueda.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+  <header class="topbar">
+    <button class="brand" id="home" aria-label="TGI, ir al inicio"><span class="brand-mark">tgi<span>.</span></span><span class="brand-description">TRACTO GENITAL INFERIOR<br><b>Tu biblioteca de consulta</b></span></button>
+    <div class="top-actions"><span class="offline">Disponible sin internet</span><button class="quiet" id="help">Cómo usar</button></div>
+  </header>
+  <div class="searchbar">
+    <button class="menu-button quiet" id="menu" aria-label="Mostrar temas" aria-expanded="false">☰</button>
+    <div class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><label class="sr-only" for="search">Buscar en todos los apuntes</label><input id="search" type="search" placeholder="Tema, palabra clave o pregunta…" autocomplete="off" spellcheck="false"><button id="clear" class="clear" aria-label="Borrar búsqueda" hidden>×</button><kbd>/</kbd></div>
+    <label class="module-label"><span class="sr-only">Filtrar por módulo</span><select id="module"><option value="all">Todos los módulos</option></select></label>
+  </div>
+  <div class="layout">
+    <aside id="sidebar" aria-label="Navegación de los apuntes"><nav class="main-nav" aria-label="Vistas"><button data-view="home" class="nav active"><span>▦</span> Explorar temas</button><button data-view="summaries" class="nav"><span>≡</span> Repaso compacto</button><button data-view="questions" class="nav"><span>?</span> Preguntas del curso</button><button data-view="images" class="nav"><span>▧</span> Imágenes y diapositivas</button><button data-view="saved" class="nav"><span>☆</span> Guardados <small id="fav-count">0</small></button></nav><div class="sidebar-label">ÍNDICE DEL CURSO</div><div id="topic-list"></div><div class="sidebar-footer">Tus apuntes, organizados.<br>La búsqueda incluye texto de imágenes.</div></aside>
+    <main id="contenido" tabindex="-1"><div id="main"></div></main>
+  </div>
+  <dialog id="reader" aria-labelledby="reader-title"><div class="reader-top"><div><span class="eyebrow" id="reader-meta"></span><h2 id="reader-title"></h2></div><button class="icon-button" id="close-reader" aria-label="Cerrar visor">×</button></div><div id="reader-content"></div><div class="reader-bottom"><button class="quiet" id="prev-source">Anterior</button><span id="reader-counter"></span><button class="quiet" id="next-source">Siguiente</button></div></dialog>
+  <dialog id="help-dialog" aria-labelledby="help-title"><button class="icon-button help-close" id="close-help" aria-label="Cerrar ayuda">×</button><span class="eyebrow">LISTO PARA EL EXAMEN</span><h2 id="help-title">Encontrá el dato. Abrí la fuente.</h2><ol><li><b>Buscá</b> palabras como «clobetasol», «p16» o «HSIL márgenes». No hacen falta tildes. También reconoce HPV/VPH, HIV/VIH y biopsia/BX.</li><li><b>Filtrá</b> por módulo, tema o tipo de contenido. El resumen aparece primero; también se busca en las notas y el texto de las diapositivas.</li><li><b>Abrí la fuente</b> para ver la imagen y ampliar tablas o algoritmos. En el visor, usá los cursores del teclado para pasar de una fuente a otra.</li><li><b>Guardá</b> fichas con la estrella. Se recuerdan en este navegador cuando permite almacenamiento local.</li></ol><p class="notice">El resumen sintetiza el material del curso. El texto extraído de imágenes es automático: cotejá cifras, dosis y esquemas con la captura. Las preguntas conservan respuesta solo cuando la fuente muestra una clave explícita.</p><p>Atajos: <kbd>/</kbd> o <kbd>Ctrl K</kbd> para buscar · <kbd>Esc</kbd> para cerrar el visor o limpiar la búsqueda.</p><p><b>Para compartir:</b> copiá la carpeta TGI completa. Si recibís un ZIP, extraelo y abrí <b>index.html</b>. No necesitás OneNote, instalación ni conexión.</p></dialog>
+  <div id="toast" role="status"></div>
+  <noscript>Para usar el buscador, habilitá JavaScript. Los apuntes también están en la carpeta «textos».</noscript>
+</body>
+</html>

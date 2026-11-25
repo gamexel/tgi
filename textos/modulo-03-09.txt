@@ -1,0 +1,516 @@
+# m03-t09 Citologia e histologia de HSIL
+
+[m03-t09-b001 | IMAGEN 1]
+Sil de alto grado
+Complete
+Virions
+ge
+Intact Virions
+Episomal
+Cytopathic
+HPV
+Effects
+"Koilocytes"
+Episomal
+DNA
+O
+Basal Cells or
+Immature Squamous Metaplasia
+Non-productive
+Productive Infection
+Infection
+(Low Grade SIL)
+"Latent Infection"
+Role of Cofactors
+(Persistence of HPV infection)
+Progression
+Abnormal
+Mitotic
+(Persistence of HPV
+Figures
+infection)
+Neoplastic Lesion
+(High-Grade SIL)
+· Sil de alto grado ( CIN2)
+· Sil de alto grado ( CIN3)
+
+[m03-t09-b002 | IMAGEN 2]
+GRUPO DE TRABAJO 2: LESIONES
+INTRAEPITELIALES
+Arch Pathol Lab Med. 2012 Oct; 136(10):1266-97. Epub 2012 Jun 28.
+RECOMENDACIONES
+· Utilizar una nomenclatura unificada para las lesiones escamosas intraepiteliales HPV relacionadas
+- LSIL: lesión intraepitelial de bajo grado
+- HSIL: lesión intraepitelial de alto grado
+· Se recomienda adosar el subfijo "in" a la localización: CIN-VAIN-VIN-AIN-PAINY PEIN
+· Se contemplan subtipos especiales de HSIL
+· El condiloma se engloba bajo el termino de LSIL
+En jóvenes y adolescentes debería ponerse
+entre paréntesis la nomenclatura de 3
+categorías (CIN1-2-3)
+
+[m03-t09-b003 | IMAGEN 3]
+NORMAL
+SIL DE ALTO
+Capa superficial
+Capa intermedia
+MADURACIÓN
+Capa basal
+·
+Compromiso de más de 1/3 epitelial
+. Pérdida de polaridad nuclear
+· Núcleos agrandados, hipercromáticos, cromatina granular
+· Nucleolo prominente
+· Mitosis normales y atípicas
+· Citoplasma escaso
+· Efecto citopático viral variable (HPV)
+
+[m03-t09-b004 | NOTA]
+Celulas de aspecto basaloide, que no mdararon, que van a comprometer mas de 1/3 del espesor epitelial
+
+[m03-t09-b005 | IMAGEN 4]
+CIN3
+CIN2
+
+[m03-t09-b006 | NOTA]
+Si afecta la totalidad del epitelio, es un CIN 3
+
+[m03-t09-b007 | NOTA]
+Si compromete 2/3 basales, es un CIN 2
+
+[m03-t09-b008 | IMAGEN 5]
+HSIL
+Subtipos histológicos
+O
+>HSIL queratinizante
+>HSIL con fenotipo de
+metaplasia inmadura
+>HSIL delgado
+>HSIL papilar
+>HSIL con diferenciación
+hacia células columnares
+(SMILEs)
+
+[m03-t09-b009 | IMAGEN 6]
+BIOMARCADORES
+Biomarkers in HPV-associated Lower Anogenital
+Squamous Lesions
+Morphologic
+H&E Biopsy
+NILM
+-IN 1
+p16-
+-IN 3
+negative
+NILM
+X
+Morphologic
+IN 2 or -IN 3
+LSIL or
+VS
+Non HPV-
+NILM mimic
+associated
+o
+NO
+Morphologic
+pathology
+p16
+p16
+-IN 2
+stain
+stain
+Professional
+disagreement
+p16-
+includes
+-IN 2 or -IN 3
+positive
+HSIL
+Morphologic
+≤ -IN 1
+(Strong and
+NILM
+w/ cytologic
+diffuse block
+LSIL
+high risk
+positive)
+HSIL
+* Any identified p16 positive area must meet H&E morphologic
+criteria for a high grade lesion to be reinterpreted as such.
+
+[m03-t09-b010 | NOTA]
+Se indica :
+
+[m03-t09-b011 | NOTA]
+cuando se necesita hacer un DD con los simuladores
+
+[m03-t09-b012 | NOTA]
+CIN II
+
+[m03-t09-b013 | NOTA]
+Desacuerdo entre profesionales
+
+[m03-t09-b014 | NOTA]
+Diagnostico morfologico de bajo grado o biopsia negativa con antecedente de citologias de riesgo
+
+[m03-t09-b015 | IMAGEN 7]
+. FUERTE Y DIFUSA
+· NUCLEAR Y CITOPLASMÁTICA
+· >1/3 DEL ESPESOR EPITELIAL
+
+[m03-t09-b016 | IMAGEN 8]
+1- HSIL Vs. SIMULADORES
+Diferenciar un HSIL de sus
+simuladores
+Diagnóstico
+morfológico -IN2
+P16
+Desacuerdo entre
+Biopsia negativa pero con
+profesionales
+antecedentes de citología
+de alto riesgo
+CONDICIONES SIMULADORAS:
+· Cambios reactivos asociados a
+inflamación/RDT etc.
+· Atrófia
+Metaplasias inmaduras
+
+[m03-t09-b017 | IMAGEN 9]
+HSIL
+METAPLASIA INMADURA
+
+[m03-t09-b018 | IMAGEN 10]
+HSIL
+ATROFIA
+
+[m03-t09-b019 | IMAGEN 11]
+2- MORFOLOGÍA CIN2
+Diferenciar un HSIL de
+Diagnóstico morfológico -
+sus simuladores
+IN2
+CIN 2
+P16
+Desacuerdo entre
+Biopsia negativa pero con
+profesionales
+antecedentes de citología
+de alto riesgo
+Am J Surg Pathol . Volume 41, Number 2, February 2017
+Anne M. Mills, MD,* Cherie Paquette, MD, MS,* Tatjana Terzic, MD,*
+Philip E. Castle, PhD, MPH,++ and Mark H. Stoler, MD*
+CONFIRMAR DIAGNÓSTICO CIN2
+
+[m03-t09-b020 | IMAGEN 12]
+P16
+
+[m03-t09-b021 | IMAGEN 13]
+3- DESACUERDO ENTRE PROFESIONALES
+Diferenciar un HSIL de
+Diagnóstico
+sus simuladores
+morfológico -IN2
+P16
+Biopsia negativa pero
+Desacuerdo entre
+antecedentes de citolo
+profesionales
+de alto riesgo
+O
+
+[m03-t09-b022 | IMAGEN 14]
+¿Son el CIN 2 y el CIN 3 la misma enfermedad?
+
+[m03-t09-b023 | IMAGEN 15]
+REGRESIÓN
+CIN 1
+CIN 2
+CIN 3
+90%
+· < 25 años: 70%
+· > 25 años: 30-50%
+
+[m03-t09-b024 | IMAGEN 16]
+Relationships of p16 Immunohistochemistry and Other
+nich Fator Lab Med-vor i++, june 2020
+Biomarkers With Diagnoses of Cervical Abnormalities
+Implications for LAST Terminology
+Philip E. Castle, PhD, MPH; Rachael Adcock, BS; Jack Cuzick, PhD; Nicolas Wentzensen, MD, PhD; Norah E. Torrez-Martinez, BS;
+Salina M. Torres, PhD, MPH; Mark H. Stoler, MD; Brigitte M. Ronnett, MD; Nancy E. Joste, MD; Teresa M. Darragh, MD;
+Patti E. Gravitt, PhD; Mark Schiffman, MD; William C. Hunt, MS; Walter K. Kinney, MD; Cosette M. Wheeler, PhD;
+on behalf of the New Mexico HPV Pap Registry Steering Committee and for the p16 IHC Study Panel
+Table 1. Human Papillomavirus (HPV) Genotyping Results, Categorized According to Cervical Cancer Risk, and p16
+Immunohistochemistry (IHC) Results (p16 IHC Positive [p16+] or Negative [p16 ]) for Biopsy Diagnosis by the
+Community Pathologist of Negative, Cervical Intraepithelial Neoplasia (CIN) 1, CIN2, and CIN3
+Diagnosis
+Negative
+CIN1
+CIN2
+CIN3
+SCC
+p16 IHC
+p16 IHC
+p16 IHC
+p16 IHC
+p16 IHC
+p16 IHC
+p16 IHC
+p16 IHC
+HPV
+Negative
+Positive
+Negative
+Positive
+Negative
+Positive
+Negative
+Positive
+All
+Categoriesª
+N % Col N % Col N % Col N % Col
+N % Col
+N % Col
+N % Col
+N % Col Ptrend
+N % Col
+HPV16
+8
+3.1
+1
+4.8
+32
+4.7
+35
+14.1
+91
+21.4
+415
+38.2
+41
+36.3
+617
+56.3
+<. 001
+43
+58.9
+HPV18/45
+5
+1.9
+2
+9.5
+24
+3.5
+25
+10.1
+29
+6.8
+82
+7.5
+8
+7.1
+57
+5.2 <. 001
+10
+13.7
+Other high riske
+21
+8.0
+7
+33.3 142
+20.7 128
+51.6 163
+38.4
+496
+45.6
+36
+31.9
+354
+32.3 <. 001
+10
+13.7
+Intermediate riskd
+9
+3.4
+2
+9.5
+54
+7.9
+28
+11.3
+29
+6.8
+56
+5.2
+3
+2.7
+31
+2.8
+<. 001
+2
+2.7
+Low riske
+4
+1.5
+0
+0.0
+35
+5.1
+4
+1.6
+18
+4.2
+7
+0.6
+4
+3.5
+3
+0.3
+.0097
+1
+1.4
+HPV negative
+215
+82.1
+9
+42.9 399
+58.2
+28
+11.3
+95
+22.4
+31
+2.9
+21
+18.6
+33
+3.0 <. 001
+7
+9.6
+Total
+262 100
+21 100
+686 100
+248 100
+425 100
+1087 100
+113 100
+1095 100
+<. 001
+73 100
+Ptrend'
+<. 001
+<. 001
+<. 001
+<. 001
+Abbreviations: NA, not applicable; SCC, squamous cell carcinoma.
+
+[m03-t09-b025 | NOTA]
+La mayoria de los carcinomas escamosos progresan a partir de lesiones CIN III y no tanto de CIN II
+
+[m03-t09-b026 | IMAGEN 17]
+AJCP / ORIGINAL ARTICLE
+Value of HPV 16/18 Genotyping and p16/Ki-67 Dual
+Staining to Predict Progression to HSIL/CIN2+ in Negative
+Cytologies From a Colposcopy Referral Population
+Am J Clin Pathol November 2018;150:432-440
+Adriano Rodríguez Trujillo, MD,1 Cristina Martí, MD,1 Martina Aida Angeles, MD,' Adriana Sierra, MD,2
+Roser Esteve, PhD,2 Adela Saco, MD, PhD,2 Esther Barnadas, MLT,3 Lorena Marimón, MLT-AD,3
+Inmaculada Nicolás, MD,1,3 Aureli Torné, MD, PhD,' Jaume Ordi, MD, PhD,2,3 and Marta del Pino, MD, PHD1
+100-
+100-
+80-
+80-
+60-
+60-
+Other hrHPV types .
+40-
+40-
+HPV 16 and/or 18
+HPV 16 and/or 18
+20-
+20-
+Other hrHPV types
+Cumulative Incidence of Regression (%)
+Cumulative Incidence of Progression (%)
+0
+0-
+0
+20
+40
+60
+0
+20
+40
+60
+Follow-up (mo)
+Follow-up (mo)
+
+[m03-t09-b027 | NOTA]
+Dentro de las HSIL,, el unico factor predictivo de lesion es el subtipo viral. Es decir, que aquellas lesiones de alto grado generadas por 16 y 18 van a tener mayor tasa de progresion y menor tasa de regresion
+
+[m03-t09-b028 | IMAGEN 18]
+· SISCCA (Carcinoma escamoso superficialmente invasor)
+· SIL de alto grado ( CIN3-HPV)
+
+[m03-t09-b029 | NOTA]
+FOCOS DE MADURACION PARADOJAL: sugestivo de invasion
+
+[m03-t09-b030 | IMAGEN 19]
+Citología del HSIL
+Sagittal view
+Frontal view
+scraper
+cervix
+endocervical
+cervix
+canal
+direction of
+external os
+scrape
+Figure 1-6 Method of obtaining an abrasive sample (scraping) from the uterine cervix by means of Ayre's
+scraper. Red indicates squamous epithelium and blue indicates endocervical mucosa.
+Copyright @ 2006 Lippincott Williams and Wilkins.
+
+[m03-t09-b031 | IMAGEN 20]
+" Células aisladas, en colgajos o en sincicios.
+" Anormalidades nucleares en células con escasa
+maduración citoplasmática.
+" Agrandamiento nuclear con marcada alteración
+de la relación N/C a expensas de la disminución
+del área citoplasmática.
+" Hipercromasia con cromatina fina o gruesa
+granular.
+" Contorno nuclear irregular.
+
+[m03-t09-b032 | NOTA]
+CELULAS DE ASPECO BASALOIDE
+
+[m03-t09-b033 | IMAGEN 21]
+HSIL
+
+[m03-t09-b034 | IMAGEN 22]
+(Imagen sin texto reconocido)
+
+[m03-t09-b035 | IMAGEN 23]
+CELULAS ESCAMOSAS ATIPICAS , NO ES POSIBLE DESCARTAR HSIL (ASC-H):
+· ASC-H es un término reservado para una minoría de los casos ASC (se espera que
+represente menos del 10%), en los cuales los cambios citológicos sugieren HSIL. Están
+asociados a un valor predictivo positivo mayor para detectar CIN2 o CIN3 en el
+seguimiento que los ASCUS.
+· Los diagnósticos diferenciales incluyen: cambios reparativos, HSIL, cambios degenerativos,
+atrofia, radioterapia, cambios por DIU.
+· Tener en cuenta que son signos representativos de HSIL las anomalías nucleares tales
+como hipercromasia, irregularidad de la membrana y la morfología nuclear anómala con
+irregularidad focal.
+Células pequeñas con relación N/C alta: "Metaplasia atípica
+(inmadura)"
+Disposición en lámina densa
+
+[m03-t09-b036 | IMAGEN 24]
+ASC-H
+
+[m03-t09-b037 | NOTA]
+A los fines practicos, no importa el subtipo
