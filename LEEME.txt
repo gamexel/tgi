@@ -1,6 +1,20 @@
-TRACTO GENITAL INFERIOR - BIBLIOTECA LOCAL
+TGI - TU CURSO, A MANO
 
-ABRIR
+APP WEB
+Abrí https://tgix.netlify.app desde tu celular o computadora.
+Android: "Instalar app" o la opción de instalación del menú de Chrome.
+iPhone/iPad: Safari > Compartir > Agregar a pantalla de inicio.
+La barra inferior permite cambiar entre Inicio, Repaso, Preguntas, Imágenes y Guardados.
+
+SIN CONEXIÓN EN LA APP WEB
+Los resúmenes, preguntas y buscador se preparan al abrir la web con internet.
+En "Instalar app" / "Mi app" podés confirmar el estado y descargar la biblioteca
+completa con todas las imágenes y textos (aproximadamente 205 MB).
+Mantené la app abierta durante la descarga. Podés pausar y continuar después;
+se conservan los archivos ya descargados. Borrar datos del navegador elimina
+descargas y favoritos. El navegador también puede liberar espacio almacenado.
+
+ABRIR LA VERSIÓN DE CARPETA
 1. Si recibiste un ZIP, extraelo completo.
 2. Abrí index.html con Chrome, Edge, Firefox o Safari.
 3. Buscá por tema, palabra, sigla o pregunta.

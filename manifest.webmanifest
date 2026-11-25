@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "TGI · Tu curso, a mano",
+  "short_name": "TGI",
+  "description": "Tu biblioteca de tracto genital inferior: resúmenes, preguntas y diapositivas para estudiar donde estés.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#362060",
+  "categories": ["education", "medical"],
+  "icons": [
+    { "src": "iconos/tgi-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/tgi-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/tgi-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Repaso compacto", "short_name": "Repaso", "url": "./#repaso" },
+    { "name": "Preguntas del curso", "short_name": "Preguntas", "url": "./#preguntas" },
+    { "name": "Mis guardados", "short_name": "Guardados", "url": "./#guardados" }
+  ]
+}

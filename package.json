@@ -1,0 +1,15 @@
+{
+  "name": "tgi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Biblioteca TGI, portátil e instalable",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/library.test.cjs && playwright test",
+    "preview": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "sharp": "^0.35.5"
+  }
+}

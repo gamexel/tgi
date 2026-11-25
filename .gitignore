@@ -14,3 +14,9 @@ desktop.ini
 .vscode/
 .idea/
 *.tmp
+
+# Build and deployment state.
+dist/
+.netlify/
+node_modules/
+test-results/

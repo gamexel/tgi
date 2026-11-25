@@ -2,11 +2,19 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="color-scheme" content="light">
-  <title>TGI · Apuntes para consultar</title>
+  <meta name="theme-color" content="#362060">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="TGI">
+  <title>TGI · Tu curso, a mano</title>
   <meta name="description" content="Apuntes de tracto genital inferior: búsqueda local, resúmenes e imágenes del curso.">
   <link rel="stylesheet" href="estilos.css">
+  <link rel="stylesheet" href="movil.css">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="iconos/tgi.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="iconos/apple-touch-icon.png">
   <script src="datos/modulo-01.js" defer></script>
   <script src="datos/modulo-02.js" defer></script>
   <script src="datos/modulo-03.js" defer></script>
@@ -14,24 +22,53 @@
   <script src="datos/modulo-05.js" defer></script>
   <script src="busqueda.js" defer></script>
   <script src="app.js" defer></script>
+  <script src="offline-manifest.js" defer></script>
+  <script src="pwa.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#contenido">Saltar al contenido</a>
   <header class="topbar">
     <button class="brand" id="home" aria-label="TGI, ir al inicio"><span class="brand-mark">tgi<span>.</span></span><span class="brand-description">TRACTO GENITAL INFERIOR<br><b>Tu biblioteca de consulta</b></span></button>
-    <div class="top-actions"><span class="offline">Disponible sin internet</span><button class="quiet" id="help">Cómo usar</button></div>
+    <div class="top-actions"><span class="offline" id="connection-status" role="status">Biblioteca de consulta</span><button class="quiet app-button" data-app-settings>Instalar app</button><button class="quiet" id="help" aria-label="Cómo usar TGI">Ayuda</button></div>
   </header>
   <div class="searchbar">
-    <button class="menu-button quiet" id="menu" aria-label="Mostrar temas" aria-expanded="false">☰</button>
+    <button class="menu-button quiet" id="menu" aria-label="Mostrar temas" aria-controls="sidebar" aria-expanded="false">☰</button>
     <div class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><label class="sr-only" for="search">Buscar en todos los apuntes</label><input id="search" type="search" placeholder="Tema, palabra clave o pregunta…" autocomplete="off" spellcheck="false"><button id="clear" class="clear" aria-label="Borrar búsqueda" hidden>×</button><kbd>/</kbd></div>
     <label class="module-label"><span class="sr-only">Filtrar por módulo</span><select id="module"><option value="all">Todos los módulos</option></select></label>
   </div>
+  <button id="menu-backdrop" class="menu-backdrop" aria-label="Cerrar menú de temas" hidden></button>
+  <nav class="bottom-nav" aria-label="Navegación principal">
+    <button data-view="home" class="active" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 10 9-7 9 7v10H3zM9 20v-7h6v7"/></svg><span>Inicio</span></button>
+    <button data-view="summaries"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6a3 3 0 0 1 3 3v14a5 5 0 0 0-4-2H4zm16 0h-4a3 3 0 0 0-3 3m0 14a5 5 0 0 1 4-2h3V4"/></svg><span>Repaso</span></button>
+    <button data-view="questions"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14v17H5zM9 8a3 3 0 0 1 6 0c0 2-3 2-3 4m0 3v1"/></svg><span>Preguntas</span></button>
+    <button data-view="images"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="8" cy="8" r="1.5"/><path d="m3 17 5-5 4 4 4-6 5 7"/></svg><span>Imágenes</span></button>
+    <button data-view="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 3 14 0v18l-7-4-7 4z"/></svg><span>Guardados</span></button>
+  </nav>
+  <div class="update-banner" id="update-banner" role="status" hidden><span>Hay una nueva versión de TGI.</span><button id="update-app" class="primary">Actualizar</button></div>
   <div class="layout">
     <aside id="sidebar" aria-label="Navegación de los apuntes"><nav class="main-nav" aria-label="Vistas"><button data-view="home" class="nav active"><span>▦</span> Explorar temas</button><button data-view="summaries" class="nav"><span>≡</span> Repaso compacto</button><button data-view="questions" class="nav"><span>?</span> Preguntas del curso</button><button data-view="images" class="nav"><span>▧</span> Imágenes y diapositivas</button><button data-view="saved" class="nav"><span>☆</span> Guardados <small id="fav-count">0</small></button></nav><div class="sidebar-label">ÍNDICE DEL CURSO</div><div id="topic-list"></div><div class="sidebar-footer">Tus apuntes, organizados.<br>La búsqueda incluye texto de imágenes.</div></aside>
     <main id="contenido" tabindex="-1"><div id="main"></div></main>
   </div>
   <dialog id="reader" aria-labelledby="reader-title"><div class="reader-top"><div><span class="eyebrow" id="reader-meta"></span><h2 id="reader-title"></h2></div><button class="icon-button" id="close-reader" aria-label="Cerrar visor">×</button></div><div id="reader-content"></div><div class="reader-bottom"><button class="quiet" id="prev-source">Anterior</button><span id="reader-counter"></span><button class="quiet" id="next-source">Siguiente</button></div></dialog>
   <dialog id="help-dialog" aria-labelledby="help-title"><button class="icon-button help-close" id="close-help" aria-label="Cerrar ayuda">×</button><span class="eyebrow">LISTO PARA EL EXAMEN</span><h2 id="help-title">Encontrá el dato. Abrí la fuente.</h2><ol><li><b>Buscá</b> palabras como «clobetasol», «p16» o «HSIL márgenes». No hacen falta tildes. También reconoce HPV/VPH, HIV/VIH y biopsia/BX.</li><li><b>Filtrá</b> por módulo, tema o tipo de contenido. El resumen aparece primero; también se busca en las notas y el texto de las diapositivas.</li><li><b>Abrí la fuente</b> para ver la imagen y ampliar tablas o algoritmos. En el visor, usá los cursores del teclado para pasar de una fuente a otra.</li><li><b>Guardá</b> fichas con la estrella. Se recuerdan en este navegador cuando permite almacenamiento local.</li></ol><p class="notice">El resumen sintetiza el material del curso. El texto extraído de imágenes es automático: cotejá cifras, dosis y esquemas con la captura. Las preguntas conservan respuesta solo cuando la fuente muestra una clave explícita.</p><p>Atajos: <kbd>/</kbd> o <kbd>Ctrl K</kbd> para buscar · <kbd>Esc</kbd> para cerrar el visor o limpiar la búsqueda.</p><p><b>Para compartir:</b> copiá la carpeta TGI completa. Si recibís un ZIP, extraelo y abrí <b>index.html</b>. No necesitás OneNote, instalación ni conexión.</p></dialog>
+  <dialog id="app-dialog" aria-labelledby="app-title">
+    <button class="icon-button help-close" id="close-app" aria-label="Cerrar opciones de la app">×</button>
+    <img class="app-icon" src="iconos/tgi.svg" alt="" width="64" height="64">
+    <span class="eyebrow">TU BIBLIOTECA, CON VOS</span>
+    <h2 id="app-title">TGI en tu celular.</h2>
+    <p id="install-description">Agregá TGI a tu pantalla de inicio para abrirla como una app.</p>
+    <button class="primary" id="install-app" hidden>Instalar TGI</button>
+    <div id="install-instructions" class="install-instructions"></div>
+    <section class="offline-section" aria-labelledby="offline-title">
+      <h3 id="offline-title">Estudiá sin conexión</h3>
+      <p id="offline-summary" role="status">Preparando el acceso a resúmenes, preguntas y buscador…</p>
+      <p id="download-description">Descargá también las imágenes y los textos completos. Mantené TGI abierta durante la descarga; podés pausar y continuar después.</p>
+      <progress id="download-progress" max="100" value="0" aria-label="Descarga de la biblioteca" hidden></progress>
+      <p id="download-status" class="download-status" role="status"></p>
+      <div class="download-actions"><button class="primary" id="download-library" disabled>Descargar biblioteca completa</button><button class="quiet" id="cancel-download" hidden>Pausar</button></div>
+      <p class="storage-note">Los guardados y las descargas quedan en este dispositivo. Si borrás los datos del navegador, se eliminan.</p>
+    </section>
+  </dialog>
   <div id="toast" role="status"></div>
   <noscript>Para usar el buscador, habilitá JavaScript. Los apuntes también están en la carpeta «textos».</noscript>
 </body>
